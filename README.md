@@ -6,7 +6,9 @@ A directory of open-source games for Linux, FreeBSD, and other platforms.
 
 ### [OpenXRay](https://github.com/openxray/xray-16)
 
-Difference between the two Github repos?.
+OpenXRay is an improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World.
+
+This is a fan-made project not affiliated with GSC Game World in any way. However, they know about many community projects, including this, and support S.T.A.L.K.E.R. community efforts to make the game better.
 
 **License:** 
 
@@ -566,7 +568,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Abuse](https://github.com/Xenoveritas/abuse)
 
-Abuse
+An SDL2 port of the 1995 action game Abuse, adding fullscreen support, display scaling, and customizable controls.
 
 **License:** Public domain (parts), GPL-2.0 (parts), WTFPL (parts)
 
@@ -2121,7 +2123,7 @@ Work a space-station job while other players maintain, sabotage, and improvise t
 
 ### [TetraForce](https://github.com/loudsmilestudios/TetraForce)
 
-TetraForce
+A top-down action adventure inspired by classic Zelda games, with online multiplayer, item randomization, and mod support.
 
 **License:** MIT
 
@@ -5521,7 +5523,7 @@ Texas Hold&#039;em poker game playable against up to nine computer-opponents or 
 
 ### [PySol Fan Club edition](https://github.com/shlomif/PySolFC)
 
-PySol Fan Club edition
+A cross-platform collection of card solitaire and patience games, with numerous variants and a Python-based desktop interface.
 
 **License:** GPL-3.0
 
@@ -6426,7 +6428,7 @@ A handmade Javascript port of the open-source city simulator Micropolis.
 
 ### [Akhenaten](https://github.com/dalerank/Akhenaten)
 
-Akhenaten
+A community-built engine recreation for Pharaoh (1999) that runs on modern systems; original Pharaoh and Cleopatra game assets are required.
 
 **License:** AGPL-3.0
 
@@ -6776,7 +6778,7 @@ Terminal based C++ programming game
 
 ### [Ikemen GO](https://github.com/ikemen-engine/Ikemen-GO)
 
-Ikemen GO
+A cross-platform fighting-game engine compatible with M.U.G.E.N characters, stages, and other resources, with additional features of its own.
 
 **License:** MIT
 
@@ -8866,7 +8868,7 @@ Main web site is unavailable.
 
 ### [shapez](https://github.com/tobspr-games/shapez-community-edition)
 
-shapez
+The community-maintained edition of shapez, a factory-building game about automating geometric shape production; this fork is built for desktop use.
 
 **License:** GPL-3.0
 
@@ -12566,7 +12568,7 @@ Small running game done as 1 hour challenge.
 
 ### [ReTux](https://github.com/retux-game/retux)
 
-stylized as &quot;reTux&quot; in-game
+A Tux-themed platform game with pipes, enemies, level puzzles, checkpoints, and boss encounters.
 
 **License:** GPL-3.0
 
@@ -13691,7 +13693,7 @@ libGDX game based on the original 1010!
 
 ### [Pingus](https://github.com/Pingus/pingus)
 
-Pingus
+A Lemmings-style puzzle game in which you guide groups of penguins through obstacle-filled levels.
 
 **License:** GPL-3.0
 
@@ -14781,7 +14783,7 @@ Collect every coin in each two-dimensional puzzle level, then reach the exit to 
 
 ### [Connectagram](https://github.com/gottcode/connectagram)
 
-Connectagram
+Unscramble connected words on customizable puzzle boards, using optional hints and word definitions when you get stuck.
 
 **License:** GPL-3.0
 
@@ -14951,7 +14953,7 @@ Rotate and drop falling blocks to clear lines in a compact keyboard-controlled p
 
 ### [Peg-E](https://github.com/gottcode/peg-e)
 
-Peg-E
+A peg-solitaire puzzle game where you jump over pieces to remove them, trying to finish with only one peg on randomly generated boards.
 
 **License:** GPL-3.0
 
@@ -15421,7 +15423,7 @@ A 2048-style puzzle where merged tiles become procedural architectural landmarks
 
 ### [Znax](https://github.com/joyrider3774/Znax)
 
-Znax
+A timed color-matching puzzle game where you connect four same-colored blocks into rectangles to clear pieces and score points.
 
 **License:** MIT
 
@@ -16176,7 +16178,7 @@ With rally style of driving.
 
 ### [Vange-rs](https://github.com/kvark/vange-rs)
 
-Vange-rs
+A Rust-based recreation of Vangers focused on its vehicle gameplay and original visual style with hardware-accelerated graphics; original game data is needed.
 
 **License:** Apache-2.0
 
@@ -16296,7 +16298,7 @@ An open-source 3D racing game built using Panda3D, available on Linux, Windows, 
 
 ### [Cro-Mag Rally](https://github.com/jorio/CroMagRally)
 
-Cro-Mag Rally
+A prehistoric kart racer with unusual vehicles and weapons, computer opponents, and local split-screen modes for up to four players.
 
 **License:** CC-BY-SA-4.0
 
@@ -17401,7 +17403,7 @@ Clone of Dune II. License of artwork?.
 
 ### [Glest](https://github.com/glest/glest-source)
 
-- **Glest** — Open-source fantasy RTS.
+A fantasy real-time strategy game where you gather resources, build armies, and battle rival factions against the computer or online.
 
 **License:** AGPL-3.0
 
@@ -17696,7 +17698,7 @@ Rhythm is just a *click* away!.
 
 ### [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin)
 
-Friday Night Funkin&#039;
+A music rhythm game featuring button-timing battles, animated characters, and original songs, built with HaxeFlixel.
 
 **License:** Apache-2.0
 
@@ -17766,7 +17768,7 @@ Osu! client.
 
 ### [Etterna](https://github.com/etternagame/etterna)
 
-- **Etterna** — Open-source rhythm game.
+A keyboard-focused rhythm game descended from StepMania, featuring in-game multiplayer and an online scoreboard.
 
 **License:** MIT
 
@@ -18081,7 +18083,7 @@ Single-player dungeon exploration game in the universe of JRR Tolkien.
 
 ### [Brogue: Community Edition](https://github.com/tmewett/BrogueCE)
 
-Brogue: Community Edition
+A single-player roguelike about surviving a randomly generated dungeon of monsters, traps, and treasures to retrieve the Amulet of Yendor.
 
 **License:** AGPL-3.0
 
@@ -18826,7 +18828,7 @@ Open source Old School RuneScape (OSRS) client. :flowerplayingcards:.
 
 ### [Space Station 14](https://github.com/space-wizards/space-station-14)
 
-Space Station 14
+A multiplayer space-station sandbox about crew interactions, paranoia, sabotage, and chaos, inspired by Space Station 13.
 
 **License:** MIT
 
@@ -19126,7 +19128,7 @@ Open-source action-RPG engine designed for Zelda-like games.
 
 ### [Barony](https://github.com/TurningWheel/Barony)
 
-Open source release of Barony.
+The open-source release of Barony, a first-person fantasy dungeon crawler; a purchased copy of the game is still required to play.
 
 **License:** MIT
 
@@ -19186,7 +19188,7 @@ Final Fantasy VIII engine implementation in C#.
 
 ### [Minicraft+](https://github.com/MinicraftPlus/minicraft-plus-revived)
 
-Minicraft+
+An expanded Minicraft with survival, creative, hardcore, and score modes, plus crafting, quests, resource packs, and multiplayer.
 
 **License:** GPL-3.0
 
@@ -19526,7 +19528,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [OPMon](https://github.com/OpMonTeam/OpMon)
 
-Open-source monster-collecting RPG project.
+An in-development Pokémon-inspired monster-collecting RPG being rebuilt in Godot; the project is not yet fully playable.
 
 **License:** GPL-3.0
 
@@ -21106,7 +21108,7 @@ Dodge intricate bullet patterns in an original Touhou-inspired shooter built for
 
 ### [Godot Third Person Shooter Demo](https://github.com/godotengine/tps-demo)
 
-Godot Third Person Shooter Demo
+A playable third-person shooter demo for Godot, showcasing movement, aiming, shooting, and high-quality 3D assets and lighting.
 
 **License:** MIT
 
@@ -21386,7 +21388,7 @@ Remake of Ares, a tactical space combat game.
 
 ### [Nanosaur II: Hatchling](https://github.com/jorio/Nanosaur2)
 
-Nanosaur II: Hatchling
+Fly an armed pterodactyl, battle dinosaurs, and rescue eggs in an action adventure with local two-player racing and combat modes.
 
 **License:** CC-BY-NC-SA-4.0
 
@@ -23701,7 +23703,7 @@ Clone of the popular RTS. Play it now!.
 
 ### [OpenCiv3](https://github.com/C7-Game/OpenCiv3)
 
-OpenCiv3
+An early-development Godot remake of Civilization III focused on modern platforms and improved modding; many original mechanics are still unfinished.
 
 **License:** MIT
 
@@ -25806,7 +25808,7 @@ Command configurable armies in Advance Wars-style turn-based battles, with exten
 
 ### [Freeciv21](https://github.com/longturn/freeciv21)
 
-Freeciv21
+A turn-based 4X strategy game about founding cities, growing an economy, and competing with other civilizations in solo or multiplayer games.
 
 **License:** GPL-3.0
 
