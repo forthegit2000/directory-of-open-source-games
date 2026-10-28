@@ -2,7 +2,7 @@
 A directory of open-source games for Linux, FreeBSD, and other platforms.
 
 <details>
-<summary>Action (256)</summary>
+<summary>Action (266)</summary>
 
 ### [OpenXRay](https://github.com/openxray/xray-16)
 
@@ -88,7 +88,7 @@ Inspired by Snake: recruit heroes, fight monsters, collect weapons.
 
 ### [mk.js](https://github.com/mgechev/mk.js)
 
-Game project listed in a public open-source games catalogue.
+Fight another player locally or over a network in a browser-based fighting game.
 
 **License:** MIT
 
@@ -238,7 +238,7 @@ Remake of Duke Nukem 3D. TODO: License conflicts, see https://github.com/fabiens
 
 ### [OpenD2](https://github.com/eezstreet/OpenD2)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+A work-in-progress reimplementation of the Diablo II engine that uses the original game&#039;s files and saves.
 
 **License:** GPL-3.0
 
@@ -468,7 +468,7 @@ Formerly known as EdisonEngine.
 
 ### [OpenBiohazard2](https://github.com/openbiohazard2/openbiohazard2)
 
-Game project listed in a public open-source games catalogue.
+An open-source Resident Evil 2 engine reimplementation that requires the original game data.
 
 **License:** MIT
 
@@ -478,7 +478,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [MafiaUnity](https://github.com/mafiahub/mafiaunity)
 
-Game project listed in a public open-source games catalogue.
+A work-in-progress framework for recreating Mafia: The City of Lost Heaven in Unity.
 
 **License:** Apache-2.0
 
@@ -498,7 +498,7 @@ Liero 1.36. License information at http://www.liero.be/licenses/135/license.txt
 
 ### [Doom64EX](https://github.com/svkaiser/doom64ex)
 
-Game project listed in a public open-source games catalogue.
+A recreation of Doom 64 with additional modding features; it uses data from the original game.
 
 **License:** GPL-2.0
 
@@ -518,7 +518,7 @@ Heretic II (1998, Raven Software) reverse-engineered source port.
 
 ### [DGEngine](https://github.com/dgcor/dgengine)
 
-Game project listed in a public open-source games catalogue.
+A reimplementation of the Diablo engine for running Diablo and related content.
 
 **License:** zlib, GPL-3.0 (depending on the use mode)
 
@@ -528,7 +528,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Hovertank 3D](https://github.com/flatrocksoft/hovertank3d)
 
-Game project listed in a public open-source games catalogue.
+GPL source release for Hovertank 3D, an early first-person tank game.
 
 **License:** GPL-2.0
 
@@ -578,7 +578,7 @@ Tools for using hexagonal grids in GDScript.
 
 ### [openDarkEngine](https://github.com/volca02/opendarkengine)
 
-Game project listed in a public open-source games catalogue.
+An unfinished multiplatform recreation of the Dark Engine, currently able to display levels and objects from its original games.
 
 **License:** GPL-2.0
 
@@ -678,7 +678,7 @@ Run, jump and sword-fight through Prince of Persia levels in a complete replacem
 
 ### [OpenYandere](https://github.com/evilpersonwithnosoul/openyandere)
 
-Game project listed in a public open-source games catalogue.
+An unfinished community rewrite of Yandere Simulator in C#.
 
 **License:** AGPL-3.0
 
@@ -708,7 +708,7 @@ Play Raptor Call of the Shadows through a modern engine, configuring keyboard, m
 
 ### [LastTry](https://github.com/egordorichev/lasttry)
 
-Game project listed in a public open-source games catalogue.
+Explore and build in a work-in-progress Terraria-inspired game.
 
 **License:** MIT
 
@@ -718,7 +718,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Gang Garrison 2](https://github.com/gang-garrison-2/gang-garrison-2)
 
-Game project listed in a public open-source games catalogue.
+Join opposing teams in a side-scrolling, eight-bit-style demake of Team Fortress 2.
 
 **License:** MPL-2.0
 
@@ -808,7 +808,7 @@ Play a Mega Man-inspired game built around an SDL runtime, with an accompanying 
 
 ### [OpenVice](https://github.com/clashbyte/openvice)
 
-Game project listed in a public open-source games catalogue.
+A C# port of Grand Theft Auto: Vice City; the original game&#039;s resources are required.
 
 **License:** ? (GPL for some files)
 
@@ -818,7 +818,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [OpenRaider](https://github.com/xythobuz/openraider)
 
-Game project listed in a public open-source games catalogue.
+An open-source Tomb Raider engine supporting level data from the first three games.
 
 **License:** GPL-2.0
 
@@ -918,7 +918,7 @@ Vector graphics.
 
 ### [OpenDrakan](https://github.com/zalasus/opendrakan)
 
-Game project listed in a public open-source games catalogue.
+A work-in-progress recreation of the engine used by Drakan.
 
 **License:** AGPL-3.0
 
@@ -928,7 +928,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Cattle Bity](https://github.com/dogballs/cattle-bity)
 
-Game project listed in a public open-source games catalogue.
+Defend your base in a browser remake of Battle City, alone or with a second player, with a level editor.
 
 **License:** MIT
 
@@ -948,7 +948,7 @@ Port of MDK (Shiny) to SDL. Includes enhancements.
 
 ### [BOOM: Remake](https://github.com/silverweed/lifish)
 
-Game project listed in a public open-source games catalogue.
+A remake of the arcade game BOOM, maintained for occasional bug fixes.
 
 **License:** Zlib
 
@@ -978,7 +978,7 @@ A three-chapter wuxia action game with sword combat, parries, and bosses.
 
 ### [Battle City](https://github.com/deceth/battle-city)
 
-Game project listed in a public open-source games catalogue.
+Build or join a city and drive a tank to defend it while attacking rival cities in real time online.
 
 **License:** AGPL-3.0
 
@@ -1028,7 +1028,7 @@ Cross-platform, open-source 3D action game.
 
 ### [OpenGTA](https://github.com/madebr/opengta)
 
-Game project listed in a public open-source games catalogue.
+A source mirror of OpenGTA, an open reimplementation of the original Grand Theft Auto.
 
 **License:** 
 
@@ -1068,7 +1068,7 @@ Play Rise of the Triad on Android through a touchscreen source port, installing 
 
 ### [CommandoJS](https://github.com/commandojs/commandojs)
 
-Game project listed in a public open-source games catalogue.
+Fight through a browser-based remake of the Commodore 64 game Commando.
 
 **License:** MIT
 
@@ -1098,7 +1098,7 @@ Play The Catacomb through an SDL replacement for its DOS executable, preserving 
 
 ### [Linwarrior 3D](https://github.com/hackcraft-de/linwarrior)
 
-Game project listed in a public open-source games catalogue.
+Pilot a mech in an open-source 3D combat simulation.
 
 **License:** Apache-2.0
 
@@ -1188,7 +1188,7 @@ Bid for unusual weapon parts, assemble a gun, and fight robot cowboys in Martian
 
 ### [MechCommander 2 Omnitech](https://github.com/echelon9/mechcommander2-open)
 
-Game project listed in a public open-source games catalogue.
+Source for the MechCommander 2 Omnitech project, which aims to make the tactical mech game more moddable.
 
 **License:** MS-PL
 
@@ -1248,7 +1248,7 @@ Battle on platforms in a fighter designed for custom characters and stages.
 
 ### [Grimsonland](https://github.com/brooklynking/grimsonland)
 
-Game project listed in a public open-source games catalogue.
+A project inspired by the top-down survival shooter Crimsonland.
 
 **License:** MIT (https://github.com/BrooklynKing/Grimsonland/blob/master/package.json)
 
@@ -1258,7 +1258,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [cc94](https://github.com/institution/cc94)
 
-Game project listed in a public open-source games catalogue.
+A browser-based remake of Sid Meier&#039;s Colonization that requires the original game&#039;s graphics files.
 
 **License:** AGPL-3.0
 
@@ -1288,7 +1288,7 @@ Source port of the singleplayer of Star Wars Jedi Knight: Jedi Academy.
 
 ### [BlakedAwesomenaughts](https://github.com/zombieman1041/blakedawesomenaughts)
 
-Game project listed in a public open-source games catalogue.
+An unfinished Awesomenauts remake project; the repository currently describes a melonJS boilerplate rather than playable features.
 
 **License:** MIT
 
@@ -1368,7 +1368,7 @@ Control an Arkanoid-like brick-breaking game by moving a visual marker in front 
 
 ### [OpenFire](https://github.com/last-minute-creations/openfire)
 
-Game project listed in a public open-source games catalogue.
+A two-dimensional action game for Amiga computers inspired by Fire Power and Return Fire.
 
 **License:** MIT
 
@@ -1408,7 +1408,7 @@ This is a Halloween based Godot game 🎃. You need to help Rohan the Knight fig
 
 ### [ZEQ2 Lite](https://github.com/zeq2lite/zeq2lite)
 
-Game project listed in a public open-source games catalogue.
+A source project for ZEQ2-Lite, a multiplayer fighting game inspired by Dragon Ball Z.
 
 **License:** GPL-2.0
 
@@ -1428,7 +1428,7 @@ Jump broken paths, slide under gates, and collect coins as the course speeds up.
 
 ### [bratwurst](https://github.com/sabetts/bratwurst)
 
-Game project listed in a public open-source games catalogue.
+A clone of the classic Amiga game Bratwurst; the repository provides little gameplay documentation.
 
 **License:** GPL-2.0
 
@@ -1468,7 +1468,7 @@ Play PaperCraft on an Android phone or tablet in this adaptation of the original
 
 ### [Point & Hit](https://github.com/raatmarien/point-and-hit)
 
-Game project listed in a public open-source games catalogue.
+Tilt an Android device to aim and shoot disappearing targets for a high score.
 
 **License:** AGPL-3.0
 
@@ -1508,7 +1508,7 @@ Survive waves of zombies by collecting weapons, choosing perks, and combining te
 
 ### [shadow-of-the-beast-html5](https://github.com/spleennooname/shadow-of-the-beast-html5)
 
-Game project listed in a public open-source games catalogue.
+A browser demo recreating the scrolling presentation of the Amiga platformer Shadow of the Beast.
 
 **License:** Apache-2.0
 
@@ -1648,7 +1648,7 @@ Join round-based team battles set in the streets of Taipei.
 
 ### [ativayeban](https://github.com/nebuleon/ativayeban)
 
-Game project listed in a public open-source games catalogue.
+Guide a falling ball through gaps in platforms to avoid being crushed at the top of the screen.
 
 **License:** GPL-2.0
 
@@ -1683,6 +1683,16 @@ A Metal Slug-inspired 2D action game built in C++ with SFML — featuring enemy 
 **License:** 
 
 **Stars:** 6
+
+---
+
+### [Bee Kind](https://github.com/picosonic/js13k-2022)
+
+Protect beehives and pollen as a beekeeper bunny, stopping zombie bees and their grubs.
+
+**License:** MIT
+
+**Stars:** 5
 
 ---
 
@@ -1738,7 +1748,7 @@ Aim defensive cannons and launch missiles to intercept incoming attacks before t
 
 ### [sensitive-js](https://github.com/bylexus/sensitive-js)
 
-Game project listed in a public open-source games catalogue.
+A browser remake of the Commodore 64 puzzle game Sensitive.
 
 **License:** 
 
@@ -1748,7 +1758,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Smash](https://github.com/guillaume-gouchon/smash.js)
 
-Game project listed in a public open-source games catalogue.
+Fight with fruit characters in a browser platform brawler for up to eight local players.
 
 **License:** MIT
 
@@ -1758,7 +1768,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Ares Dogfighter](https://github.com/SteveSmith16384/AresDogfighter)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Pilot a spacecraft in a 3D dogfighting simulation; this is an early proof of concept.
 
 **License:** GPL-3.0
 
@@ -1778,7 +1788,7 @@ Knock rivals out of a shrinking platform arena in free-for-all battles for up to
 
 ### [Breakout-VR](https://github.com/marksteelz3/atari-vr---breakout)
 
-Game project listed in a public open-source games catalogue.
+Play a three-dimensional VR version of the brick-breaking arcade game Breakout.
 
 **License:** MIT
 
@@ -1808,7 +1818,7 @@ Jump and shoot through a Turrican-inspired action game in an SDL2-enabled fork w
 
 ### [Jet-Story](https://github.com/adamenkov/jet-story)
 
-Game project listed in a public open-source games catalogue.
+A work-in-progress remake of the ZX Spectrum game Jet-Story.
 
 **License:** MIT
 
@@ -1853,6 +1863,16 @@ Pilot a small spacecraft through a field of rocks in a fast-paced, single-player
 **License:** GPL-2.0
 
 **Stars:** 4
+
+---
+
+### [Bewitched!](https://github.com/eoinmcg/bewitched)
+
+Fly as a witch&#039;s apprentice and attempt to rescue five witches transformed into cats and imprisoned in towers.
+
+**License:** 
+
+**Stars:** 3
 
 ---
 
@@ -1971,6 +1991,26 @@ Bounce a ball off your bat to clear brick formations in a dog-themed Arkanoid-st
 2D action game build with Godot
 
 **License:** GPL-3.0
+
+**Stars:** 2
+
+---
+
+### [Bubble Burst](https://github.com/johnedvard/js13kgames2024)
+
+Guide a bubble through obstacles while avoiding hostile bubbles to reach the goal.
+
+**License:** 
+
+**Stars:** 2
+
+---
+
+### [Darkest Derelict](https://github.com/madmaw/DarkestDerelict)
+
+Explore a derelict spacecraft as a space marine, managing equipment while facing hostile bugs.
+
+**License:** 
 
 **Stars:** 2
 
@@ -2186,6 +2226,16 @@ Hide from and search for other players in an online multiplayer game.
 
 ---
 
+### [Princess of Corinium](https://github.com/picosonic/js13k-2023)
+
+Guide a princess through a plague-stricken town, curing villagers while evading enemies and disease-spreading rats.
+
+**License:** MIT
+
+**Stars:** 1
+
+---
+
 ### [Time remnants - go back in time and fix the timeline](https://github.com/cytrowski/js13k-time-remnants)
 
 Rewind time to create copies of your past movements that attract enemy swarms while you move.
@@ -2276,9 +2326,29 @@ Shoot and jump through enemy territory, carrying rescued hostages back to the ex
 
 ---
 
+### [Blind Fear](https://github.com/ZYXPlay/js13k-2024)
+
+Pilot through danger while the protagonist&#039;s fear of the number thirteen restricts his field of view.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
 ### [Certified Professional](https://github.com/BenjaminWFox/certified-js13k)
 
 Work with a partner to repair a power line while coordinating around electrical surges and aggressive birds.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Death RIPper](https://github.com/Kendrickkwok316/death_RIPper)
+
+Work as Death, banishing the deceased before they become dangerous spectres.
 
 **License:** 
 
@@ -2316,6 +2386,16 @@ Steer Earth through the solar system and fight aliens after they knock the plane
 
 ---
 
+### [Escape From Trece](https://github.com/vemi-games/escape-from-trece)
+
+Escape from the thirteenth floor using the stairs while avoiding giant moths.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Frabjous Monsters](https://github.com/d-jeffery/js13kgames2026)
 
 Dash and charge through two-dimensional boss fights inspired by Lewis Carroll&#039;s characters.
@@ -2329,6 +2409,16 @@ Dash and charge through two-dimensional boss fights inspired by Lewis Carroll&#0
 ### [Game-TopDown-Test](https://github.com/darlysongabriel/game-topdown-test)
 
 A game 2D Top Down test (Basead on assets pixel art)
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Gothicorn](https://github.com/jacktheclown91/Gothicorn)
+
+Defend a gloomy unicorn&#039;s preferred look against colorful relatives whose attacks fill a beauty meter.
 
 **License:** 
 
@@ -2379,6 +2469,16 @@ Stop a caravan from reaching Acre, switching between knights and making twenty a
 ### [Kuro Neko](https://github.com/chewear/kuro-neko)
 
 Protect your owner as a guardian cat by intercepting ghosts in a dark world.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Letchworth Village](https://github.com/elliot-nelson/js13k-2019-letchworth-village)
+
+Fight demons as an immortal hunter wielding a cursed sword in a top-down action game.
 
 **License:** 
 
@@ -2569,7 +2669,7 @@ Protect a powerful void from knights by moving a black hole and fighting as a ma
 </details>
 
 <details>
-<summary>Adventure (153)</summary>
+<summary>Adventure (172)</summary>
 
 ### [A Dark Room](https://github.com/doublespeakgames/adarkroom)
 
@@ -2593,7 +2693,7 @@ Dusklight is a reverse-engineered reimplementation of Twilight Princess.
 
 ### [Ship of Harkinian](https://github.com/harbourmasters/shipwright)
 
-Game project listed in a public open-source games catalogue.
+Play a PC port of The Legend of Zelda: Ocarina of Time using assets from a supported copy of the original game.
 
 **License:** MIT
 
@@ -2943,7 +3043,7 @@ TwinEngine: a Little Big Adventure engine.
 
 ### [Serious Sam Android](https://github.com/aarcangeli/serious-sam-android)
 
-Game project listed in a public open-source games catalogue.
+An Android port of Serious Sam: The Second Encounter that requires the original game&#039;s data files.
 
 **License:** GPL-2.0
 
@@ -3053,7 +3153,7 @@ Open-world action-adventure game
 
 ### [Kroz](https://github.com/tangentforks/kroz)
 
-Game project listed in a public open-source games catalogue.
+Source material for the Kroz series of text-mode arcade adventures.
 
 **License:** GPL-2.0
 
@@ -3063,7 +3163,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [OREGON 77](https://github.com/fortran-gaming/oregon-trail-1975)
 
-Game project listed in a public open-source games catalogue.
+Play the historical 1975 and 1978 Oregon Trail programs using a modern BASIC interpreter.
 
 **License:** MIT
 
@@ -3191,6 +3291,16 @@ A text-based adventure game with cities, jobs, and criminal activities.
 
 ---
 
+### [Castle 🏰 Escape (2023)](https://github.com/xem/js13k23)
+
+Escape from a castle tower in a point-and-click adventure set in the thirteenth century.
+
+**License:** 
+
+**Stars:** 16
+
+---
+
 ### [Feast Night](https://github.com/wololoa/js13k2023)
 
 Explore a short first-person narrative as a monk on a dangerous mission, with multiple endings.
@@ -3223,7 +3333,7 @@ Set in post Soviet environment.
 
 ### [uninvited](https://github.com/davidgriffith/uninvited)
 
-Game project listed in a public open-source games catalogue.
+A reimplementation of the horror adventure game Uninvited in Inform.
 
 **License:** Artistic License-2.0
 
@@ -3293,7 +3403,7 @@ A 2.5D pixel art adventure that lets players explore the Holy Angel University c
 
 ### [star-control2](https://github.com/jjimenezg93/star-control2)
 
-Game project listed in a public open-source games catalogue.
+A game-engine development project remaking the classic space adventure Star Control II.
 
 **License:** MIT
 
@@ -3401,6 +3511,16 @@ Make friends in the woods by talking with neighbors about their interests before
 
 ---
 
+### [Deep13](https://github.com/jagenjo/JS13K2024)
+
+Investigate a strange signal from a submarine deep beneath the Arctic.
+
+**License:** MIT
+
+**Stars:** 4
+
+---
+
 ### [Dungeon\_Adventure](https://github.com/retrofloppy77/dungeon_adventure)
 
 Text adventure (Interactive Fiction) inspired by the classic &quot;Colossal Cave Adventure&quot; of 1976.
@@ -3491,6 +3611,16 @@ Reimplementation of The Elder Scrolls Adventures: Redguard in Rust and Bevy. Ear
 
 ---
 
+### [Labyrinth of Death](https://github.com/addisoncraik/JS13K2022)
+
+Escape a deadly labyrinth by unlocking gates or forging a sword to fight the minotaur.
+
+**License:** 
+
+**Stars:** 3
+
+---
+
 ### [Puppy](https://github.com/Hambo3/Puppy)
 
 Guide a puppy to find help for its owner while avoiding dangerous dogs.
@@ -3508,6 +3638,26 @@ A story-driven 2D action adventure game built with Godot 4.5 featuring combat, q
 **License:** 
 
 **Stars:** 3
+
+---
+
+### [Alone in darkness](https://github.com/jonathan-vallet/js13k-2018)
+
+Use the apps on an offline phone to find a strong signal, send a message and escape a strange place.
+
+**License:** 
+
+**Stars:** 2
+
+---
+
+### [Death's Apprentice](https://github.com/DerBenniBanni/js13k_2022_deaths_apprentice)
+
+Explore Death&#039;s home and collect hidden hourglasses as a new apprentice.
+
+**License:** GPL-3.0
+
+**Stars:** 2
 
 ---
 
@@ -3601,6 +3751,16 @@ Explore a world of disrupted seasons, using fireballs and seasonal powers to rec
 
 ---
 
+### [404 MISSION](https://github.com/ByteDecoder/js13k2020)
+
+Pilot a submarine through underwater facilities and collect cards containing traces of a lost civilization.
+
+**License:** GPL-3.0
+
+**Stars:** 1
+
+---
+
 ### [CatNFish](https://github.com/smhaaker/js13k-cat-repo)
 
 Navigate rooms as a cat, find a fish and escape through a randomly located exit without getting caught.
@@ -3681,6 +3841,16 @@ A 3D game inspired by an old game mode called Murder in Garry&#039;s Mod. This i
 
 ---
 
+### [Get Back From Robot City](https://github.com/KevinEtchells/Get-Back-From-Robot-City)
+
+Explore a city full of hostile robots and search for the stolen teleporter that can take you home.
+
+**License:** 
+
+**Stars:** 1
+
+---
+
 ### [How I Saved the Internet](https://github.com/glevoux/js13k2018)
 
 Help an internet addict find enough connectivity to publish selfies as her remaining bandwidth runs out.
@@ -3743,7 +3913,7 @@ Play an amnesiac robot, talk to townspeople and uncover corrupted mission detail
 
 ### [Sentient Storage](https://github.com/blakeohare/pyweek-sentientstorage)
 
-Game project listed in a public open-source games catalogue.
+Explore an attic of childhood toys and search for pieces of a torn photograph in a point-and-click adventure.
 
 **License:** Public domain
 
@@ -3771,6 +3941,16 @@ Takdang Hiraya is a WIP quiz adventure game that gamifies studying by turning re
 
 ---
 
+### [The Isle-Hop Odyssey](https://github.com/foumart/JS.13kGames.2024_Odyssey)
+
+Sail between islands, conquer forts and loot dungeons while upgrading your ship and crew for a battle on a cursed island.
+
+**License:** MIT
+
+**Stars:** 1
+
+---
+
 ### [Theo's Escape](https://github.com/tricsi/theo)
 
 Help Theo find a way out of a dungeon while avoiding monsters and traps with one-button controls.
@@ -3778,6 +3958,16 @@ Help Theo find a way out of a dungeon while avoiding monsters and traps with one
 **License:** MIT
 
 **Stars:** 1
+
+---
+
+### [A Voiding Your Problems](https://github.com/attilahorvath/catgame)
+
+Help a newly adopted stray kitten make friends by helping the other cats in an apartment building.
+
+**License:** MIT
+
+**Stars:** 0
 
 ---
 
@@ -3811,6 +4001,16 @@ Find your way home after a family holiday in a short exploration game.
 
 ---
 
+### [Back to the Earth](https://github.com/gabboraron/js13K2019)
+
+Explore the Moon and collect materials from old wrecks to help a stranded astronaut return to Earth.
+
+**License:** MPL-2.0
+
+**Stars:** 0
+
+---
+
 ### [Beyond the Rainbow](https://github.com/jaydeep83721-dev/potatogame)
 
 Guide a cursed unicorn through seven worlds to recover the scattered colors of its rainbow power.
@@ -3821,9 +4021,69 @@ Guide a cursed unicorn through seven worlds to recover the scattered colors of i
 
 ---
 
+### [Black Cat Detective Agency](https://github.com/githubschman/js13k-githubschman)
+
+Investigate a client&#039;s report and track down dogs committing crimes as a cat detective.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Boom-Chase](https://github.com/jlbousing/boom-chase)
+
+Follow clues through a New York suburb to locate a terrorist before a bomb detonates.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Cathar](https://github.com/t4khosu/JS13K-2023)
+
+Fight inquisitors and seek to break a cycle of reincarnation in a historical action adventure set in Toulouse.
+
+**License:** Apache-2.0
+
+**Stars:** 0
+
+---
+
 ### [Color Cat](https://github.com/alex-irt/hns)
 
 Explore colorful online lands as a cat, collecting special color blocks and helping other players find their way.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Crafty Cauldron](https://github.com/morph-games/crafty-cauldron)
+
+Collect herbs and craft potions as a witch while avoiding hostile villagers.
+
+**License:** GPL-3.0
+
+**Stars:** 0
+
+---
+
+### [Crystal Blast](https://github.com/jaredyork/crystal-blast)
+
+Explore an unfamiliar planet and collect energy crystals after your spaceship runs out of fuel.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Dengar](https://github.com/Patton97/Dengar)
+
+Run and jump as an alien trying to get back into Area 51 in a reverse endless runner.
 
 **License:** 
 
@@ -3901,11 +4161,31 @@ Spell-binding Wide West game made with godot
 
 ---
 
+### [I've Been Ghosting](https://github.com/lanceewing/ive-been-ghosting)
+
+Play a ghost helping a visitor research death while trying to learn her own identity in a point-and-click adventure.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Iris](https://github.com/Sirius2051/Iris)
 
 Travel through seven levels to reach Samanta, helping a colorless unicorn along the way.
 
 **License:** Apache-2.0
+
+**Stars:** 0
+
+---
+
+### [Kyabetsu](https://github.com/salvan13/kyabetsu-2024)
+
+Explore a point-and-click adventure inspired by classic games such as Monkey Island.
+
+**License:** 
 
 **Stars:** 0
 
@@ -3934,6 +4214,16 @@ Explore an abandoned lair, steal 404 gold worth of loot and escape.
 ### [Lost Tab: The Evil Autoplaying Video Strikes Again](https://github.com/arcadiogarcia/js13k2017)
 
 Search for a noisy autoplaying browser tab through a series of obstacles.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
+### [Matrix Hacker](https://github.com/electronistu/matrix_hacker)
+
+Explore simulated networks with command-line tools, retrieving data and solving problems in a hacking adventure.
 
 **License:** MIT
 
@@ -4104,7 +4394,7 @@ Collect treasure and use portals to navigate an alternate world while evading a 
 </details>
 
 <details>
-<summary>Arcade (363)</summary>
+<summary>Arcade (377)</summary>
 
 ### [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball)
 
@@ -4158,7 +4448,7 @@ Chase pellets through a terminal Pac-Man adaptation while learning Go, with the 
 
 ### [Tiny Wings](https://github.com/haqu/tiny-wings)
 
-Game project listed in a public open-source games catalogue.
+A work-in-progress attempt to recreate the mobile game Tiny Wings.
 
 **License:** MIT
 
@@ -4168,7 +4458,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [HTML5 Pacman](https://github.com/daleharvey/pacman)
 
-Game project listed in a public open-source games catalogue.
+Navigate a maze and avoid ghosts in a browser version of Pac-Man.
 
 **License:** WTFPL
 
@@ -4188,7 +4478,7 @@ BombSquad Engine.
 
 ### [Sonic 3: Angel Island Revisited](https://github.com/eukaryot/sonic3air)
 
-Game project listed in a public open-source games catalogue.
+Play a fan-made remaster of Sonic 3 &amp; Knuckles; the project requires the original game data.
 
 **License:** AGPL-3.0
 
@@ -4258,7 +4548,7 @@ single player, 2 player and network play work, content from omf2097.com
 
 ### [antiyoy](https://github.com/yiotro/antiyoy)
 
-Game project listed in a public open-source games catalogue.
+Expand territory in a turn-based strategy game with random maps and local multiplayer for up to ten players.
 
 **License:** GPL-3.0
 
@@ -4428,7 +4718,7 @@ Minimalist 3D game. Dodging branches may seem easy at first, but how long can yo
 
 ### [Gravity Defied](https://github.com/evgenyzinoviev/gravitydefied)
 
-Game project listed in a public open-source games catalogue.
+Ride through trials in an unofficial Android port of the classic mobile game Gravity Defied.
 
 **License:** GPL-2.0
 
@@ -4488,7 +4778,7 @@ Throw asteroids at people playing an arcade machine in a role reversal of Astero
 
 ### [OpenRoads](https://github.com/anprogrammer/openroads)
 
-Game project listed in a public open-source games catalogue.
+Pilot a craft across obstacle-filled tracks in a browser reimplementation of SkyRoads using the original game data.
 
 **License:** MIT
 
@@ -4518,7 +4808,7 @@ Playable HTML + CSS + JavaScript remake of a space-based &quot;shoot-&#039;em-up
 
 ### [RacerJS](https://github.com/onaluf/racerjs)
 
-Game project listed in a public open-source games catalogue.
+Race through randomly generated courses against the clock in a browser tribute to the Lotus racing games.
 
 **License:** MIT
 
@@ -4573,6 +4863,16 @@ Customize a small spacecraft and battle opposing teams, stealing flags or destro
 **License:** GPL-2.0
 
 **Stars:** 88
+
+---
+
+### [SolarWolf](https://github.com/pygame/solarwolf)
+
+Collect space boxes across 60 arcade levels while dodging bullets, mines and asteroids, racing the timer and grabbing power-ups.
+
+**License:** LGPL-2.1
+
+**Stars:** 79
 
 ---
 
@@ -4638,7 +4938,7 @@ Simple HTML5 game created with Phaser 2.0.7. Play it now!.
 
 ### [Dangerous Dave 2: Modification Edition](https://github.com/harchvertelol/dangerous-dave-2-modification-edition)
 
-Game project listed in a public open-source games catalogue.
+A customizable open-source remake of the platform game Dangerous Dave 2.
 
 **License:** MIT
 
@@ -4698,7 +4998,7 @@ GitHub Game Off 2012 entry. Play it now!.
 
 ### [Dino Run DX](https://github.com/pixeljam/dinorundx)
 
-Game project listed in a public open-source games catalogue.
+Source code for Dino Run DX, an arcade game about a dinosaur fleeing extinction.
 
 **License:** AGPL-3.0
 
@@ -4718,7 +5018,7 @@ Megaman inspired game. Play it now!.
 
 ### [Spelunky Classic HD HTML5](https://github.com/yancharkin/spelunkyclassichdhtml5)
 
-Game project listed in a public open-source games catalogue.
+Play a web version of Spelunky Classic HD, exploring dangerous procedurally generated caves.
 
 **License:** 
 
@@ -4768,7 +5068,7 @@ Keep a bird moving through a Flappy Bird-inspired browser challenge, using a sma
 
 ### [Simple Brick Games](https://github.com/tobiasbielefeld/simple-brick-games)
 
-Game project listed in a public open-source games catalogue.
+Play a collection of Android games inspired by classic multi-game handhelds.
 
 **License:** AGPL-3.0
 
@@ -4948,7 +5248,7 @@ A Tux themed 3D coin pusher game.
 
 ### [Robbo](https://github.com/zibx/robbo)
 
-Game project listed in a public open-source games catalogue.
+Navigate puzzle levels in a browser implementation of the Atari game Robbo.
 
 **License:** AGPL-3.0
 
@@ -4978,7 +5278,7 @@ HTML5 snake game written in CoffeeScript. Play it now!.
 
 ### [Octocat Jump](https://github.com/ogoshen/game-off-2012)
 
-GitHub Game Off 2012 Entry. Play it now!.
+Guide a continuously jumping Octocat up platforms, collecting stars and using forks to teleport higher.
 
 **License:** 
 
@@ -5328,7 +5628,7 @@ Slice seafood before it reaches the Vikings&#039; ship, avoid chopping anchors a
 
 ### [Core Commiter](https://github.com/vladikoff/game-off-2012)
 
-GitHub Game Off 2012 Entry. Play it now!.
+Sort incoming code blocks onto matching branches, shooting mismatched blocks and collecting stars for your project.
 
 **License:** 
 
@@ -5368,7 +5668,7 @@ Arcade game of genre &quot;Luolalentely&quot; (Cave-flying) inspired by V-Wing.
 
 ### [OpenBound](https://github.com/wickedpeanuts/openbound)
 
-Game project listed in a public open-source games catalogue.
+A multiplayer project recreating older PC versions of the turn-based artillery game Gunbound.
 
 **License:** GPL-3.0
 
@@ -5378,7 +5678,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [UnityPacmania](https://github.com/stuart73/unitypacmania)
 
-Game project listed in a public open-source games catalogue.
+Navigate mazes and evade ghosts in a Unity remake of the arcade game Pac-Mania.
 
 **License:** 
 
@@ -5408,7 +5708,7 @@ Stack and jump on falling boxes to stay above rising water.
 
 ### [Mighty Knight](https://github.com/alketii/mighty-knight)
 
-Game project listed in a public open-source games catalogue.
+Run through an endless-runner game in development.
 
 **License:** MIT
 
@@ -5428,7 +5728,7 @@ Oldskool Gravity Game, very difficult lander game in glorious vector graphics.
 
 ### [Recursive Runner](https://github.com/SoupeauCaillou/recursive-runner)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Run through levels in a free runner game available on desktop and mobile platforms.
 
 **License:** GPL-3.0
 
@@ -5478,7 +5778,7 @@ Fly a small bee between bamboo shoots without crashing, in a low-resolution arca
 
 ### [KnightOfWor](https://github.com/sanguinik/knightofwor)
 
-Game project listed in a public open-source games catalogue.
+A Java remake of the Commodore 64 arcade game Wizard of Wor.
 
 **License:** AGPL-3.0
 
@@ -5528,7 +5828,7 @@ Game made in 48 hours for the 2013 Global Game Jam.
 
 ### [Duck Rehunt](https://github.com/serioussam24/duck-rehunt)
 
-Game project listed in a public open-source games catalogue.
+A Duck Hunt-inspired game in which the dog returns with the power to resurrect the ducks.
 
 **License:** GPL-3.0
 
@@ -5538,7 +5838,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Star-Wars-III](https://github.com/abhinandanramesh/star-wars-iii)
 
-Game project listed in a public open-source games catalogue.
+Fly through a recreation of the trench sequence from the classic Star Wars arcade game.
 
 **License:** GPL-2.0
 
@@ -5588,7 +5888,7 @@ Click black and white dots with the correct mouse buttons before a shrinking tim
 
 ### [ladder](https://github.com/mengstr/ladder)
 
-Game project listed in a public open-source games catalogue.
+Climb through platforms in a work-in-progress text-mode remake of the 1982 game Ladder.
 
 **License:** MIT
 
@@ -5608,7 +5908,7 @@ Clear maze pellets while dodging ghosts, collecting shields and spending a limit
 
 ### [Slime Volleyball](https://github.com/highfestiva/life)
 
-Game project listed in a public open-source games catalogue.
+A 3D physics engine focused on vehicles, robots and simulations rather than a standalone game.
 
 **License:** BSD-3-Clause
 
@@ -5658,7 +5958,7 @@ Rotate and thrust a ship while firing at asteroids in an unfinished arcade recre
 
 ### [SnakeIA](https://github.com/eliastik/snakeia)
 
-Game project listed in a public open-source games catalogue.
+Play Snake against computer opponents, try levels or watch AI snakes compete in a battle royale.
 
 **License:** GPL-3.0
 
@@ -5698,7 +5998,7 @@ Intercept an endless barrage of missiles and see how long you can defend against
 
 ### [KungFoo Barracuda](https://github.com/poseidn/KungFoo)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+An arcade game for desktop and Android; the repository provides limited information about its gameplay.
 
 **License:** GPL-3.0
 
@@ -5708,7 +6008,7 @@ Linux-compatible open-source game listed in the Open Source Games List.
 
 ### [Ostrich Riders](https://github.com/dulsi/ostrichriders)
 
-Game project listed in a public open-source games catalogue.
+Ride ostriches into battle and try to survive.
 
 **License:** AGPL-3.0
 
@@ -5796,6 +6096,26 @@ A browser pachinko experiment built around a supplied board image.
 
 ---
 
+### [Hang by a thread](https://github.com/johnedvard/js13kgames2022)
+
+Swing on a rope, cut it and boost upward to reach the goal, collecting hearts along the way.
+
+**License:** 
+
+**Stars:** 7
+
+---
+
+### [Hit the space!](https://github.com/Kimbatt/js13k-2021)
+
+Accelerate through space, reaching habitable planets and checkpoints while avoiding collisions.
+
+**License:** 
+
+**Stars:** 7
+
+---
+
 ### [Ribbit Smash](https://github.com/loktar00/ribbitsmash)
 
 Drive a car to stop frogs from crossing the road in a reversal of Frogger.
@@ -5818,7 +6138,7 @@ Breakout game with mice made for the Godot Engine Jam of March 2016.
 
 ### [back-to-nature-c64-remake](https://github.com/gborp/back-to-nature-c64-remake)
 
-Game project listed in a public open-source games catalogue.
+Help a frog catch enough insects to survive the night in an Android tribute to the 1982 Commodore 64 game.
 
 **License:** MIT
 
@@ -5868,7 +6188,7 @@ Retro Pong-inspired arcade campaign game for browsers, Android, Linux, and Windo
 
 ### [Sea-Wolf](https://github.com/danjp2016/sea-wolf)
 
-Game project listed in a public open-source games catalogue.
+Aim and fire at targets in a remake of the arcade game Sea Wolf.
 
 **License:** MIT
 
@@ -5958,7 +6278,7 @@ An arcade-style videogame (shmup-lite)
 
 ### [Marble Madness 3d](https://github.com/davidcavazos/marble-madness-3d)
 
-Game project listed in a public open-source games catalogue.
+An unfinished 3D remake of Marble Madness; the documented controls are not yet implemented.
 
 **License:** LGPL-2.1
 
@@ -5968,7 +6288,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Monsters and Mushrooms](https://github.com/llopisdon/monsters_and_mushrooms)
 
-Game project listed in a public open-source games catalogue.
+Shoot advancing creatures in a Python remake of the Atari arcade game Millipede.
 
 **License:** GPL-2.0
 
@@ -5996,9 +6316,9 @@ Control an airplane in a top-down view and shoot down enemy planes, helicopters 
 
 ---
 
-### [Breakout — Claude Games](https://github.com/mohi-devhub/claude-games)
+### [Bridge The Gap](https://github.com/softvar/bridge-the-gap)
 
-A terminal brick-breaking game embedded above the coding prompt.
+Time the construction of bridges to cross gaps between buildings.
 
 **License:** MIT
 
@@ -6009,16 +6329,6 @@ A terminal brick-breaking game embedded above the coding prompt.
 ### [CircleTournament](https://github.com/zeralldmc/circletournament)
 
 Game, Music Arcade. In-dev beta stage
-
-**License:** MIT
-
-**Stars:** 3
-
----
-
-### [Dino Runner — Claude Games](https://github.com/mohi-devhub/claude-games)
-
-A terminal obstacle-jumping arcade game.
 
 **License:** MIT
 
@@ -6098,7 +6408,7 @@ Step into a neon-lit digital dungeon with Neon Serpent: Apple Quest — a 2D sna
 
 ### [Nighthawk](https://github.com/brickviking/night-hawk)
 
-Game project listed in a public open-source games catalogue.
+Fight through hordes of robots and clear each level in a tribute to the arcade game Paradroid.
 
 **License:** GPL-2.0
 
@@ -6108,7 +6418,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Physics Spacewar](https://github.com/SteveSmith16384/PhysicsSpaceWar)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Pilot spaceships in a physics-based multiplayer shooting game.
 
 **License:** MIT
 
@@ -6136,9 +6446,19 @@ A Space Invaders- and Galaxian-inspired arcade game with powerups.
 
 ---
 
+### [Skeleton Race](https://github.com/ctrlVnt/skeleton-race)
+
+Survive hordes of skeletons in a casual arcade game inspired by Last War.
+
+**License:** MIT
+
+**Stars:** 3
+
+---
+
 ### [SliSnake](https://github.com/cricri-pingouin/slisnake)
 
-Game project listed in a public open-source games catalogue.
+Guide a growing snake in a clone with configurable speed and playfield size.
 
 **License:** AGPL-3.0
 
@@ -6256,6 +6576,16 @@ Another 3D space game.
 
 ---
 
+### [Ghost Smash](https://github.com/cuongdcdev/near-ghost-smash)
+
+Catch ghosts for points in a whack-a-mole game while coping with spells that darken the screen.
+
+**License:** MIT
+
+**Stars:** 2
+
+---
+
 ### [Jumbit](https://github.com/aymanfarhat/jumbit-js13k)
 
 Keep a small flame moving through a frozen cave, avoiding unstable ice formations.
@@ -6338,7 +6668,7 @@ Run through the woods as a chicken, collecting grain to increase your score whil
 
 ### [Sootl](https://github.com/andybalaam/sootl)
 
-Game project listed in a public open-source games catalogue.
+An unfinished browser experiment intended to become a game about avoiding lights.
 
 **License:** GPL-2.0
 
@@ -6446,6 +6776,16 @@ A 3D online space game using UDP over IPv4.
 
 ---
 
+### [Badluck Butter Chicken Flies The Unfriendly Skies](https://github.com/Antix-Development/badluck_butter_chicken_1)
+
+Guide a chicken through falling hazards, collecting coins and temporary shields and magnets.
+
+**License:** 
+
+**Stars:** 1
+
+---
+
 ### [breakout-python](https://github.com/joao003/breakout-python)
 
 Breakout game made in Python and Pygame by João
@@ -6536,6 +6876,16 @@ Collect dots and fruit through successive maze levels while avoiding ghosts and 
 
 ---
 
+### [Elementary Challenges](https://github.com/Schnark/js13kgames-2020)
+
+Complete four elemental mini-games against a shared time limit.
+
+**License:** 
+
+**Stars:** 1
+
+---
+
 ### [Fat Kids on Trampoline](https://github.com/baturinsky/fat-kids-on-trampoline)
 
 Kick other children off a crowded trampoline without falling off yourself.
@@ -6579,6 +6929,16 @@ Move a green orb around the screen and collect randomly appearing orbs.
 ### [Hum](https://github.com/nandastone/hum-js13k)
 
 Flap a hungry hummingbird between flowers and sip nectar while managing its increasing weight and energy needs.
+
+**License:** 
+
+**Stars:** 1
+
+---
+
+### [Infinite Hunger](https://github.com/jani-nykanen/infinite-hunger)
+
+Keep a black cat fed in an endless action platformer.
 
 **License:** 
 
@@ -6796,6 +7156,16 @@ Compete in multiplayer breakout to capture more blocks than your opponents; lost
 
 ---
 
+### [13th Gate](https://github.com/Mezriss/js13k-2024)
+
+Fly through three-dimensional obstacles and collect speed boosts to reach a closing gate in time.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [AI-Kids-Games](https://github.com/msoyaph/ai-kids-games)
 
 Free, open-source browser games for kids: kart racing, farming, tower defense, space adventures and more. No ads, no subscriptions, no tracking. Every game runs offline from a single HTML file. Fork it, build your own kid-safe game, and list it on aikids.games.
@@ -6846,9 +7216,29 @@ Guide an awkward turtle away from social media interactions while building a sco
 
 ---
 
+### [Back to Bathroom](https://github.com/perdugames/back-to-bathroom)
+
+Catch falling bread to stay alive while avoiding the consequences of eating it in a chaotic bathroom game.
+
+**License:** GPL-3.0
+
+**Stars:** 0
+
+---
+
 ### [Backspace It](https://github.com/erwinandres/backspaceit)
 
 Delete incoming characters with the backspace key and match lucky strings for bonus points.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Ballarena 2013k](https://github.com/Siorki/ballarena_2013k)
+
+Bounce a ball between paddles and break bricks across thirteen circular levels.
 
 **License:** 
 
@@ -6909,6 +7299,16 @@ An arcade game made for the #StopWaitingForGodot jam.
 ### [Bunny](https://github.com/aurium/js13k-bunny)
 
 Flee a forest fire as a bunny, collecting carrots while avoiding birds of prey.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Cadence](https://github.com/JuliaGodny/js13k-unicorn)
+
+Fire a unicorn from a cannon and surf rainbow hills for as long as possible.
 
 **License:** 
 
@@ -7116,6 +7516,16 @@ Dodge falling hazards for as long as possible using left and right movement.
 
 ---
 
+### [Dodgearena](https://github.com/Je0Dev/dodgearena)
+
+Dodge increasingly fast homing enemies and collect coins in a top-down arena, surviving as long as possible with three hits available.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
 ### [Dottie Back to Sun](https://github.com/mcnultyj/JS13k---Dottie)
 
 Guide a lost solar flare through space toward the sun while avoiding dangerous red flares.
@@ -7216,6 +7626,16 @@ A small in-development retro game about a jumping frog.
 
 ---
 
+### [Glitch torpedo](https://github.com/plissken2013es/glitch-torpedo-js13k2016)
+
+Play a multiplayer sea battle in which a ship drops depth charges against underwater opponents.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Glowbugs](https://github.com/eoinmcg/glowbugs)
 
 Collect glowbugs as a unicorn to restore a rainbow and bring color back to a darkened world.
@@ -7301,6 +7721,16 @@ Fly a unicorn through thirteen stages, passing through rings to replenish a dwin
 Steer an offline symbol away from approaching green lines to stay disconnected.
 
 **License:** 
+
+**Stars:** 0
+
+---
+
+### [Keep'em 404](https://github.com/sorskoot/js13kgames_2020)
+
+Defend a web browser against approaching hostile websites and keep its page alive.
+
+**License:** MIT
 
 **Stars:** 0
 
@@ -7739,7 +8169,7 @@ It is a simple retro action arcade game in which you can kill zombies that get o
 </details>
 
 <details>
-<summary>Board / Card (106)</summary>
+<summary>Board / Card (118)</summary>
 
 ### [Lichess](https://github.com/lichess-org/lila)
 
@@ -7983,7 +8413,7 @@ A local PTCG practice and rules-simulation project built with Godot 4.6 and GDSc
 
 ### [OpenTriad](https://github.com/benjaminfoo/opentriad)
 
-Game project listed in a public open-source games catalogue.
+Play an open-source reimplementation of Triple Triad, the card game from Final Fantasy VIII.
 
 **License:** AGPL-3.0
 
@@ -8223,7 +8653,7 @@ Mahjong game.
 
 ### [Boardspace.net](https://github.com/ddyer0/boardspace.net)
 
-Game project listed in a public open-source games catalogue.
+Source and backups for Boardspace.net, with clients and a server for playing board games online.
 
 **License:** GPL-3.0
 
@@ -8263,7 +8693,7 @@ Move shared coloured pieces across a four-by-four grid, respecting adjacency and
 
 ### [Ithaka Board Game](https://github.com/velbazhdsoftwarellc/ithakaboardgame)
 
-Game project listed in a public open-source games catalogue.
+Play a two-player board game on a four-by-four grid using shared pieces in four colors.
 
 **License:** AGPL-3.0
 
@@ -8293,7 +8723,7 @@ Place letters on the board like in crosswords.
 
 ### [Catan Dice Game](https://github.com/bubu/android-dice-game)
 
-Game project listed in a public open-source games catalogue.
+Play a resource-collecting dice game inspired by the Catan Dice Game on Android.
 
 **License:** AGPL-3.0
 
@@ -8391,6 +8821,16 @@ Play a compact two-player board game in the browser, with a documented local bui
 
 ---
 
+### [Brewing Disaster](https://github.com/adrien-gueret/brewing_disaster)
+
+Duel rival wizards using a shared cauldron in a magical contest.
+
+**License:** Apache-2.0
+
+**Stars:** 3
+
+---
+
 ### [hand-foot-game-flutter](https://github.com/bendaspur/hand-foot-game-flutter)
 
 Hand and Foot Card Game
@@ -8451,6 +8891,26 @@ Real-time multiplayer card game for 2-5 players: an Air Force themed Monopoly De
 
 ---
 
+### [Fowl Online](https://github.com/kiwijuice56/fowl-online)
+
+Join three other players for online Rook, bidding and taking tricks in teams to reach the target score.
+
+**License:** MIT
+
+**Stars:** 2
+
+---
+
+### [Geometriko](https://github.com/indies4indies/geometriko)
+
+Play a turn-based game mixing tic-tac-toe and Reversi on a four-by-four grid, solo or in local multiplayer.
+
+**License:** 
+
+**Stars:** 2
+
+---
+
 ### [Max-Capital](https://github.com/numberc/max-capital)
 
 An open source online party game inspired by Fortune Street identifiable by easy mod-ability, stream-lined features, and online play!
@@ -8478,6 +8938,16 @@ Simple card strategy, based on Magic: The Gathering rules.
 **License:** GPL-2.0
 
 **Stars:** 2
+
+---
+
+### [Alquerque](https://github.com/LakshmanKishore/alquerque)
+
+Challenge another player to Alquerque, a historical board game of tactical moves and captures.
+
+**License:** 
+
+**Stars:** 1
 
 ---
 
@@ -8581,11 +9051,61 @@ Draw and buy cards in a game where the first player to reach exactly thirteen cu
 
 ---
 
+### [13 Geese Defending Rome](https://github.com/triplelog/fox-and-geese)
+
+Play a historical fox-and-geese strategy game across a map of medieval trade routes.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [13 The Damned](https://github.com/sdeseille/13-the-damned)
+
+Flip cards to accumulate points in a push-your-luck game where revealing a king ends the round.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [7 Huenicorns](https://github.com/adrien-gueret/7-huenicorns)
+
+Play a colorful unicorn card duel, arranging combinations to complete your rainbow before your opponent.
+
+**License:** Apache-2.0
+
+**Stars:** 0
+
+---
+
+### [Checkmate](https://github.com/ryancat/checkmate)
+
+Play a chess-themed puzzle and strategy game for one or two players.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Dekatria Mansion](https://github.com/aselitto/DekatriaMansion)
 
 Navigate a haunted mansion in a strategic board game, solving puzzles and avoiding the count.
 
 **License:** 
+
+**Stars:** 0
+
+---
+
+### [Dusk](https://github.com/vivianeasley/dusk)
+
+Draft cards against another player or the computer in a game set at the edge of the void.
+
+**License:** MIT
 
 **Stars:** 0
 
@@ -8661,6 +9181,26 @@ Play solitaire Mahjong alone or online with multiplayer lobbies and chat.
 
 ---
 
+### [Mass Crosses](https://github.com/aurium/js13k-2021-mass-crosses-NEAR)
+
+Play a tic-tac-toe variant in which a piece can replace another piece of lower mass.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Millennials](https://github.com/piesku/millennials)
+
+Build a deck and duel parodies of childhood villains using cards and battlegrounds with different effects.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Mor Chess 2](https://github.com/eguneys/morchess2_js13k_25)
 
 Play an abstract variation of chess with a minimalist presentation.
@@ -8704,6 +9244,16 @@ A 3D chess variant in which players can move pieces or slide the tiles beneath t
 ### [see-you-later-alligator](https://github.com/mikolasan/see-you-later-alligator)
 
 Card game about evolution in scientific tamagotchi setting
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
+### [Shadow Checkers](https://github.com/ShadowfetchStudio/shadow-checkers)
+
+Play 3D draughts under English, Russian or Brazilian rules against another player or a computer opponent, with tactics puzzles.
 
 **License:** MIT
 
@@ -8804,7 +9354,7 @@ Turn-based abstract board game built with C++ and SFML, based on &quot;Război �
 </details>
 
 <details>
-<summary>City Building (21)</summary>
+<summary>City Building (22)</summary>
 
 ### [Citybound](https://github.com/citybound/citybound)
 
@@ -9016,10 +9566,20 @@ Build a colony after a spaceship crash, managing supplies and earning money as t
 
 ---
 
+### [Death Estate](https://github.com/jayther/js13k-2022-death)
+
+Lay roads and fit as many houses as possible into limited space in a city for ghosts.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
 </details>
 
 <details>
-<summary>Educational / Programming (39)</summary>
+<summary>Educational / Programming (43)</summary>
 
 ### [WarriorJS](https://github.com/olistic/warriorjs)
 
@@ -9153,7 +9713,7 @@ An interactive educational game built for the Google Gemma 3n Impact Challenge.
 
 ### [thiefcatcher](https://github.com/ponup/thiefcatcher)
 
-Game project listed in a public open-source games catalogue.
+Track a thief around the world in an open-source game inspired by Where in the World Is Carmen Sandiego?.
 
 **License:** AGPL-3.0
 
@@ -9311,6 +9871,16 @@ Answer geography challenges about countries, capitals and landmarks across thirt
 
 ---
 
+### [Slow News Day](https://github.com/Jade-Origami/Slow-News-Day)
+
+Type newspaper headlines quickly in a roguelike typing game inspired by Balatro.
+
+**License:** MIT
+
+**Stars:** 3
+
+---
+
 ### [Thirteens everywhere...](https://github.com/mallo-c/js13k-entry-2024)
 
 Write a program to guide a robot to flags while avoiding the number thirteen.
@@ -9341,6 +9911,16 @@ Corun — a 2D pixel-art coding game. Story campaign + Warden boss fights: write
 
 ---
 
+### [13th Restaurant Rush](https://github.com/LoganPB/js13kgames-typing-idea)
+
+Type quickly to seat restaurant customers while avoiding tables of thirteen.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Arithmetic Hunt](https://github.com/serglider/ArithmeticHunt)
 
 Steer a circle into correct arithmetic expressions while avoiding wrong ones before the timer expires.
@@ -9364,6 +9944,16 @@ Solve arithmetic problems to collect horn pieces and perks before facing a final
 ### [Counting Mind](https://github.com/hex13/counting-mind)
 
 Test equations and click only when their result is not thirteen, gaining or losing points for each decision.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Guess the year](https://github.com/mxlle/2023-13k-century)
+
+Guess years from the thirteenth century using clues about their mathematical properties.
 
 **License:** 
 
@@ -9401,6 +9991,16 @@ Terminal based C++ programming game
 
 ---
 
+### [Terminal Trail](https://github.com/cortexsanj/terminal-trail-game)
+
+Investigate disappearances in a text adventure while practicing real Linux commands through a sequence of terminal challenges.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [You've Bot Mail](https://github.com/garber34/YouveBotMail)
 
 Program a robot dog to navigate routes and retrieve files while guiding its postman to the meeting point.
@@ -9414,7 +10014,7 @@ Program a robot dog to navigate routes and retrieve files while guiding its post
 </details>
 
 <details>
-<summary>Fighting / Beat &#039;em Up (17)</summary>
+<summary>Fighting / Beat &#039;em Up (18)</summary>
 
 ### [Ikemen GO](https://github.com/ikemen-engine/Ikemen-GO)
 
@@ -9576,6 +10176,16 @@ Fighting game to practice Reinforcement learning
 
 ---
 
+### [Duelo](https://github.com/thiagorb/duelo)
+
+Duel as medieval knights in a sword-fighting game combining fast action and positioning.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
 ### [Miami Mice](https://github.com/DerBenniBanni/js13k2025_miami_mice)
 
 Fight through enemies in a beat &#039;em up, using punches, kicks and blocks while managing stamina.
@@ -9589,11 +10199,11 @@ Fight through enemies in a beat &#039;em up, using punches, kicks and blocks whi
 </details>
 
 <details>
-<summary>First-Person Shooter (FPS) (180)</summary>
+<summary>First-Person Shooter (FPS) (181)</summary>
 
 ### [Doom](https://github.com/id-software/doom)
 
-Game or game-related project indexed in a curated GitHub games list.
+Fight demons through the original Doom&#039;s first-person levels; this repository contains the engine source rather than the game data.
 
 **License:** 
 
@@ -9603,7 +10213,7 @@ Game or game-related project indexed in a curated GitHub games list.
 
 ### [Quake III Arena](https://github.com/id-software/quake-iii-arena)
 
-Game or game-related project indexed in a curated GitHub games list.
+Compete in fast arena shooter matches in Quake III Arena; this repository contains the GPL source release.
 
 **License:** GPL-2.0
 
@@ -9623,7 +10233,7 @@ A dark fantasy first-person shooter where you battle ogres, knights, and monster
 
 ### [Doom 3 BFG Edition](https://github.com/id-software/doom-3-bfg)
 
-Game or game-related project indexed in a curated GitHub games list.
+Fight through the horror-themed Doom 3 BFG Edition; this source release requires game data from a separate copy.
 
 **License:** AGPL-3.0
 
@@ -9653,7 +10263,7 @@ A first-person shooter video game created by German demogroup .theprodukkt (a fo
 
 ### [Quake II](https://github.com/id-software/quake-2)
 
-Game or game-related project indexed in a curated GitHub games list.
+Battle alien Strogg in the first-person shooter Quake II; this repository contains the GPL source release.
 
 **License:** 
 
@@ -9763,7 +10373,7 @@ Play Quake with Vulkan rendering, smoother high-frame-rate movement and enhanced
 
 ### [Quake II Rerelease](https://github.com/id-software/quake2-rerelease-dll)
 
-Game project listed in a public open-source games catalogue.
+Game code for the 2023 Quake II rerelease, provided for mod development; the game itself is separate.
 
 **License:** GPL-2.0
 
@@ -9813,7 +10423,7 @@ Enhanced recomp of the original Xbox Halo: Combat Evolved to all Windows, Linux 
 
 ### [QuakeJS](https://github.com/inolen/quakejs)
 
-Game project listed in a public open-source games catalogue.
+A browser port of the ioquake3 engine for playing Quake III Arena.
 
 **License:** MIT
 
@@ -9863,7 +10473,7 @@ Compatible client of Ace of Spades 0.75.
 
 ### [Inexor](https://github.com/inexorgame/vulkan-renderer)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+An early 3D game-engine project developing a Vulkan renderer; it does not present a standalone game.
 
 **License:** zlib
 
@@ -10033,7 +10643,7 @@ Fully compatible client and server for the online FPS game Wolfenstein: Enemy Te
 
 ### [WebQuake](https://github.com/triang3l/webquake)
 
-Game project listed in a public open-source games catalogue.
+Play Quake through an HTML5 and WebGL source port.
 
 **License:** GPL-2.0
 
@@ -10293,7 +10903,7 @@ Fight arena deathmatches, capture flags and play other team modes in a standalon
 
 ### [JediOutcastLinux](https://github.com/xlava/jedioutcastlinux)
 
-Game project listed in a public open-source games catalogue.
+Play Jedi Knight II: Jedi Outcast&#039;s single-player campaign through a Linux port that requires the original game files.
 
 **License:** GPL-2.0
 
@@ -10373,7 +10983,7 @@ Run the classic Serious Sam game executable and its game logic through a communi
 
 ### [Powerslave EX](https://github.com/svkaiser/PowerslaveEX)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+An unofficial recreation of the PlayStation version of PowerSlave, a first-person shooter set in ancient Egypt.
 
 **License:** GPL-3.0
 
@@ -10433,7 +11043,7 @@ AssaultCube Reloaded (first-person-shooter game)
 
 ### [Strife: Veteran Edition](https://github.com/svkaiser/strife-ve)
 
-Game project listed in a public open-source games catalogue.
+GPL source code for Strife: Veteran Edition; the game data is distributed separately.
 
 **License:** GPL-2.0
 
@@ -10483,7 +11093,7 @@ Play a Lovecraftian fantasy shooter using a complete replacement Heretic resourc
 
 ### [Gorc](https://github.com/jdmclark/gorc)
 
-Game project listed in a public open-source games catalogue.
+An early engine recreation intended to run the original single-player and multiplayer levels of Jedi Knight: Dark Forces II.
 
 **License:** Apache-2.0
 
@@ -10588,6 +11198,16 @@ QuakeForge is descended from the original Quake engine as released by Id Softwar
 **License:** GPL-2.0
 
 **Stars:** 72
+
+---
+
+### [Anarch](https://github.com/szymor/anarch)
+
+Explore levels and fight robots in a compact, old-school first-person shooter inspired by Doom.
+
+**License:** CC0-1.0
+
+**Stars:** 63
 
 ---
 
@@ -11093,7 +11713,7 @@ An engine replacement for Dark Salvation.
 
 ### [Sole Collector](https://github.com/SteveSmith16384/3DHorrorGame)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Search a graveyard for small boxes while avoiding roaming monsters, including some that move only when watched.
 
 **License:** MIT
 
@@ -11123,7 +11743,7 @@ A 3D Godot DeathMatch game with modes and maps for TDM, FFA, GunGame, and more. 
 
 ### [Killer Crates](https://github.com/SteveSmith16384/KillerCrates)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Hide among crates and shoot other players in a split-screen stealth shooter for up to four people.
 
 **License:** MIT
 
@@ -11193,7 +11813,7 @@ IONFALL: a free, open-source sci-fi arena FPS made with Godot 4. Play in your br
 
 ### [Moonbase Assault](https://github.com/SteveSmith16384/MoonbaseAssault)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Attack or defend a moonbase in a multiplayer shooter: attackers try to destroy its computers before time runs out.
 
 **License:** MIT
 
@@ -11394,7 +12014,7 @@ Tremulous in your browser: aliens vs humans FPS with bots, on PC, tablet and pho
 </details>
 
 <details>
-<summary>Horror (13)</summary>
+<summary>Horror (18)</summary>
 
 ### [Amnesia: A Machine for Pigs](https://github.com/FrictionalGames/AmnesiaAMachineForPigs)
 
@@ -11426,9 +12046,29 @@ First-person 3D horror exploration game built with Godot 4.5. Explore an abandon
 
 ---
 
+### [13th Floor](https://github.com/roblouie/js13k-2024)
+
+Sneak through the rooms of a party on the thirteenth floor, staying in the shadows to avoid danger.
+
+**License:** MIT
+
+**Stars:** 11
+
+---
+
 ### [BloodForest](https://github.com/alexvalder/bloodforest)
 
 Horror game with reverse horror elements with retro aesthetics
+
+**License:** 
+
+**Stars:** 4
+
+---
+
+### [NULLSPACE](https://github.com/marius4lui/NULLSPACE)
+
+Search a dim, unfamiliar building for the switches needed to escape while a creature follows sounds and gunfire can reveal your position; the game is in development.
 
 **License:** 
 
@@ -11466,6 +12106,16 @@ A minigame for @modcommunity&#039;s Dot collection and gaming platform. In this 
 
 ---
 
+### [Radio Host](https://github.com/ndiuky/ludum-dare-60)
+
+Explore an abandoned laboratory, tuning a radio and investigating records to uncover a story about lost memories and family.
+
+**License:** 
+
+**Stars:** 2
+
+---
+
 ### [Are You Lost?](https://github.com/Madisonw/js13k_dungeon)
 
 Outrun and outsmart a pursuing creature in a survival horror game.
@@ -11491,6 +12141,16 @@ A horror game demo
 A Horror Game Made with Godot
 
 **License:** GPL-3.0
+
+**Stars:** 1
+
+---
+
+### [ShadowManor 3D](https://github.com/JungCyx/ShadowManor)
+
+Explore a haunted mansion in first person, avoid zombies and search chests for the keys needed to escape.
+
+**License:** 
 
 **Stars:** 1
 
@@ -11526,10 +12186,20 @@ Escape a dark, maze-like laboratory while a rogue security drone pursues you; lo
 
 ---
 
+### [Lights Back On](https://github.com/amolinasalazar/LightsBackOn)
+
+Search for a fuse box during a blackout while navigating in the dark.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 </details>
 
 <details>
-<summary>Idle / Incremental (10)</summary>
+<summary>Idle / Incremental (11)</summary>
 
 ### [Particle Clicker](https://github.com/particle-clicker/particle-clicker)
 
@@ -11591,6 +12261,16 @@ Feed and pet working cats as they collect money, upgrading their speed and carry
 
 ---
 
+### [Clicker Pawry](https://github.com/Nihdao/clicker-pawry)
+
+Click your way through boss fights in a small clicker game with roguelite elements.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [deglitcher13k](https://github.com/dustinpfister/deglitcher13k)
 
 Click to fix waves of glitches, eventually using workers to help keep them under control.
@@ -11634,7 +12314,7 @@ Fight spirits as a hunter in an idle shooter set around the suburbs.
 </details>
 
 <details>
-<summary>Management / Tycoon (31)</summary>
+<summary>Management / Tycoon (38)</summary>
 
 ### [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)
 
@@ -11758,7 +12438,7 @@ A Unity industrial automation game with production systems and a client-server a
 
 ### [Goblin Camp](https://github.com/y2s82/goblin_camp)
 
-Game project listed in a public open-source games catalogue.
+A development fork of Goblin Camp, a settlement-management game inspired by Dwarf Fortress.
 
 **License:** AGPL-3.0
 
@@ -11806,6 +12486,16 @@ Run a sushi kitchen by hiring workers, buying machines and arranging production 
 
 ---
 
+### [Galactic Communications inc.](https://github.com/baturinsky/galcom)
+
+Run an interstellar internet provider, connecting star systems and earning money from data traffic.
+
+**License:** MIT
+
+**Stars:** 2
+
+---
+
 ### [Hell Inc.](https://github.com/dosaki/hell-inc)
 
 Manage a hell pit by welcoming souls, building torture devices and paying workers to keep the operation running.
@@ -11846,6 +12536,16 @@ Manage a busy office over 404 days, cleaning up and finding space for new employ
 
 ---
 
+### [Overforged](https://github.com/Krol22/Overforged)
+
+Manage a medieval forge, craft weapons and tools, and balance resources and customers to keep the local lord satisfied.
+
+**License:** 
+
+**Stars:** 2
+
+---
+
 ### [ProjectSigma](https://github.com/kasper-bankler/projectsigma)
 
 A green energy themed tycoon game made with Godot v4.2.1
@@ -11856,6 +12556,26 @@ A green energy themed tycoon game made with Godot v4.2.1
 
 ---
 
+### [Bring your customers back online!](https://github.com/gheja/offline13k)
+
+Run a small internet service provider and reconnect customers who have lost their connections.
+
+**License:** 
+
+**Stars:** 1
+
+---
+
+### [Laundry In Debt](https://github.com/kucingkode/laundry-in-debt)
+
+Run a laundromat while coping with recurring bills that arrive every day at 13:00.
+
+**License:** MIT
+
+**Stars:** 1
+
+---
+
 ### [Lost Luggage](https://github.com/jakubsikora/js13kGame)
 
 Manage luggage at a busy airport as increasing numbers of passengers arrive.
@@ -11863,6 +12583,16 @@ Manage luggage at a busy airport as increasing numbers of passengers arrive.
 **License:** MIT
 
 **Stars:** 1
+
+---
+
+### [Black Cat's Herbs & Brews](https://github.com/dosaki/black-cats-herbs-and-brews)
+
+Brew and sell potions to pay rent, upgrade a village shop and feed your cat familiar.
+
+**License:** 
+
+**Stars:** 0
 
 ---
 
@@ -11879,6 +12609,16 @@ Build a network of servers, routers and power supplies to handle increasing traf
 ### [Highrise](https://github.com/dbrudner/highrise)
 
 Build and manage a tower of offices, homes, hotels and shops, keeping elevators and tenants moving efficiently.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [In To Net Cafe](https://github.com/tyler6699/js13k2020)
+
+Build an internet cafe and shoot data to waiting customers, buying servers, turrets and upgrades with your earnings.
 
 **License:** 
 
@@ -11946,10 +12686,20 @@ Control traffic lights to keep cars moving and drivers from becoming too frustra
 
 ---
 
+### [Unicorns Off My Lawn](https://github.com/michelts/off-my-garden)
+
+Harvest a rainbow garden and herd away trampling unicorns, buying tools to protect flowers and complete a rainbow.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
 </details>
 
 <details>
-<summary>Metroidvania (11)</summary>
+<summary>Metroidvania (12)</summary>
 
 ### [godot-platformer-2d](https://github.com/gdquest-demos/godot-platformer-2d)
 
@@ -12051,6 +12801,16 @@ Explore a tiny metroidvania as a robot, collecting abilities to restore movement
 
 ---
 
+### [Basement Cat Ascends](https://github.com/hakan-einarsson/basementcatascends)
+
+Climb from the basement to the attic as a black cat, gaining abilities as you explore the house.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Unicorn Escape](https://github.com/BinaryMoon/unicorn-escape)
 
 Explore a cave as a unicorn, recovering colors to unlock abilities and create temporary rainbow platforms.
@@ -12128,7 +12888,7 @@ Ryzom Core contains the whole code (client, server, tools) used to make the comm
 
 ### [BrowserQuest](https://github.com/browserquest/browserquest)
 
-Game project listed in a public open-source games catalogue.
+Explore a browser-based multiplayer world in a community continuation of Mozilla&#039;s BrowserQuest.
 
 **License:** MPL-2.0
 
@@ -12248,7 +13008,7 @@ Explore towns and dungeons, develop a character and fight with weapons and spell
 
 ### [Illarion](https://github.com/illarion-ev/illarion-server)
 
-Game project listed in a public open-source games catalogue.
+Server software for Illarion, an online fantasy role-playing game.
 
 **License:** AGPL-3.0
 
@@ -12258,7 +13018,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Atrinik](https://github.com/atrinik/atrinik)
 
-Game project listed in a public open-source games catalogue.
+A development workspace coordinating the repositories and components of the Atrinik multiplayer RPG.
 
 **License:** MIT
 
@@ -12288,7 +13048,7 @@ Mainly a client to connect to Eternal Lands?.
 
 ### [Land of Fire](https://github.com/landoffire/lof-tmwa-server-data)
 
-Game project listed in a public open-source games catalogue.
+Server configuration and world data for a multiplayer online role-playing game; this repository is intended for running a server rather than playing on its own.
 
 **License:** GPL-2.0
 
@@ -12313,7 +13073,7 @@ Find the Moment. A bible-based MMO game created using Godot and ECS patterns
 
 ### [XL Engine](https://github.com/mindwerks/xlengine)
 
-Game project listed in a public open-source games catalogue.
+A work-in-progress engine for running classic games including Dark Forces and Daggerfall.
 
 **License:** MIT
 
@@ -12413,7 +13173,7 @@ A C# based game made with UNITY3D, Ball Fall is an addictive catch game. Keep yo
 
 ### [OpenGGS](https://github.com/bugix/openggs)
 
-Game project listed in a public open-source games catalogue.
+Run through a remake of The Great Giana Sisters; its second version adds improved physics and a level editor.
 
 **License:** GPL-2.0
 
@@ -12453,7 +13213,7 @@ A TypeScript 2D physics game.
 
 ### [Lose Your Marbles](https://github.com/eguneys/lose-your-marbles)
 
-Game project listed in a public open-source games catalogue.
+Match colored marbles in a browser remake of the 1995 Sega game Lose Your Marbles.
 
 **License:** MIT
 
@@ -12513,7 +13273,7 @@ Fun little example game where you chase and rescue little pigs.
 
 ### [gta2net](https://github.com/peon501/gta2.net)
 
-Game project listed in a public open-source games catalogue.
+A MonoGame port of GTA2.NET, a project based on Grand Theft Auto 2.
 
 **License:** MIT
 
@@ -12613,7 +13373,7 @@ Explore the ant world. Made with Godot.
 
 ### [movbizz](https://github.com/teruk/movbizz)
 
-Game project listed in a public open-source games catalogue.
+Choose actors, directors and locations, then promote films in a text-based remake of Movie Business.
 
 **License:** MIT
 
@@ -12643,7 +13403,7 @@ A random 2D game created by Unity (Look like they call it headball)
 
 ### [re-private-eye](https://github.com/neuromancer/re-private-eye)
 
-Game project listed in a public open-source games catalogue.
+A Python engine reimplementation of the 1996 adventure game Private Eye; development has moved to ScummVM.
 
 **License:** BSD-2-Clause
 
@@ -12823,7 +13583,7 @@ Global Game Jam 2023 submission
 
 ### [Gorillas-rs](https://github.com/nodef0/gorillas-rs)
 
-Game project listed in a public open-source games catalogue.
+Take turns aiming shots between gorillas perched on rooftops, accounting for wind and blasting through buildings to hit your opponent.
 
 **License:** MIT
 
@@ -12883,7 +13643,7 @@ Game made for Slavic Game Jam 2018
 
 ### [Train](https://github.com/nenadalm/train)
 
-Game project listed in a public open-source games catalogue.
+A work-in-progress remake of the DOS game Vlak.
 
 **License:** 3-clause BSD
 
@@ -13143,7 +13903,7 @@ A simple mobile game made with Godot4
 
 ### [parkour-game](https://github.com/dragon-fish/parkour-game)
 
-Public game repository indexed under GitHub game topics.
+Experiment with running, wall-running, vaulting and other movement in a first-person parkour prototype inspired by Mirror&#039;s Edge.
 
 **License:** AGPL-3.0
 
@@ -13183,7 +13943,7 @@ Console, text game
 
 ### [SliLumns](https://github.com/cricri-pingouin/slilumns)
 
-Game project listed in a public open-source games catalogue.
+Match falling colored pieces in a configurable Columns clone.
 
 **License:** AGPL-3.0
 
@@ -13363,7 +14123,7 @@ a simple terminal-based number sorting game
 
 ### [Blobwars: Metal Blob Solid](https://github.com/ossgames/game-sdl-action-blobwars_metal_blob_solid)
 
-Game project listed in a public open-source games catalogue.
+Infiltrate enemy bases as Blob agent Bob, fighting aliens and rescuing missing allies in a 2D platform game.
 
 **License:** GPL-2.0
 
@@ -13373,7 +14133,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Bos Wars](https://github.com/onesleepydev/boswars_osd)
 
-Game project listed in a public open-source games catalogue.
+A test import of the Bos Wars real-time strategy game&#039;s source repository.
 
 **License:** GPL-2.0
 
@@ -13573,7 +14333,7 @@ nada por enquanto
 
 ### [Garith](https://github.com/wavexx/garith)
 
-Game project listed in a public open-source games catalogue.
+Practice arithmetic in a game whose development has moved to GitLab.
 
 **License:** GPL-2.0
 
@@ -13793,7 +14553,7 @@ MafiaCity is a 2D game developed using Godot 4 as part of a 4th-year engineering
 
 ### [markov-game](https://github.com/nikibobi/markov-game)
 
-Public game repository indexed under GitHub game topics.
+A Godot project for working with Markov decision-process graphs; the repository does not document a playable game.
 
 **License:** MIT
 
@@ -14213,7 +14973,7 @@ My first 2D game created while learning Godot Engine and GDScript.
 
 ### [forest-survival-multiplayer](https://github.com/salem404/forest-survival-multiplayer)
 
-Public game repository indexed under GitHub game topics.
+A Godot multiplayer forest survival project with LAN or Steam connectivity.
 
 **License:** 
 
@@ -14353,7 +15113,7 @@ A attempt at a video game...
 
 ### [itsy-bitsy](https://github.com/jngo102/itsy-bitsy)
 
-Entry to The Very Serious Juniper Dev Game Jam.
+Guide a four-legged climber toward a mountain summit in a short puzzle platformer.
 
 **License:** AGPL-3.0
 
@@ -14834,7 +15594,7 @@ Source code for the game &quot;Zombie Maraud&quot; by XieneDev
 </details>
 
 <details>
-<summary>Platformer (213)</summary>
+<summary>Platformer (226)</summary>
 
 ### [Super Mario 64 decompilation](https://github.com/n64decomp/sm64)
 
@@ -14978,7 +15738,7 @@ A Mario fan game written in C++ and SDL2 by Łukasz Jakowski.
 
 ### [Mari0](https://github.com/Stabyourself/mari0)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Run and jump through Mario-style levels while using a portal gun to move through the environment.
 
 **License:** MIT
 
@@ -15008,7 +15768,7 @@ Run and jump through colorful side-scrolling levels, collecting gems and blastin
 
 ### [Sonic Robo Blast 2](https://github.com/STJr/SRB2)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Run through three-dimensional Sonic-style levels in a fan game built on a modified Doom Legacy engine.
 
 **License:** GPL-2.0
 
@@ -15083,6 +15843,16 @@ Play Jazz Jackrabbit through a portable replacement engine that keeps the origin
 **License:** GPL-2.0
 
 **Stars:** 417
+
+---
+
+### [Ninja vs EVILCORP](https://github.com/remvst/ninja)
+
+Sneak and speedrun through a tower as a ninja, finding alternate routes and hacking computers without being spotted.
+
+**License:** 
+
+**Stars:** 389
 
 ---
 
@@ -15298,7 +16068,7 @@ Rescue Edgar&#039;s missing father in a platform adventure with a persistent wor
 
 ### [ReflectionHLE](https://github.com/reflectionhle/reflectionhle)
 
-Game project listed in a public open-source games catalogue.
+A collection of faithful source ports for DOS games including Keen Dreams, the Catacomb series, Wolfenstein 3D and Bio Menace.
 
 **License:** GPL-2.0 (and others)
 
@@ -15458,7 +16228,7 @@ Run and jump through a penguin platforming adventure that remakes SuperTux Miles
 
 ### [Cosmo-Engine](https://github.com/yuv422/cosmo-engine)
 
-Game project listed in a public open-source games catalogue.
+A modern engine for Cosmo&#039;s Cosmic Adventure; a copy of the original game is required.
 
 **License:** GPL-2.0
 
@@ -15478,7 +16248,7 @@ Reverse gravity instead of jumping in a compact browser platformer, avoiding spi
 
 ### [REminiscence / REinforced](https://github.com/chermenin/reminiscence)
 
-Game project listed in a public open-source games catalogue.
+An engine reimplementation for the cinematic platformer Flashback.
 
 **License:** AGPL-3.0
 
@@ -15516,9 +16286,19 @@ Fight monsters and solve lever-and-inventory puzzles in a Java remake of Gods, w
 
 ---
 
+### [Knight Dreams](https://github.com/jani-nykanen/knight-dreams)
+
+Run through an endless medieval-themed arcade platformer as a knight.
+
+**License:** 
+
+**Stars:** 51
+
+---
+
 ### [Wario-Land-3](https://github.com/nearoo/wario-land-3)
 
-Game project listed in a public open-source games catalogue.
+Run and explore in a Pygame remake of the Game Boy Color game Wario Land 3.
 
 **License:** MIT
 
@@ -15548,7 +16328,7 @@ Many different repositories on Github with different licenses.
 
 ### [XEvil](https://github.com/lvella/xevil)
 
-Game project listed in a public open-source games catalogue.
+Fight computer-controlled enemies or another player in a fast side-view action game set in Hell.
 
 **License:** GPL-2.0
 
@@ -15768,7 +16548,7 @@ Guide Plee through platforming story levels to find his kidnapped son, with four
 
 ### [Simple Platformer](https://github.com/SteveSmith16384/SimplePlatformer)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Compete in a local multiplayer platformer, avoiding the bottom of the screen and trying to finish with the highest score.
 
 **License:** MIT
 
@@ -15818,7 +16598,7 @@ Hardcore oldschool platformer on INSTEAD.
 
 ### [Smash Battle](https://github.com/DemonTPx/smashbattle)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Battle other players in an eight-bit-style multiplayer platform shooter.
 
 **License:** GPL-2.0
 
@@ -16116,6 +16896,16 @@ Carry files to an upload node while jumping across platforms and fighting a DDoS
 
 ---
 
+### [BlackCat\_Hacker](https://github.com/Beanminchild/BlackCat_Hacker)
+
+Sneak a cat hacker to a computer without letting her owner catch her in this stealth platformer.
+
+**License:** MIT
+
+**Stars:** 2
+
+---
+
 ### [Boing Kat](https://github.com/makeclassicgames/BoingKat)
 
 Guide a jumping cat and its duck friend through three platforming levels filled with spikes.
@@ -16178,7 +16968,7 @@ Jump across floating platforms to collect coins while avoiding spikes and an int
 
 ### [ld51](https://github.com/95jonpet/ld51)
 
-A small platformer game made in 48 hours for Ludum Dare 51.
+Shoot and descend through randomly generated platforming levels while your weapon changes every ten seconds.
 
 **License:** 
 
@@ -16208,7 +16998,7 @@ Navigate unseen levels by revealing your surroundings briefly with echolocation,
 
 ### [Nodes-of-Yesod](https://github.com/ian-wigley/nodes-of-yesod)
 
-Game project listed in a public open-source games catalogue.
+An incomplete and buggy C# remake of the platform game Nodes of Yesod.
 
 **License:** MIT
 
@@ -16296,6 +17086,16 @@ Explore 3D levels, collect coins and defeat enemies while avoiding hazards.
 
 ---
 
+### [And then it was gone](https://github.com/sebadorn/js13k-2020-404)
+
+Jump across two levels where touched ground crumbles behind you, using sturdy pillars as safe footholds.
+
+**License:** MIT
+
+**Stars:** 1
+
+---
+
 ### [BACKSIDE](https://github.com/bos13k/backside)
 
 Jump and flip through levels, collecting keys and changing sides to get past obstacles.
@@ -16308,7 +17108,7 @@ Jump and flip through levels, collecting keys and changing sides to get past obs
 
 ### [BETRUNNER](https://github.com/6ajmon/betrunner)
 
-Fast-paced 3D Platformer made in Godot Engine 4 as an entry for GMTK Game Jam 2026
+Run first-person parkour courses, betting time from a shared pool before each level and losing extra time if you overrun.
 
 **License:** 
 
@@ -16426,11 +17226,31 @@ Guide a wizard whose movement abilities change whenever he is hit through a glit
 
 ---
 
+### [King LongLegs](https://github.com/thcopeland/js13k-kinglonglegs)
+
+Travel through tunnels and caverns in a challenging platformer set in a bleak world.
+
+**License:** 
+
+**Stars:** 1
+
+---
+
 ### [Knight Jump](https://github.com/sygism/Knight-Jump)
 
 Climb toward the top of a short platforming course as a jumping knight.
 
 **License:** 
+
+**Stars:** 1
+
+---
+
+### [Mochi and the midnight escape](https://github.com/picosonic/js13k-2025)
+
+Help a black cat escape guarded areas, operating electrical switches and avoiding water, spikes and drones.
+
+**License:** MIT
 
 **Stars:** 1
 
@@ -16566,6 +17386,16 @@ Simple sci-fi platformer inspired by Blublub&#039;s &quot;Virus Invasion&quot;.
 
 ---
 
+### [Alley Kitty](https://github.com/gheja/js13k2025)
+
+Guide a cat through rooms, jumping through windows and distracting a cleaning broom with footprints.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Anti-Paradox Run](https://github.com/fatfisz/aprun)
 
 Run through backwards-flowing time, catching your own bullets and avoiding enemy fire and gaps to prevent paradoxes.
@@ -16646,6 +17476,26 @@ Jump and double-jump through a backwards-running endless platformer controlled w
 
 ---
 
+### [Edgar's Mission](https://github.com/Schnark/js13kgames-2025)
+
+Help a black cat find his kidnapped owner in a platformer where control changes with how firmly you touch the ground.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [F1NAL L3VEL](https://github.com/leereilly/F1NAL-L3VEL)
+
+Double-jump a GitHub contribution square over unicorn horns in an endless survival run.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
 ### [Feathers Not Found](https://github.com/polluterofminds/feathers-not-found)
 
 Guide a flightless duck through five levels, eating bugs and collecting feathers to reunite with its family.
@@ -16661,6 +17511,16 @@ Guide a flightless duck through five levels, eating bugs and collecting feathers
 The HTML5 export of a 2D platformer made in Godot, and inspired by an old game called Bonkheads.
 
 **License:** GPL-3.0
+
+**Stars:** 0
+
+---
+
+### [Giant Leap](https://github.com/WMAR-9/Giant-Leap)
+
+Navigate space with limited oxygen, avoid meteoroids and attempt to land on the moon.
+
+**License:** 
 
 **Stars:** 0
 
@@ -16766,11 +17626,41 @@ Climb floating platforms as a unicorn, collecting points and avoiding hazards to
 
 ---
 
+### [Miss Fortune](https://github.com/d-jeffery/js13k2025)
+
+Climb an apartment building as a locked-out cat, dodging angry tenants and using nine lives to reach the penthouse or climb endlessly.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [NILO](https://github.com/rojen11/Nilo)
 
 Navigate levels inside a virtual web browser, refreshing the page to make platforms disappear temporarily.
 
 **License:** MIT
+
+**Stars:** 0
+
+---
+
+### [Ninja Take Back](https://github.com/rwinright/js13krepo-Ninja-Take-Back)
+
+Take turns placing platforms, traps and weapons, then compete on one keyboard in a two-player ninja game.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Offlab](https://github.com/serpent7776/js13k-2018-offlab)
+
+Escape a laboratory across ten floors by switching power on and off to control lasers and moving platforms.
+
+**License:** 
 
 **Stars:** 0
 
@@ -16969,7 +17859,7 @@ Wizz In Dungeons is a 2D Platformer where you play as a wizard collecting bottle
 </details>
 
 <details>
-<summary>Puzzle (378)</summary>
+<summary>Puzzle (419)</summary>
 
 ### [2048](https://github.com/gabrielecirulli/2048)
 
@@ -17053,7 +17943,7 @@ Fit falling tetrominoes in a configurable browser Tetris game that can also run 
 
 ### [minesweeper-rs](https://github.com/robmikh/minesweeper-rs)
 
-Game project listed in a public open-source games catalogue.
+A Windows-specific Rust port of Minesweeper using the Windows API.
 
 **License:** MIT
 
@@ -17153,7 +18043,7 @@ Tackle a collection of falling-block challenges or compete with other players ov
 
 ### [canvas-tetris](https://github.com/dionyziz/canvas-tetris)
 
-Game project listed in a public open-source games catalogue.
+Arrange falling tetrominoes to clear rows in a simple browser Tetris game.
 
 **License:** MIT
 
@@ -17223,7 +18113,7 @@ Fit falling blocks while an adversarial algorithm deliberately chooses the least
 
 ### [OpenSupaplex](https://github.com/sergiou87/open-supaplex)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+A reimplementation of Supaplex, the puzzle game about guiding Murphy through hazardous computer-themed levels.
 
 **License:** GPL-3.0
 
@@ -17323,7 +18213,7 @@ Assign abilities to groups of marching penguins to help them cross hazards, solv
 
 ### [Kai ‘Opua](https://github.com/collinhover/kaiopua)
 
-Game project listed in a public open-source games catalogue.
+Explore a web-based science-fiction puzzle game designed to teach creative design thinking.
 
 **License:** MIT
 
@@ -17403,7 +18293,7 @@ Race from one Wikipedia article to another, or find a chain that visits every ta
 
 ### [BAB BE U](https://github.com/lilybeevee/bab-be-u)
 
-Game project listed in a public open-source games catalogue.
+Manipulate word blocks to change the rules and solve puzzles in a work-in-progress Baba Is You fangame.
 
 **License:** MIT
 
@@ -17571,6 +18461,16 @@ Clear customizable Minesweeper boards, including a no-guess mode designed to be 
 
 ---
 
+### [Dying Dreams](https://github.com/jani-nykanen/dying-dreams)
+
+Control several figures at once and work out how to kill them all across thirteen levels.
+
+**License:** 
+
+**Stars:** 94
+
+---
+
 ### [Orbium](https://github.com/bni/orbium)
 
 Modern version of the 90&#039;s game Logical.
@@ -17703,7 +18603,7 @@ Dispatch divers and submarines to recover artifacts, combine discoveries, and ex
 
 ### [FPC Atomic](https://github.com/pascalcorpsman/fpc_atomic)
 
-Game project listed in a public open-source games catalogue.
+Compete in a multiplayer recreation of Atomic Bomberman, placing bombs to defeat opponents.
 
 **License:** 
 
@@ -17753,7 +18653,7 @@ Mathematical roguelike about defeating hydras with exact arithmetic. The linked 
 
 ### [Panel Attack](https://github.com/sharpobject/panel-attack)
 
-Game project listed in a public open-source games catalogue.
+Swap and match colored panels in a LÖVE-based clone of Panel de Pon and Tetris Attack.
 
 **License:** Zlib
 
@@ -17923,7 +18823,7 @@ A match-3 game inspired by &quot;Tetris Attack&quot; but more PC friendly.
 
 ### [Pink Pony](https://github.com/ginkgo/pink-pony)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Race colorful ponies in a 3D Tron-like arena against computer opponents or up to three local players.
 
 **License:** GPL-3.0
 
@@ -18073,7 +18973,7 @@ Collect treasure and avoid guards in a Lode Runner remake based on the NES versi
 
 ### [Cubosphere](https://github.com/cubosphere/cubosphere-code)
 
-Game project listed in a public open-source games catalogue.
+A revived codebase for Cubosphere, a three-dimensional puzzle game.
 
 **License:** AGPL-3.0
 
@@ -18311,6 +19211,16 @@ Falling-block puzzle game about completing lines with rotating pieces.
 
 ---
 
+### [Lost in CYBERSPACE](https://github.com/bartaz/lost-in-cyberspace)
+
+Work with a partner on separate devices to find a way through cyberspace in a cooperative game.
+
+**License:** MIT
+
+**Stars:** 22
+
+---
+
 ### [Maligna Kodera](https://github.com/Krzyhau/maligna-kodera-classic)
 
 Try a small puzzle prototype made for Bevy Jam 7.
@@ -18336,6 +19246,16 @@ Jigsaw puzzle game that builds pictures from tetromino-shaped pieces.
 Slide atoms into place to assemble molecules in GNOME&#039;s puzzle game.
 
 **License:** GPL-2.0-or-later
+
+**Stars:** 20
+
+---
+
+### [Escape the pit](https://github.com/mvasilkov/escape-js13k)
+
+Navigate nine turn-based levels of snakes, thinking carefully about each move to escape the pit.
+
+**License:** MIT
 
 **Stars:** 20
 
@@ -18443,7 +19363,7 @@ A Minesweeper clone.
 
 ### [Pushover](https://github.com/pushover/pushover.github.io)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Arrange dominoes on platforms and trigger a chain reaction in Domino-Chain.
 
 **License:** GPL-3.0
 
@@ -18483,7 +19403,7 @@ Unscramble connected words on customizable puzzle boards, using optional hints a
 
 ### [splexhd](https://github.com/radu124/splexhd)
 
-Game project listed in a public open-source games catalogue.
+A remake of the puzzle game Supaplex with updated graphics.
 
 **License:** GPL-2.0
 
@@ -18523,7 +19443,7 @@ Sudoku game with multiple grid sizes and difficulty levels.
 
 ### [Tux Memory](https://github.com/androidsoft-org/androidsoft-tuxmemory)
 
-Game project listed in a public open-source games catalogue.
+Match pairs in a Tux-themed memory game.
 
 **License:** GPL-3.0
 
@@ -18613,7 +19533,7 @@ Select and drag numbers into groups that add up to ten.
 
 ### [aquastax](https://github.com/longsteve/aquastax)
 
-Game project listed in a public open-source games catalogue.
+A work-in-progress JavaScript remake of the 2007 mobile puzzle game AquaStax.
 
 **License:** MIT
 
@@ -18653,7 +19573,7 @@ A peg-solitaire puzzle game where you jump over pieces to remove them, trying to
 
 ### [Puzzle Moppet](https://github.com/karjonas/puzzle-moppet)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Guide the Moppet through a surreal void by solving three-dimensional puzzles.
 
 **License:** WTFPL
 
@@ -18721,6 +19641,16 @@ Match memory cards featuring Linux distributions in a JavaScript puzzle game.
 
 ---
 
+### [ESCAPE (2021)](https://github.com/piesku/urwisek)
+
+Help wildlife left behind by humanity find their cubs and reach the ark in a puzzle platformer.
+
+**License:** ISC
+
+**Stars:** 11
+
+---
+
 ### [GameNest](https://github.com/absswds/GameNest)
 
 Host a local game room for board, card, party, and puzzle games that friends join in a browser.
@@ -18783,7 +19713,7 @@ Guide a robot across a text grid, inspecting objects until it finds the kitten i
 
 ### [Threes.el](https://github.com/xuchunyang/threes.el)
 
-Game project listed in a public open-source games catalogue.
+Slide numbered tiles together in an Emacs version of Threes!.
 
 **License:** GPL-3.0
 
@@ -18843,7 +19773,7 @@ Find the edge of a maze in a Luanti game offering five maze styles.
 
 ### [Minesweeper.Zone](https://github.com/reed-jones/minesweeper_js)
 
-Game project listed in a public open-source games catalogue.
+Clear hidden mines from a grid in a JavaScript recreation of Minesweeper.
 
 **License:** MIT
 
@@ -18883,7 +19813,7 @@ Choose illustrated cards to match another player&#039;s phrase in a shared guess
 
 ### [CrystalQuest](https://github.com/haleymt/crystalquest)
 
-Game project listed in a public open-source games catalogue.
+Collect crystals and avoid eight kinds of aliens across fifteen levels in a browser remake of Crystal Quest.
 
 **License:** MIT
 
@@ -19053,7 +19983,7 @@ Play a recreation of Diabolika 2 with configurable controls and optional enlarge
 
 ### [FunLabyrinthe](https://github.com/sjrd/funlabyrinthe)
 
-Game project listed in a public open-source games catalogue.
+Explore a customizable maze game with tools for changing its rules and content.
 
 **License:** GPL-2.0
 
@@ -19071,9 +20001,19 @@ Find a hidden gift using directional arrows and distance clues, avoiding fire ti
 
 ---
 
+### [Gjallarhorn](https://github.com/danprince/gjallarhorn)
+
+Place Norse gods on the board and use their powers to solve giant puzzles and recover a horn.
+
+**License:** 
+
+**Stars:** 7
+
+---
+
 ### [Isometric-Minesweeper](https://github.com/bit-sahil04/isometric-minesweeper)
 
-Game project listed in a public open-source games catalogue.
+Clear mines from a grid in an isometric take on Minesweeper.
 
 **License:** MIT
 
@@ -19091,9 +20031,19 @@ Fill the playfield with walls in a browser remake of JezzBall, tapping to place 
 
 ---
 
+### [Puzzle Dungeon](https://github.com/mig0/puzzle-dungeon)
+
+Solve a varied collection of grid-based dungeon puzzles involving gates, mirrors, portals and monsters.
+
+**License:** GPL-3.0-or-later
+
+**Stars:** 7
+
+---
+
 ### [Supaxl](https://github.com/eguneys/supaxl)
 
-Game project listed in a public open-source games catalogue.
+A browser implementation of the puzzle game Supaplex.
 
 **License:** MIT
 
@@ -19241,6 +20191,16 @@ Swipe and connect scrambled letters to reveal hidden words in every puzzle
 
 ---
 
+### [Ghosted](https://github.com/jani-nykanen/ghosted)
+
+Collect coins in Sokoban-style levels while switching between a solid form and a ghost every thirteen steps.
+
+**License:** 
+
+**Stars:** 4
+
+---
+
 ### [Jewelsback](https://github.com/ErickPetru/js13k-jewelsback)
 
 Swap jewels to make horizontal or vertical matches and reach a target score across thirteen levels.
@@ -19273,9 +20233,19 @@ Sliding game I made in Godot.
 
 ### [SuperFoulEgg](https://github.com/ant512/superfoulegg)
 
-Game project listed in a public open-source games catalogue.
+Match falling colored eggs in a macOS port of the Puyo Puyo-style game Super Foul Egg.
 
 **License:** MIT
+
+**Stars:** 4
+
+---
+
+### [What The Hex?](https://github.com/bw-yuhogg/what-the-hex)
+
+Rotate colored hexagons to match their edges before time runs out, with an optional two-player hotseat mode.
+
+**License:** Apache-2.0
 
 **Stars:** 4
 
@@ -19288,6 +20258,16 @@ A mobile-first 3×3 Rubik’s Cube game built as an offline-ready PWA.
 **License:** 
 
 **Stars:** 4
+
+---
+
+### [13 Steps to Escape](https://github.com/jonathan-vallet/js13k-2024)
+
+Push crates, collect keys and operate switches to reach the flag in each level, using at most thirteen actions.
+
+**License:** MIT
+
+**Stars:** 3
 
 ---
 
@@ -19341,11 +20321,41 @@ Place color inverters and adjust their areas of influence to restore a board to 
 
 ---
 
+### [Kye](https://github.com/benley/kye)
+
+Solve grid-based puzzles by maneuvering around falling rocks and a variety of other interactive objects.
+
+**License:** GPL-2.0
+
+**Stars:** 3
+
+---
+
 ### [Lopan](https://github.com/OSSGames/GAME-SDL-BOARD-Lopan)
 
 Remove matching tiles in a Mahjong-style puzzle game.
 
 **License:** BSD-3-Clause
+
+**Stars:** 3
+
+---
+
+### [Number Knight](https://github.com/adrien-gueret/number_knight)
+
+Guide a knight between towers, defeating weaker monsters to absorb their power and solve levels with elemental enemies.
+
+**License:** Apache-2.0
+
+**Stars:** 3
+
+---
+
+### [PUZZLEggs](https://github.com/jani-nykanen/puzzleggs-js13k-edition)
+
+Collect a bird’s eggs and return to the start without stepping onto already collected eggs across thirteen stages.
+
+**License:** 
 
 **Stars:** 3
 
@@ -19363,7 +20373,7 @@ Merge alchemical elements into rows of three or five to score and create explosi
 
 ### [SliMind](https://github.com/cricri-pingouin/slimind)
 
-Game project listed in a public open-source games catalogue.
+Guess a hidden color sequence in a configurable Mastermind clone.
 
 **License:** AGPL-3.0
 
@@ -19373,7 +20383,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [SliMine](https://github.com/cricri-pingouin/slimine)
 
-Game project listed in a public open-source games catalogue.
+Clear a configurable minefield in a Minesweeper clone.
 
 **License:** AGPL-3.0
 
@@ -19384,6 +20394,16 @@ Game project listed in a public open-source games catalogue.
 ### [sokoban](https://github.com/klevze/sokoban)
 
 A retro-style Sokoban puzzle game built with JavaScript and HTML5 Canvas. Navigate through warehouses, push crates onto targets, and challenge your logic in this game.
+
+**License:** MIT
+
+**Stars:** 3
+
+---
+
+### [Steal Godot](https://github.com/UltimaN3rd/steal-godot)
+
+Solve top-down room puzzles by pushing boulders, flipping switches and navigating slippery ice.
 
 **License:** MIT
 
@@ -19443,7 +20463,7 @@ Place and reverse balls to make collisions, later using the line between balls t
 
 ### [brainblast](https://github.com/zitrax/brainblast)
 
-Game project listed in a public open-source games catalogue.
+Memorize a pattern and recreate it in a puzzle game inspired by Brain Blasters.
 
 **License:** AGPL-3.0
 
@@ -19454,6 +20474,16 @@ Game project listed in a public open-source games catalogue.
 ### [Build'N'Buy](https://github.com/Minetest-j45/build-n-buy)
 
 Shop for blocks and reproduce the builds shown to you in a Luanti puzzle game.
+
+**License:** MIT
+
+**Stars:** 2
+
+---
+
+### [Deadly Affection](https://github.com/martin-tale-archive/deadly-affection)
+
+Solve puzzles as a necromancer seeking eternal love with a fairy.
 
 **License:** MIT
 
@@ -19503,7 +20533,7 @@ Welcome to our Lights Out Game project! This interactive web application is a di
 
 ### [Pipe Puzzle](https://github.com/tassaron/pipe-puzzle)
 
-Game project listed in a public open-source games catalogue.
+Place pipes to create a path for water in a browser-based Pipe Dream clone.
 
 **License:** MIT
 
@@ -19543,7 +20573,7 @@ Solve Lights Out boards across 100 built-in stages or generate fresh random puzz
 
 ### [SliPeg](https://github.com/cricri-pingouin/slipeg)
 
-Game project listed in a public open-source games catalogue.
+Remove pegs by jumping them in a solitaire game with English and European boards.
 
 **License:** AGPL-3.0
 
@@ -19553,7 +20583,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [SliSame](https://github.com/cricri-pingouin/slisame)
 
-Game project listed in a public open-source games catalogue.
+Remove groups of matching colors in a configurable Same Game clone.
 
 **License:** AGPL-3.0
 
@@ -19611,11 +20641,41 @@ A Remake of the dos Bips, Bips Gold and Bips Platinum game from Bryant Brownell.
 
 ---
 
+### [Courage](https://github.com/nicklaslof/courage)
+
+Explore nine dungeon-crawling chapters, shooting enemies and dodging attacks as Billy confronts his phobias.
+
+**License:** 
+
+**Stars:** 1
+
+---
+
+### [Cryonics Inc](https://github.com/rottencandy/js13k2022)
+
+Solve open-ended automation puzzles to help emoji characters survive through cryonics.
+
+**License:** Apache-2.0
+
+**Stars:** 1
+
+---
+
 ### [Cycles](https://github.com/sz-piotr/js13k2016-cycles)
 
 Drag tiles to form loops and surround other tiles to remove them.
 
 **License:** MIT
+
+**Stars:** 1
+
+---
+
+### [Death March](https://github.com/Jorger/deathmatch-online)
+
+Clear rows and columns in as few moves as possible.
+
+**License:** 
 
 **Stars:** 1
 
@@ -19651,9 +20711,39 @@ Race through mazes as quickly as possible, avoiding glitches that regenerate the
 
 ---
 
+### [Flight Back Home](https://github.com/blueboxes/JS13K-2019)
+
+Watch a plane&#039;s outbound route, then retrace it on a hex grid to fly safely home.
+
+**License:** 
+
+**Stars:** 1
+
+---
+
+### [Forgetful God](https://github.com/Ayuu/forgetfulgod-js13k2020)
+
+Rearrange a disordered world through tutorials and increasingly difficult levels.
+
+**License:** MIT
+
+**Stars:** 1
+
+---
+
 ### [godot-outline-quest](https://github.com/ikhsan3adi/godot-outline-quest)
 
 Outline Quest - 2D Pattern Block Activity like game, drag &amp; drop. Made with Godot 4
+
+**License:** 
+
+**Stars:** 1
+
+---
+
+### [Guess My Triski](https://github.com/ladyinblack/GuessMyTriski_Complete)
+
+Use clues to uncover hidden numbers on a board and find the number thirteen.
 
 **License:** 
 
@@ -19734,6 +20824,16 @@ Solve the challenge of exiting Vim in a playful adventure about being stuck in t
 ### [Midnight's Journey](https://github.com/msellers77/js13k2025-midnights-journey)
 
 Guide a magical cat through floating worlds, pushing star boxes onto targets in Sokoban-style puzzles.
+
+**License:** 
+
+**Stars:** 1
+
+---
+
+### [Night-at-Hotel-13](https://github.com/vicksonzero/night-at-hotel-13)
+
+Explore a looping haunted hotel, collect clues and deduce which floor is really the thirteenth to escape a nightmare.
 
 **License:** 
 
@@ -19941,6 +21041,26 @@ A cozy-noir deduction game: pin receipts, phone logs and statements onto a timel
 
 ---
 
+### [All you have to do is Dream](https://github.com/baturinsky/dream)
+
+Explore an empty room, use objects and sleep to recover memories and find a way out.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [At Both Ends](https://github.com/Abdallah-Alwarawreh/at-both-ends)
+
+Move a unicorn holding one end of a rainbow to connect matching colors and restore color to the sky.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Back To Source](https://github.com/Shubham7997/Back_2_Source)
 
 Guide a data ball along connected nodes and lines until it returns to its source.
@@ -19951,9 +21071,39 @@ Guide a data ball along connected nodes and lines until it returns to its source
 
 ---
 
+### [Backorder Storehouse](https://github.com/julienkermarec/JS13k2019-Backorder)
+
+Find matching parcels and move them onto the right conveyor belts to dispatch Black Friday orders.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Bichita the Cat](https://github.com/ekros/bichita-the-cat-js13k)
 
 Find a kitten among many cats and guide her back to her mother.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Blanks Detective](https://github.com/eprouver/js132021)
+
+Solve randomly generated detective puzzles by filling gaps on a board as clues are revealed.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Boots and the Black Cauldron](https://github.com/raptor0999/js13k-2025)
+
+Help a cat collect ingredients and use witches&#039; cauldrons to progress through levels.
 
 **License:** 
 
@@ -20011,6 +21161,16 @@ Guide a network cable through a maze to its socket before time or cable length r
 
 ---
 
+### [Call of the Void](https://github.com/JReesW/CallOfTheVoid)
+
+Freeze time and use your shadow to solve handcrafted platforming puzzles.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Castle Climb](https://github.com/veu/js13k2015)
 
 Guide small colorful blocks through climbing and brawling challenges in a puzzle strategy game.
@@ -20041,6 +21201,36 @@ Rotate pieces to create matches in an endless cat-themed puzzle game.
 
 ---
 
+### [Celestial Paws](https://github.com/eprouver/js13k2025)
+
+Place cats beside glowing charms to solve puzzles, then fly through clouds collecting stars for the northern lights.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Chester](https://github.com/dlbucci/chester)
+
+Move a pony like a chess knight and battle through a colorless world to restore its colors.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Chroma Echo](https://github.com/victorhez/chroma-echo-js13k)
+
+Solve puzzles in an adventure where earlier mistakes leave behind rainbow echoes.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Concentration Lost](https://github.com/maxapps/lost-concentration)
 
 Switch between four simple puzzles under time pressure without losing your place in each one.
@@ -20054,6 +21244,16 @@ Switch between four simple puzzles under time pressure without losing your place
 ### [Delete!](https://github.com/Clocks-in-a-Cooler/daleet_js13k_2020)
 
 Move through a game world and delete features that get in your way.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Dungeon Puzzle](https://github.com/aurium/js13k-2022-dungeon-puzzle)
+
+Place terrain pieces to connect paths for heroes, earn reinforcements and guide them toward the Lord of Death.
 
 **License:** 
 
@@ -20141,6 +21341,16 @@ Find and sort the correct papers to assemble reports.
 
 ---
 
+### [FLYKT](https://github.com/JakeTurner616/js13k-2025)
+
+Aim and launch a cat through rooftop puzzles using momentum, portals and precise movement.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Formation Absent](https://github.com/foumart/JS.13kGames.2017_FormationAbsent)
 
 Move across thirteen abstract battlefields to restore your army&#039;s formation in turn-based puzzles.
@@ -20186,6 +21396,16 @@ Drop and merge matching colors in a space well while keeping them from drifting 
 Match colored tiles to uncover a hidden quote while a growing visual glitch obscures the screen.
 
 **License:** 
+
+**Stars:** 0
+
+---
+
+### [Glitched 15](https://github.com/serglider/Glitched_15)
+
+Put numbered tiles in order in a sliding puzzle interrupted by unexpected glitches.
+
+**License:** MIT
 
 **Stars:** 0
 
@@ -20271,11 +21491,31 @@ Collect numbers, build hands and use arithmetic operators to create combos while
 
 ---
 
+### [Kittens Crossing](https://github.com/SamuelVanEgmond/KittensCrossing)
+
+Find lost kittens and try to guide them safely home through a dangerous city.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
 ### [ld52](https://github.com/95jonpet/ld52)
 
-A small puzzle game made in 48 hours for Ludum Dare 52.
+Navigate underground levels and collect treasure in a snake-inspired puzzle game.
 
 **License:** 
+
+**Stars:** 0
+
+---
+
+### [Lemmicorns](https://github.com/DerBenniBanni/lemmicorns_js13k_2026)
+
+Guide lemming-like unicorns to a rainbow using their available abilities.
+
+**License:** MIT
 
 **Stars:** 0
 
@@ -20331,6 +21571,16 @@ Practise memory, card matching and sound identification.
 
 ---
 
+### [Match3](https://github.com/remarkablegames/match3)
+
+Swap adjacent emoji tiles to make matches in a browser-based match-three puzzle game.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
 ### [Maze Explorer — Games Collection](https://github.com/veddegre/python-games-collection/blob/main/maze_explorer.py)
 
 Navigate room-like mazes to the exit, aiming for fewer moves and a faster time.
@@ -20346,6 +21596,16 @@ Navigate room-like mazes to the exit, aiming for fewer moves and a faster time.
 Rearrange sliding puzzle pieces to match the colors around the board while periodic changes disrupt the layout.
 
 **License:** 
+
+**Stars:** 0
+
+---
+
+### [Miles to Mend](https://github.com/vivianeasley/miles-to-mend)
+
+Place flowers and mushrooms on a grid using row and column clues, while following rules about which plants can grow beside trees.
+
+**License:** MIT
 
 **Stars:** 0
 
@@ -20371,6 +21631,16 @@ Arrange mirrors to redirect a beam through optical-circuit puzzles and destroy o
 
 ---
 
+### [Monster Steps](https://github.com/gamedevpl/monster-steps-js13k-2024)
+
+Navigate grid-based levels and collect power-ups while planning around monsters that appear every thirteen steps.
+
+**License:** Apache-2.0
+
+**Stars:** 0
+
+---
+
 ### [Mor Chess](https://github.com/eguneys/morchess_js13k_25)
 
 Build chess positions according to a set of placement rules in a chess puzzle game.
@@ -20383,7 +21653,7 @@ Build chess positions according to a set of placement rules in a chess puzzle ga
 
 ### [multi-level-tetris](https://github.com/hoyvv/multi-level-tetris)
 
-Public game repository indexed under GitHub game topics.
+Rotate and drop falling blocks to complete rows, score points and keep the board from filling as the game speeds up.
 
 **License:** MIT
 
@@ -20416,6 +21686,26 @@ MUSEUM OF LOST MINUTES — open-source Godot time-loop stealth adventure by LAI 
 A retro DOS adventure puzzle game developed with Allegro in C
 
 **License:** MIT
+
+**Stars:** 0
+
+---
+
+### [Newton's Unicorn](https://github.com/mxingweb/newtons-unicorn)
+
+Rotate and arrange prisms, mirrors and filters to split and steer light onto flowers across twelve optics puzzles.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
+### [Nimbo](https://github.com/chainsawteam-org/js13kgames2026-nimbus)
+
+Arrange falling cloud pieces into a staircase for an automatically climbing unicorn, clearing colors and building checkpoints above rising fog.
+
+**License:** 
 
 **Stars:** 0
 
@@ -20474,6 +21764,16 @@ A calm number-path puzzle for Android. Draw one line through every square, passi
 ### [Pickr](https://github.com/ilesar/pickr-game)
 
 Match a target color using gradients across five rounds, aiming for the smallest error.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Portolani](https://github.com/onebytegone/js13k23-portolani)
+
+Chart a new map each day, visiting every port and exploring uncharted waters in a turn-based sailing puzzle.
 
 **License:** 
 
@@ -20754,7 +22054,7 @@ Shoot orbs to reverse colors and clear rows in a falling-block puzzle featuring 
 </details>
 
 <details>
-<summary>Racing (99)</summary>
+<summary>Racing (104)</summary>
 
 ### [SuperTuxKart](https://github.com/supertuxkart/stk-code)
 
@@ -21048,7 +22348,7 @@ A new version of the game Out Run of 1986 for PC using SFML and C++.
 
 ### [GL TRON](https://github.com/chluverman/android-gltron)
 
-Game project listed in a public open-source games catalogue.
+Race light cycles and avoid trails in an Android port of glTron.
 
 **License:** AGPL-3.0
 
@@ -21116,9 +22416,19 @@ A kart racer with drifting, items, AI opponents, and four circuits.
 
 ---
 
+### [Highway 404](https://github.com/herebefrogs/highway-404)
+
+Survive the hazards of Highway 404, where HTTP status codes change the conditions on the road.
+
+**License:** MIT
+
+**Stars:** 37
+
+---
+
 ### [Tux Rider](https://github.com/drodin/tuxrider)
 
-Game project listed in a public open-source games catalogue.
+Race downhill in an Android port of Tux Rider, itself inspired by Tux Racer.
 
 **License:** GPL-2.0
 
@@ -21138,7 +22448,7 @@ Race anti-gravity craft with combat mechanics in a futuristic game whose source 
 
 ### [HoverRace](https://github.com/hoverrace/hoverrace)
 
-Game project listed in a public open-source games catalogue.
+Race hovercraft against other players online in an open-source 3D racing game.
 
 **License:** 
 
@@ -21198,7 +22508,7 @@ Enhanced version of Test Drive III: The Passion.
 
 ### [H-Craft Championship](https://github.com/mzeilfelder/hc1)
 
-Game project listed in a public open-source games catalogue.
+Source code for H-Craft Championship, a futuristic racing game.
 
 **License:** zlib
 
@@ -21278,7 +22588,7 @@ Enhanced version of Test Drive.
 
 ### [OpenGL Test Drive Remake](https://github.com/capnramses/opengl_test_drive_clone)
 
-Game project listed in a public open-source games catalogue.
+An in-progress OpenGL remake of the original CGA version of Test Drive.
 
 **License:** AGPL-3.0
 
@@ -21308,7 +22618,7 @@ Hi-Octane with level editor using Irrlicht engine.
 
 ### [Supercars III](https://github.com/jotd666/supercars3)
 
-Game project listed in a public open-source games catalogue.
+A Java remake of the top-down racing games Super Cars and Super Cars II.
 
 **License:** ? (JRL)
 
@@ -21361,6 +22671,16 @@ Fly a light helicopter over mountainous terrain with separate flight controls an
 Drive an original open-wheel racer whose models and effects are generated in code.
 
 **License:** Apache-2.0
+
+**Stars:** 12
+
+---
+
+### [Godot Vehicle](https://github.com/Seerban/godot-vehicle)
+
+Tune a car and race against ghost replays in an unfinished 3D driving game with sprint checkpoints and vehicle customization.
+
+**License:** MIT
 
 **Stars:** 12
 
@@ -21506,13 +22826,13 @@ Free open-source 3D relativistic kart-racing game with time dilation, Doppler co
 
 ---
 
-### [Terminal Racer](https://github.com/mohi-devhub/claude-games)
+### [Brick Stunt Rally](https://github.com/mrshapron/brick-stunt-rally)
 
-A terminal driving game that reacts to coding-agent events.
+Build brick cars and drive them through stunt courses, racing opponents and firing rockets at obstacles and enemies.
 
-**License:** MIT
+**License:** 
 
-**Stars:** 3
+**Stars:** 2
 
 ---
 
@@ -21546,11 +22866,31 @@ Interstate &#039;76 engine reimplementation.
 
 ---
 
+### [Arcade Kart Racer](https://github.com/choijunhuk/arcade-kart-racer)
+
+Race karts with drifting and items across four tracks, with single races, a Grand Prix, time trials and local split-screen play.
+
+**License:** 
+
+**Stars:** 1
+
+---
+
 ### [Elden Kart](https://github.com/Manoz/elden-kart)
 
 A fantasy-inspired kart racer with eight racers, four circuits, items, and a Grand Prix.
 
 **License:** MIT
+
+**Stars:** 1
+
+---
+
+### [Gallop of Color](https://github.com/roblouie/js13k-2026)
+
+Gallop between crystals as a unicorn, building power and restoring color to the world.
+
+**License:** 
 
 **Stars:** 1
 
@@ -21589,6 +22929,16 @@ Recomp of the game Vette by Spectrum Holobyte.
 ### [13th Guy](https://github.com/tkjantti/js13kgames-2024)
 
 Race through rounds and checkpoints while trying to avoid finishing in thirteenth place or among the last survivors.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
+### [404 Race](https://github.com/viljami/404race-js13k)
+
+Race a droid through abandoned locations, aiming for first place to unlock the next race.
 
 **License:** MIT
 
@@ -21749,7 +23099,7 @@ Race a unicorn in time trials, derby and endless modes, earning coins for perman
 </details>
 
 <details>
-<summary>Real-Time Strategy (RTS) (84)</summary>
+<summary>Real-Time Strategy (RTS) (87)</summary>
 
 ### [OpenRA](https://github.com/openra/openra)
 
@@ -21923,7 +23273,7 @@ Run Command and Conquer Generals Zero Hour through a replacement engine that kee
 
 ### [Perimeter](https://github.com/kd-lab-open-source/perimeter)
 
-Game project listed in a public open-source games catalogue.
+Command armies, reshape terrain and manage energy networks and shields in the real-time strategy game Perimeter.
 
 **License:** AGPL-3.0
 
@@ -21933,7 +23283,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [OpenVic](https://github.com/openvicproject/openvic)
 
-Game project listed in a public open-source games catalogue.
+A work-in-progress open-source project recreating the grand strategy game Victoria II.
 
 **License:** MIT
 
@@ -21953,7 +23303,7 @@ Based on the open sourced code for the Command &amp; Conquer Remaster and can pl
 
 ### [Chariot](https://github.com/chariotengine/chariot)
 
-Game project listed in a public open-source games catalogue.
+An open-source reimplementation of the original Age of Empires engine, intended to add portability and gameplay improvements.
 
 **License:** MIT
 
@@ -21983,7 +23333,7 @@ Harvest spice on Arrakis, build bases, and command infantry and vehicles in real
 
 ### [Space Station 3D](https://github.com/re-ss3d/ss3d)
 
-Game project listed in a public open-source games catalogue.
+A work-in-progress three-dimensional take on the multiplayer game Space Station 13.
 
 **License:** MIT
 
@@ -22063,7 +23413,7 @@ Command soldiers and robots in side-view battles where dropships, explosions, an
 
 ### [Vault13](https://github.com/pingw33n/vault13)
 
-Game project listed in a public open-source games catalogue.
+An unfinished, currently unplayable reimplementation of the Fallout 2 engine.
 
 **License:** AGPL-3.0
 
@@ -22223,7 +23573,7 @@ A browser space RTS with fleets and large-scale battles.
 
 ### [Total Annihilation 3D](https://github.com/zuzuf/TA3D)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+A portable 3D remake of the real-time strategy game Total Annihilation.
 
 **License:** GPL-2.0
 
@@ -22263,7 +23613,7 @@ Single-player real-time strategy game set during an alternate Second Punic War. 
 
 ### [OpenWar](https://github.com/andreas-jonsson/openwar)
 
-Game project listed in a public open-source games catalogue.
+An alternative engine for Warcraft: Orcs &amp; Humans that requires the original MS-DOS game&#039;s graphics and sounds.
 
 **License:** AGPL-3.0
 
@@ -22353,7 +23703,7 @@ Command a ship in real-time top-down space warfare, connecting a graphical clien
 
 ### [wkbre2](https://github.com/adrientd/wkbre2)
 
-Game project listed in a public open-source games catalogue.
+An early, not-yet-complete reimplementation of the Warrior Kings: Battles strategy engine with multiplayer support.
 
 **License:** AGPL-3.0
 
@@ -22363,7 +23713,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [wkbre](https://github.com/adrientd/wkbre)
 
-Game project listed in a public open-source games catalogue.
+An engine reimplementation that can load and render Warrior Kings: Battles levels but is not yet a complete game.
 
 **License:** AGPL-3.0
 
@@ -22403,7 +23753,7 @@ Android (arm64) port of Command &amp; Conquer: Generals - Zero Hour, built on th
 
 ### [XSera](https://github.com/prophile/xsera)
 
-Game project listed in a public open-source games catalogue.
+A modern port of the space real-time strategy game Ares.
 
 **License:** MIT
 
@@ -22453,11 +23803,21 @@ A modern, open-source reimplementation of the Cultures game series
 
 ### [openDOW](https://github.com/rofl0r/opendow)
 
-Game project listed in a public open-source games catalogue.
+A remake of the classic Amiga action game Dogs of War.
 
 **License:** GPL-3.0
 
 **Stars:** 12
+
+---
+
+### [Byte Armada](https://github.com/bacionejs/byte-armada)
+
+Command spaceships in real-time tactical battles against a computer opponent or another player.
+
+**License:** GPL-3.0
+
+**Stars:** 6
 
 ---
 
@@ -22501,9 +23861,19 @@ Build within your territory and command forces to destroy an enemy base in a lun
 
 ---
 
+### [Crown & Timber](https://github.com/eiliyaabedini/strategy-game)
+
+Build a settlement and raise armies against a rival crown while contending with outlaws, wildlife and a guarded merchant company.
+
+**License:** 
+
+**Stars:** 1
+
+---
+
 ### [Earth 2140 on OpenRA](https://github.com/michaeldgg2/opene2140)
 
-Game project listed in a public open-source games catalogue.
+A work-in-progress remake of the real-time strategy game Earth 2140 using OpenRA.
 
 **License:** AGPL-3.0
 
@@ -22551,6 +23921,16 @@ Open-source native macOS engine for Rise of Nations: Extended Edition (uses your
 
 ---
 
+### [Bloomfront](https://github.com/TheAxeC/bloomfront)
+
+Lead unicorns across a gray continent, restoring living ground that generates income and provides space to build.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Civil War RTS](https://github.com/Charles-Dea/CivilWarRTS)
 
 Command forces in a real-time strategy game set during the American Civil War.
@@ -22594,7 +23974,7 @@ War Powers: a free browser real-time strategy game with original content, built 
 </details>
 
 <details>
-<summary>Rhythm / Music (45)</summary>
+<summary>Rhythm / Music (47)</summary>
 
 ### [osu!](https://github.com/ppy/osu)
 
@@ -22698,7 +24078,7 @@ Sing, dance, or play instrument parts in a music game supporting several establi
 
 ### [UltraStar Play](https://github.com/UltraStar-Deluxe/Play)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Sing along to songs and follow displayed notes and lyrics to earn points; a song editor is included.
 
 **License:** MIT
 
@@ -22848,7 +24228,7 @@ Music game where you arrange the drums to catch the beats and play the right rhy
 
 ### [Canta](https://github.com/spiderbit/canta)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Sing along to songs in a free karaoke game.
 
 **License:** GPL-3.0
 
@@ -22903,6 +24283,16 @@ Dodge cylinders while firing homing bullets; unused bullets orbit you and become
 **License:** 
 
 **Stars:** 2
+
+---
+
+### [2021: a Space Opera](https://github.com/herebefrogs/2021-space-opera)
+
+Restore melodies by solving musical puzzles on planets whose notes have fallen out of order.
+
+**License:** MIT
+
+**Stars:** 1
 
 ---
 
@@ -23016,6 +24406,16 @@ Practice musical memory with piano or guitar sounds and optional color guidance.
 
 ---
 
+### [Pied Pipe Revolution](https://github.com/cobrajs/pied_pipe_js13k)
+
+Play notes in time as the Pied Piper to attract rats and lead them out of town.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Rainbow Refrain](https://github.com/20010208/rainbow-refrain)
 
 Match the color and symbol of incoming gates across three lanes, building combos until three misses end the run.
@@ -23049,7 +24449,7 @@ Listen to melodies played by slimes and repeat them using a keyboard or MIDI dev
 </details>
 
 <details>
-<summary>Roguelike / Roguelite (104)</summary>
+<summary>Roguelike / Roguelite (118)</summary>
 
 ### [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
 
@@ -23293,7 +24693,7 @@ Escape a goblin outpost through stealth, scarce healing, and short tactical runs
 
 ### [Andor's Trail](https://github.com/zukero/andors-trail)
 
-Game project listed in a public open-source games catalogue.
+Explore a fantasy world, fight monsters and complete quests while investigating your brother&#039;s disappearance.
 
 **License:** GPL-2.0
 
@@ -23423,7 +24823,7 @@ Role-playing game that uses d20 as the rule system.
 
 ### [Paper Isaac](https://github.com/fasterthanlime/isaac-paper)
 
-Game project listed in a public open-source games catalogue.
+Fight through roguelike rooms in a paper-styled fan remake of The Binding of Isaac.
 
 **License:** MIT
 
@@ -23448,6 +24848,16 @@ Browse a collection of small HTML games, including a separate arena game with a 
 **License:** MIT
 
 **Stars:** 64
+
+---
+
+### [Axes, Armour & Ale](https://github.com/cyberfilth/Axes-Armour-Ale)
+
+Explore procedurally generated caves and dungeons, collect equipment and use magic in an early terminal roguelike.
+
+**License:** MIT
+
+**Stars:** 53
 
 ---
 
@@ -23523,7 +24933,7 @@ Godot 4.3 制作的回合制像素 Roguelite：路线探索、装备构筑与强
 
 ### [Rot Magus](https://github.com/kosinaz/rot-magus)
 
-Game project listed in a public open-source games catalogue.
+Explore an endless map, fight monsters and use items and spells in a browser-based remake of the roguelike Magus.
 
 **License:** Apache-2.0
 
@@ -23543,11 +24953,21 @@ Turn diablo into a survivors game
 
 ### [ransack](https://github.com/dsallen7/ransack-python)
 
-Game project listed in a public open-source games catalogue.
+A Python roguelike project that is no longer maintained.
 
 **License:** MIT
 
 **Stars:** 19
+
+---
+
+### [Cat Survivors](https://github.com/eliasku/js13k-2025-cat-survivors)
+
+Fight off waves of enemies as a hunter cat in a survival game inspired by Vampire Survivors.
+
+**License:** 
+
+**Stars:** 14
 
 ---
 
@@ -23568,6 +24988,16 @@ A roguelike bullet-heaven survivor game built with pure HTML5 Canvas and vanilla
 **License:** MIT
 
 **Stars:** 7
+
+---
+
+### [Neon Dungeon](https://github.com/attilahorvath/neon-dungeon)
+
+Explore a procedurally generated neon labyrinth, fighting its inhabitants while searching for an exit.
+
+**License:** MIT
+
+**Stars:** 5
 
 ---
 
@@ -23613,7 +25043,7 @@ Psychic Blade is a top down dungeon crawler demo where you play a psychic advent
 
 ### [Taggem](https://github.com/apsillers/taggem)
 
-Game project listed in a public open-source games catalogue.
+Explore and fight in an experimental multiplayer real-time roguelike played in a browser.
 
 **License:** AGPL-3.0
 
@@ -23666,6 +25096,16 @@ Choose a hero and build a deck, placing dice on cards to fight toward a boss and
 Explore dungeon floors and fight turn-based battles in a roguelike where mathematical systems determine combat and loot outcomes.
 
 **License:** MIT
+
+**Stars:** 2
+
+---
+
+### [Forgotten Depths: Path of the Necromancer](https://github.com/dbrad/js13k2022)
+
+Craft cards and customize a deck to battle undead enemies in a simplified roguelite.
+
+**License:** 
 
 **Stars:** 2
 
@@ -23781,11 +25221,31 @@ Delver roguelike running in the browser (libGDX + TeaVM), with Chinese localizat
 
 ---
 
+### [DelveRL](https://github.com/SnyderConsulting/DelveRL)
+
+Explore procedurally generated floors in a turn-based roguelike, securing each key and returning to the exit while managing equipment and health.
+
+**License:** MIT
+
+**Stars:** 1
+
+---
+
 ### [Goblin](https://github.com/bearmade/Goblin-Linux)
 
 Explore a minimal roguelike world, fighting goblins, trading their remains and growing stronger at inns and mentors.
 
 **License:** GPL-3.0
+
+**Stars:** 1
+
+---
+
+### [Godot Roguelike](https://github.com/Xv1ous/godot-rougelike)
+
+Explore procedurally generated dungeon rooms, fight monsters and collect potions in a Godot dungeon crawler.
+
+**License:** 
 
 **Stars:** 1
 
@@ -23841,6 +25301,16 @@ A neon survival roguelite with a four-act campaign, salvage upgrades, and a fina
 
 ---
 
+### [Tactics](https://github.com/cty41/wooftactics)
+
+Lead a party of three through seven floors of turn-based battles and events, combining skills and equipment to reach a final boss.
+
+**License:** Apache-2.0
+
+**Stars:** 1
+
+---
+
 ### [13 Cards Dungeon](https://github.com/MichelSilvestreDev/13-cards-dungeon)
 
 Build a dungeon from thirteen cards and search for the exit in a small card-based roguelike.
@@ -23871,6 +25341,16 @@ A Godot arena roguelike with eight rounds, weapons, upgrade cards, and a final b
 
 ---
 
+### [Black Cat Survivor](https://github.com/kruffin/js13k2025)
+
+Survive in the woods, collecting gems from cats and other foes to receive unpredictable help from your boss.
+
+**License:** AGPL-3.0
+
+**Stars:** 0
+
+---
+
 ### [BLOCKROT](https://github.com/SRM9506/blockrot)
 
 Survive waves of zombies across open 3D maps, collecting upgrades and evolving weapons while facing powerful bosses.
@@ -23886,6 +25366,46 @@ Survive waves of zombies across open 3D maps, collecting upgrades and evolving w
 Fight bots in a physics arena, using bombs, gravity reversal and collected power-ups to survive worsening odds.
 
 **License:** 
+
+**Stars:** 0
+
+---
+
+### [Caipora](https://github.com/baltazarparra/caipora)
+
+Explore a corrupted forest as a guardian spirit from Brazilian folklore, timing attacks and dodges in brutal roguelike encounters.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
+### [Cancel Elon](https://github.com/curtastic/CancelElon)
+
+Collect emoji cards, build a deck and play combinations in a satirical roguelike deckbuilder.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Chromatic Crawl](https://github.com/sdeseille/chromatic-crawl)
+
+Explore a dungeon to recover a leprechaun&#039;s stolen pots of gold from the Moon Folk.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Corehold](https://github.com/SikTyler/Game)
+
+Defend a core from large enemy waves, draft weapons and perks during runs, and develop an outpost between them.
+
+**License:** MIT
 
 **Stars:** 0
 
@@ -23991,11 +25511,31 @@ Fight through stages as the Great Khan, adding cards and abilities to your deck 
 
 ---
 
+### [Lucky Charm](https://github.com/piesku/blackcat)
+
+Choose upgrades between automatic battles to evolve a fighter in a fast-paced cat-themed roguelike.
+
+**License:** ISC
+
+**Stars:** 0
+
+---
+
 ### [MawLight](https://github.com/JustGibas/JS13kGame2026)
 
 Fight monsters for experience and upgrades, then defend colored beacons against waves of enemies.
 
 **License:** Apache-2.0
+
+**Stars:** 0
+
+---
+
+### [Mewnbeams Adventure](https://github.com/jcubed111/Mewnbeams-Adventure)
+
+Build a deck, battle enemies and try to defeat the Rat King in a magical roguelike adventure.
+
+**License:** 
 
 **Stars:** 0
 
@@ -24094,7 +25634,7 @@ Explore a small dungeon with text or ASCII controls, fight creatures and retriev
 </details>
 
 <details>
-<summary>RPG (173)</summary>
+<summary>RPG (176)</summary>
 
 ### [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
 
@@ -24288,7 +25828,7 @@ Explore the Empyrean Campaign in a 2D action RPG with Diablo-like gameplay, buil
 
 ### [Diablerie](https://github.com/mofr/diablerie)
 
-Game project listed in a public open-source games catalogue.
+An early Unity recreation of Diablo II that uses images and sounds from the original game.
 
 **License:** MIT
 
@@ -24488,7 +26028,7 @@ Explore an Elite-inspired space game with community extensions that add ships, v
 
 ### [OpenVIII](https://github.com/MaKiPL/OpenVIII-monogame)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+An unfinished Final Fantasy VIII engine reimplementation for running the original game&#039;s content.
 
 **License:** MIT
 
@@ -24718,7 +26258,7 @@ Only server?
 
 ### [Project-Uranium-Godot](https://github.com/acedogblast/Project-Uranium-Godot)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+A work-in-progress Godot reimplementation of Pokémon Uranium; the original game&#039;s assets must be obtained separately.
 
 **License:** MIT
 
@@ -24768,7 +26308,7 @@ An opensource 2d morpg game based on the Godot engine in a medieval inspired fan
 
 ### [CrossUO](https://github.com/crossuo/crossuo)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Explore Ultima Online&#039;s multiplayer world using an alternative client; the game requires access to an Ultima Online server and assets.
 
 **License:** GPL-3.0
 
@@ -24818,7 +26358,7 @@ Explore the randomly generated land of Darrowmere in a text-based role-playing g
 
 ### [ArchaicQuest II](https://github.com/archaicquest/archaicquest-ii)
 
-Game project listed in a public open-source games catalogue.
+Explore a multiplayer text-based RPG in the browser, with a codebase and tools for creating MUD worlds.
 
 **License:** MIT
 
@@ -24848,7 +26388,7 @@ Randomly generated action RPG.
 
 ### [Q-Gears](https://github.com/q-gears/q-gears)
 
-Game project listed in a public open-source games catalogue.
+A cross-platform RPG engine intended to run games such as Final Fantasy VII and IX.
 
 **License:** GPL-2.0
 
@@ -24908,7 +26448,7 @@ Guide a heroine through a fantasy dungeon and confront the evil that emerges at 
 
 ### [Griefly](https://github.com/griefly/griefly)
 
-Game project listed in a public open-source games catalogue.
+A work-in-progress remake of the multiplayer game Space Station.
 
 **License:** MIT
 
@@ -24918,7 +26458,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [lttp-phaser](https://github.com/englercj/lttp)
 
-Game project listed in a public open-source games catalogue.
+An incomplete browser recreation of The Legend of Zelda: A Link to the Past.
 
 **License:** MIT
 
@@ -25018,7 +26558,7 @@ Explore Dink Smallwood&#039;s action role-playing adventure with smoother render
 
 ### [Ultima 5 Redux](https://github.com/bradhannah/ultima5redux)
 
-Game project listed in a public open-source games catalogue.
+An earlier C# remake of Ultima V that uses the original game data; active development has moved to a newer project.
 
 **License:** MIT
 
@@ -25028,7 +26568,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [opendf](https://github.com/kcat/opendf)
 
-Game project listed in a public open-source games catalogue.
+An open-source engine for running The Elder Scrolls II: Daggerfall.
 
 **License:** AGPL-3.0
 
@@ -25098,7 +26638,7 @@ Party-based fantasy roguelike role-playing game.
 
 ### [Catch Challenger](https://github.com/alphaonex86/catchchallenger)
 
-Game project listed in a public open-source games catalogue.
+Collect creatures, craft and build industry in a game supporting multiplayer, LAN and single-player modes.
 
 **License:** GPL-3.0
 
@@ -25118,7 +26658,7 @@ Aim of this project is to port the original Win32 Delphi code, over to C# using 
 
 ### [Dungeon Eye](https://github.com/iliak/dungeoneye)
 
-Game project listed in a public open-source games catalogue.
+An open-source remake of the first-person dungeon crawler Eye of the Beholder II.
 
 **License:** GPL-3.0
 
@@ -25138,7 +26678,7 @@ Explore, fight and solve environmental puzzles in Ultima VIII through a replacem
 
 ### [jsFO](https://github.com/ajxs/jsfo)
 
-Game project listed in a public open-source games catalogue.
+An unfinished browser port of Fallout 2 whose development has ceased.
 
 **License:** Apache-2.0
 
@@ -25188,7 +26728,7 @@ Modern update of Ultima Underworld. Optional new models and look.
 
 ### [Dungeon Craft](https://github.com/grannypron/uaf)
 
-Game project listed in a public open-source games catalogue.
+A Windows application for creating and playing classic Gold Box-style dungeon adventures.
 
 **License:** GPL-2.0
 
@@ -25398,7 +26938,7 @@ Ultimate Dungeon Adventure (UlDunAd).
 
 ### [Dawn](https://github.com/iamcode/dawn)
 
-Game project listed in a public open-source games catalogue.
+Explore a fantasy world in a two-dimensional RPG.
 
 **License:** GPL-3.0
 
@@ -25418,7 +26958,7 @@ Compete through randomized dungeons, gathering quest items and battling rival kn
 
 ### [LegionGame](https://github.com/bsoja/legiongame)
 
-Game project listed in a public open-source games catalogue.
+A work-in-progress C# remake of the classic Amiga strategy game Legion.
 
 **License:** AGPL-3.0
 
@@ -25498,7 +27038,7 @@ Experience 3D chess with RPG combat, dynamic terrain, and dice-driven battles bl
 
 ### [Dungeon Hero](https://github.com/guillaume-gouchon/dungeonhero)
 
-Game project listed in a public open-source games catalogue.
+An Android role-playing game; the repository provides little gameplay documentation.
 
 **License:** MIT
 
@@ -25521,6 +27061,16 @@ Original GalaxyMage is lost with the Internet Archive not having stored any snap
 Terminal based 3D raycasting rpg game
 
 **License:** GPL-3.0
+
+**Stars:** 3
+
+---
+
+### [Persona RPG](https://github.com/Johannuel/persona-rpg)
+
+Descend a dungeon and fight turn-based battles in a terminal RPG inspired by Persona, with skills and persona fusion.
+
+**License:** MIT
 
 **Stars:** 3
 
@@ -25628,7 +27178,7 @@ A Zelda-like browser adventure starring a fox swordsman seeking a stolen crown.
 
 ### [Fallen Spire](https://github.com/bgcx067/fallenspire-svn-to-git)
 
-Game project listed in a public open-source games catalogue.
+Archived source for Fallen Spire, a role-playing game; the repository provides no gameplay documentation.
 
 **License:** GPL-3.0
 
@@ -25703,6 +27253,26 @@ An unofficial pixel RPG inspired by The Wandering Inn, with evolving classes, co
 **License:** MIT
 
 **Stars:** 1
+
+---
+
+### [AdminQuest](https://github.com/adventureboss/adminquest)
+
+Explore an early top-down RPG prototype themed around Linux administration, using game items to tackle tasks such as removing files.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Alter](https://github.com/HyphnKnight/js13k-2017)
+
+Navigate a retro-styled strategy RPG exploring a character&#039;s experience of dissociative identity disorder.
+
+**License:** MIT
+
+**Stars:** 0
 
 ---
 
@@ -25829,7 +27399,7 @@ Wrecktide, a pirate action RPG in Unreal Engine 5.6: sail, fight, steal, own the
 </details>
 
 <details>
-<summary>Sandbox / Building (59)</summary>
+<summary>Sandbox / Building (62)</summary>
 
 ### [Minetest](https://github.com/minetest/minetest)
 
@@ -25953,7 +27523,7 @@ Voxel-based sandbox game set in an asteroid field in space.
 
 ### [MineCraft-One-Week-Challenge](https://github.com/hopson97/minecraft-one-week-challenge)
 
-Game project listed in a public open-source games catalogue.
+Explore a voxel-world game made as a one-week Minecraft-inspired programming challenge.
 
 **License:** MIT
 
@@ -25973,7 +27543,7 @@ Build, explore and fight alongside friends in a sandbox recreation focused on Mi
 
 ### [Hematite](https://github.com/pistondevelopers/hematite)
 
-Game project listed in a public open-source games catalogue.
+A deprecated Minecraft-style voxel game written in Rust.
 
 **License:** MIT
 
@@ -26133,7 +27703,7 @@ Civilization sandbox in your browser. Tribes invent their own languages, culture
 
 ### [Digbuild](https://github.com/emezeske/digbuild)
 
-Game project listed in a public open-source games catalogue.
+Explore, dig and build in a randomly generated voxel world.
 
 **License:** GPL-2.0
 
@@ -26143,7 +27713,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Minecraft](https://github.com/benkyd/minecraft)
 
-Game project listed in a public open-source games catalogue.
+Explore a Minecraft-inspired voxel game written in C++ and OpenGL.
 
 **License:** MIT
 
@@ -26281,6 +27851,16 @@ Empire building game.
 
 ---
 
+### [3DC5S](https://github.com/burntcustard/js13k-2021-space)
+
+Build a space station by unlocking modules, managing resources and connecting blocks.
+
+**License:** MIT
+
+**Stars:** 7
+
+---
+
 ### [Neon Mayhem](https://github.com/pranshuparmar/neon-mayhem)
 
 Drive around an open city, take jobs, race, and escape the police.
@@ -26371,6 +27951,16 @@ Fan voxel sandbox with generated terrain, block placement, and first-person cont
 
 ---
 
+### [O HIII BAD SKATEPARK](https://github.com/xem/js13k24-skate)
+
+Draw ramps and movable obstacles for a skater, keeping them riding as long as possible or attempting ten challenges.
+
+**License:** 
+
+**Stars:** 1
+
+---
+
 ### [Voxeland](https://github.com/voxelands/voxelands)
 
 - Voxeland — Voxel sandbox game.
@@ -26386,6 +27976,16 @@ Fan voxel sandbox with generated terrain, block placement, and first-person cont
 Openfold: a free pixel-art browser game that its players build together. Add quests, items and places as JSON; AGPL code, CC BY-SA content.
 
 **License:** AGPL-3.0
+
+**Stars:** 0
+
+---
+
+### [Sandfall](https://github.com/c0de-fox/sandfall)
+
+Paint sand, water, fire and other materials into a sandbox and watch them flow, heat up and react with one another.
+
+**License:** 
 
 **Stars:** 0
 
@@ -26424,7 +28024,7 @@ A browser voxel sandbox with procedural terrain, biomes, crafting, and explorati
 </details>
 
 <details>
-<summary>Shooter (172)</summary>
+<summary>Shooter (184)</summary>
 
 ### [Descent 3](https://github.com/descentdevelopers/descent3)
 
@@ -26668,7 +28268,7 @@ Fight through a physics-driven platform shooter where weapons and experimental u
 
 ### [OpenAWE](https://github.com/openawe-project/openawe)
 
-Game project listed in a public open-source games catalogue.
+An open-source reimplementation of Remedy&#039;s Alan Wake engine, intended to run the original game&#039;s content.
 
 **License:** AGPL-3.0
 
@@ -26698,7 +28298,7 @@ Faithful from-scratch rewrite of the twin-stick shooter Crimsonland.
 
 ### [JediAcademyLinux](https://github.com/xlava/jediacademylinux)
 
-Game project listed in a public open-source games catalogue.
+A Jedi Academy executable with Oculus Rift support; the original game and resources are required.
 
 **License:** GPL-2.0
 
@@ -26708,7 +28308,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Catacomb](https://github.com/catacombgames/catacomb)
 
-Game project listed in a public open-source games catalogue.
+Historical source code for Catacomb, an early top-down fantasy action game; the game data has separate licensing.
 
 **License:** GPL-2.0
 
@@ -26728,7 +28328,7 @@ Helicopter shooter.
 
 ### [Gloomy Dungeons 2](https://github.com/restorer/gloomy-dungeons-2)
 
-Game project listed in a public open-source games catalogue.
+Explore and fight through an old-school 3D shooter sequel with lighting and varied floor and ceiling textures.
 
 **License:** MIT
 
@@ -26786,6 +28386,16 @@ Word War vi is a retro-styled old school side-scrolling shooter reminiscent of D
 
 ---
 
+### [13](https://github.com/eliasku/13)
+
+Fight other players in fast-paced, top-down multiplayer shootouts.
+
+**License:** 
+
+**Stars:** 99
+
+---
+
 ### [Ringed](https://github.com/kobuge-incubator/ringed)
 
 Top-down shooter with extensive usage of light effects.
@@ -26798,7 +28408,7 @@ Top-down shooter with extensive usage of light effects.
 
 ### [FQuake3](https://github.com/tihan/fquake3)
 
-Game project listed in a public open-source games catalogue.
+An unfinished attempt to implement Quake III Arena in F# for Windows.
 
 **License:** GPL-2.0
 
@@ -26808,7 +28418,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [EDGE](https://github.com/3dfxdev/edge)
 
-Game project listed in a public open-source games catalogue.
+An advanced Doom-engine source port focused on modding and game development.
 
 **License:** GPL-2.0
 
@@ -26828,7 +28438,7 @@ Dodge dense bullet patterns and destroy transforming battleships across four dis
 
 ### [Gloomy Dungeons](https://github.com/restorer/gloomy-dungeons-3d)
 
-Game project listed in a public open-source games catalogue.
+Fight through levels in an old-school 3D shooter for Android inspired by early first-person games.
 
 **License:** MIT
 
@@ -26838,11 +28448,21 @@ Game project listed in a public open-source games catalogue.
 
 ### [The Catacomb](https://github.com/catacombgames/thecatacomb)
 
-Game project listed in a public open-source games catalogue.
+Historical source code for The Catacomb, also known as Catacomb II; the game data has separate licensing.
 
 **License:** GPL-2.0
 
 **Stars:** 71
+
+---
+
+### [JS13K Battlegrounds](https://github.com/codyebberson/js13k-battlegrounds)
+
+Gather ammunition and fight other players in a battle royale where the last survivor wins.
+
+**License:** 
+
+**Stars:** 64
 
 ---
 
@@ -26858,7 +28478,7 @@ A fast multiplayer shooter on wheels written in Rust using the Fyrox engine. Fre
 
 ### [Soldank](https://github.com/smokku/soldank)
 
-Game project listed in a public open-source games catalogue.
+A work-in-progress Rust recreation of the Soldat multiplayer shooter engine.
 
 **License:** MIT
 
@@ -26898,7 +28518,7 @@ Content license?.
 
 ### [OpenNitemare3D](https://github.com/bbqgiraffe/opennitemare3d)
 
-Game project listed in a public open-source games catalogue.
+A work-in-progress reimplementation of the 1994 first-person shooter Nitemare 3D.
 
 **License:** AGPL-3.0
 
@@ -26976,6 +28596,16 @@ Play a compact side-scrolling shooter expanded and polished beyond its original 
 
 ---
 
+### [DEAD AGAIN](https://github.com/sanojian/js13k_2022)
+
+Defend yourself against waves of zombies, vampires and other evil spirits.
+
+**License:** MIT
+
+**Stars:** 30
+
+---
+
 ### [Powermanga](https://github.com/brunonymous/Powermanga)
 
 A 2D arcade shooter.
@@ -26988,7 +28618,7 @@ A 2D arcade shooter.
 
 ### [Future Cop: MIT](https://github.com/ghoster738/future-cop-mit)
 
-Game project listed in a public open-source games catalogue.
+An open-source engine project for Future Cop: LAPD that requires original game data.
 
 **License:** MIT
 
@@ -27008,7 +28638,7 @@ html5 multiplayer game with nodejs server
 
 ### [Raptor: Call of the Shadows](https://github.com/aroldanju/raptor-call-of-the-shadows)
 
-Game project listed in a public open-source games catalogue.
+A clone of the 1994 top-down shooter Raptor: Call of the Shadows.
 
 **License:** GPL-3.0
 
@@ -27038,9 +28668,19 @@ A first-person arena shooter with parkour movement, including impulse boosts and
 
 ### [Maelstrom](https://github.com/richardjs/Maelstrom)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Pilot a ship and shoot asteroids in a fork of the SDL port of the classic arcade game Maelstrom.
 
 **License:** GPL-2.0
+
+**Stars:** 23
+
+---
+
+### [Project FreeGUN](https://github.com/devmcclu/Project-FreeGUN)
+
+Play a 2D multiplayer shooter that also serves as a starting point for building other Godot games.
+
+**License:** MIT
 
 **Stars:** 23
 
@@ -27088,7 +28728,7 @@ Fight tank battles in a two-dimensional shooter inspired by Battle City.
 
 ### [RPG-X](https://github.com/UberGames/rpgxEF)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+A modified Elite Force engine and game code for the RPG-X role-playing mod.
 
 **License:** GPL-2.0
 
@@ -27128,7 +28768,7 @@ Assets license unclear.
 
 ### [Thugaim](https://github.com/meoblast001/thugaim)
 
-Game project listed in a public open-source games catalogue.
+Pilot a ship in a simple Android space shooter.
 
 **License:** MIT
 
@@ -27138,7 +28778,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Tyrian Remake](https://github.com/b3dgs/tyrian-remake)
 
-Game project listed in a public open-source games catalogue.
+Fly and shoot through levels in a Java remake of the classic game Tyrian.
 
 **License:** AGPL-3.0
 
@@ -27178,7 +28818,7 @@ Move up and down a central corridor, fire into side lanes and dodge alien traffi
 
 ### [JetPac](https://github.com/ian-wigley/jetpac)
 
-Game project listed in a public open-source games catalogue.
+Fly and assemble a spacecraft in a C# remake of the ZX Spectrum game Jetpac.
 
 **License:** MIT
 
@@ -27278,7 +28918,7 @@ Battle two to four players in a top-down bullet-hell shooter across five randoml
 
 ### [noiz2-droid](https://github.com/alistairrutherford/noiz2-droid)
 
-Game project listed in a public open-source games catalogue.
+Play the original Noiz2 arcade shooter in an Android port.
 
 **License:** 2-clause BSD
 
@@ -27468,7 +29108,7 @@ A simple game to explore the SDL library
 
 ### [Torrega Race](https://github.com/andwj/torrega)
 
-Game project listed in a public open-source games catalogue.
+Pilot a ship and shoot enemies in a LÖVE arcade game inspired by Omega Race.
 
 **License:** GPL-3.0
 
@@ -27516,9 +29156,9 @@ A 3D rail shooter with flight controls, enemy formations, bosses, and synthesize
 
 ---
 
-### [Side-scrolling Shooter — Claude Games](https://github.com/mohi-devhub/claude-games)
+### [Pygame Space Shooting Game](https://github.com/LukeTsengTW/pygame-space-shooting-game)
 
-A terminal shooter with movement, enemies, and scoring.
+Pilot a ship through a 15-level vertical shooter, fighting bosses and spending earned coins on weapons and support upgrades.
 
 **License:** MIT
 
@@ -27546,6 +29186,16 @@ Defend a planet&#039;s core from invaders in a minimalist space shooter inspired
 
 ---
 
+### [Super Star Fighter](https://github.com/DumpsterFireLabs/SuperStarFighter)
+
+Battle other pilots in a multiplayer spaceship arena, drafting stacking upgrade cards between rounds and playing solo or team modes.
+
+**License:** MIT
+
+**Stars:** 3
+
+---
+
 ### [Vectoroids](https://github.com/billkendrick/vectoroids)
 
 Steer and rotate a spacecraft through a field of drifting rocks, firing to break them apart while avoiding collisions in an Asteroids-style game.
@@ -27566,11 +29216,31 @@ Battle up to three local players in an Asteroids-like space game with a two-seco
 
 ---
 
+### [Asteroids Extended](https://github.com/jaller94/line-factory)
+
+Pilot a ship through space, exploring and firing at asteroids.
+
+**License:** MIT
+
+**Stars:** 2
+
+---
+
 ### [Blade Gunner](https://github.com/herebefrogs/bladegunner)
 
 Chase glitching androids through randomized levels, shooting them before they can harm civilians.
 
 **License:** MIT
+
+**Stars:** 2
+
+---
+
+### [Deathmatch Dungeon](https://github.com/olvr/deathmatch-dungeon)
+
+Battle other players as mages in a pixel-art multiplayer deathmatch.
+
+**License:** 
 
 **Stars:** 2
 
@@ -27686,6 +29356,16 @@ Move and shoot to defend a dual-core CPU from waves of crawling bugs.
 
 ---
 
+### [Out Of Office](https://github.com/rrafols/OutOfOffice_js13k)
+
+Fight waves of gray enemies as a unicorn in a top-down arena shooter, restoring color to the meadow with each defeat.
+
+**License:** Apache-2.0
+
+**Stars:** 1
+
+---
+
 ### [Paratrooper](https://github.com/denix666/paratrooper)
 
 Defend against descending paratroopers in a remake of the classic arcade shooting game.
@@ -27701,6 +29381,16 @@ Defend against descending paratroopers in a remake of the classic arcade shootin
 Switch between five laser colors to destroy matching enemies before they reach a defense line, choosing upgrades as you survive.
 
 **License:** 
+
+**Stars:** 1
+
+---
+
+### [Space Shooter](https://github.com/SarthakBharad-Godot/space-shooter)
+
+Dodge and shoot asteroids for a high score in a progressively harder arcade space shooter; its screenshot path needs configuration before running.
+
+**License:** GPL-3.0
 
 **Stars:** 1
 
@@ -27776,6 +29466,26 @@ Pilot a spacecraft trapped in reverse time, choosing how to cope as it loses upg
 
 ---
 
+### [Aargh! Triskaideka attacks!](https://github.com/DerBenniBanni/js13k2024_Triskaideka)
+
+Pilot an experimental rocket to defend Earth against an invading alien fleet.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
+### [Ace Cadet!](https://github.com/nowaythisworks/JS13k)
+
+Fly a top-down space fighter and defend your homeworld against attackers.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
 ### [Angry Cleaning Robot](https://github.com/hagainiv/Angry-cleaning-robot)
 
 Control a cleaning robot in a shooter prototype about robots fighting one another.
@@ -27831,6 +29541,16 @@ Shoot through a vertical scrolling battlefield and rewind time briefly to escape
 A browser zombie extraction shooter with contracts, gear upgrades, and helicopter escape.
 
 **License:** MIT
+
+**Stars:** 0
+
+---
+
+### [Detro](https://github.com/jBlack87/Detro)
+
+Fly a jetpack-powered alien and shoot creatures in space while watching where your bullets travel.
+
+**License:** 
 
 **Stars:** 0
 
@@ -28149,7 +29869,7 @@ Survive escalating zombie waves, earning currency to buy weapon upgrades between
 </details>
 
 <details>
-<summary>Simulation (123)</summary>
+<summary>Simulation (126)</summary>
 
 ### [Endless Sky](https://github.com/endless-sky/endless-sky)
 
@@ -28163,7 +29883,7 @@ Space trading and combat game similar to the classic Escape Velocity series.
 
 ### [minecraft-weekend](https://github.com/jdah/minecraft-weekend)
 
-Game project listed in a public open-source games catalogue.
+Explore an infinite, procedurally generated voxel world with biomes and a day-night cycle in a Minecraft-inspired project.
 
 **License:** MIT
 
@@ -28313,7 +30033,7 @@ Build fantasy card decks and duel a computer opponent in a single-player Magic: 
 
 ### [OpenTS2](https://github.com/lazyduchess/opents2)
 
-Game project listed in a public open-source games catalogue.
+An early Unity reimplementation of The Sims 2, currently providing a basic menu and neighborhood chooser.
 
 **License:** AGPL-3.0
 
@@ -28323,7 +30043,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Koi Farm](https://github.com/jobtalle/koi)
 
-Game project listed in a public open-source games catalogue.
+Breed koi and discover their patterns in a fish-breeding game.
 
 **License:** Apache-2.0
 
@@ -28413,7 +30133,7 @@ Build a settlement above a dungeon and keep the adventurers supplied while they 
 
 ### [EliFUT Android](https://github.com/elifut/android)
 
-Game project listed in a public open-source games catalogue.
+Manage a football team in an Android game inspired by Elifoot and football trading-card data.
 
 **License:** Apache-2.0
 
@@ -28423,7 +30143,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [sh3redux](https://github.com/palm-studios/sh3redux)
 
-Game project listed in a public open-source games catalogue.
+An OpenGL and C++ engine remake for Silent Hill 3.
 
 **License:** AGPL-3.0
 
@@ -28463,7 +30183,7 @@ Restarted in 2020.
 
 ### [Zen!](https://github.com/juankysoriano/zen)
 
-Game project listed in a public open-source games catalogue.
+An open-source meditation sketch for Android rather than a conventional game.
 
 **License:** GPL-2.0
 
@@ -28473,7 +30193,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [OpenGoo](https://github.com/mandarancio/opengoo)
 
-Game project listed in a public open-source games catalogue.
+An unplayable pre-alpha remake of the physics puzzle game World of Goo.
 
 **License:** GPL-3.0
 
@@ -28503,7 +30223,7 @@ A performance-friendly 3D space game inspired by Freelancer, Orbiter and EVE (an
 
 ### [Project Dollhouse](https://github.com/afr0games/project-dollhouse)
 
-Game project listed in a public open-source games catalogue.
+A reconstruction of The Sims Online with a client and server; the original game&#039;s data is required.
 
 **License:** MPL-2.0
 
@@ -28543,7 +30263,7 @@ Manage a street vendor&#039;s shop while balancing health, personal interests an
 
 ### [Jactorio](https://github.com/jaihysc/jactorio)
 
-Game project listed in a public open-source games catalogue.
+Build and automate production in a work-in-progress Factorio-inspired game.
 
 **License:** MIT
 
@@ -28633,7 +30353,7 @@ Fly helicopter missions in a search-and-rescue simulator.
 
 ### [Gnomescroll](https://github.com/gnomescroll/gnomescroll)
 
-Game project listed in a public open-source games catalogue.
+Explore a multiplayer voxel world in a game with a client and server.
 
 **License:** AGPL-3.0
 
@@ -28663,7 +30383,7 @@ Guide Kelly through marriage and life on an alien colony, choosing her work, hob
 
 ### [sccopter](https://github.com/fr0zi/sccopter)
 
-Game project listed in a public open-source games catalogue.
+An early SimCopter remake that currently focuses on loading and rendering terrain.
 
 **License:** MIT
 
@@ -28743,7 +30463,7 @@ Paint roads and neighborhoods with broad gestures, then watch a city interpret y
 
 ### [Planet Lander](https://github.com/peip-2018-work-nantes-dut-info/planet-lander-lunar-lander-with-pygame)
 
-Game project listed in a public open-source games catalogue.
+Land a spacecraft on randomly generated terrain in a Lunar Lander-inspired game with an optional computer player.
 
 **License:** MIT
 
@@ -28886,6 +30606,16 @@ Explore and survive underwater in a game for Minetest.
 Descent 3 by Outrage Entertainment.
 
 **License:** AGPL-3.0
+
+**Stars:** 5
+
+---
+
+### [Dragon Simulator](https://github.com/madmaw/akitw)
+
+Live as a dragon on an island: fly, hatch eggs, feed your young and terrorize villagers.
+
+**License:** 
 
 **Stars:** 5
 
@@ -29051,6 +30781,16 @@ Guide a spacecraft through a landing on the surface of Mars.
 
 ---
 
+### [Adopt-a-Fire](https://github.com/vicksonzero/adopt-a-fire)
+
+Keep a campfire alive by chopping and splitting wood and managing its fuel, airflow and heat.
+
+**License:** 
+
+**Stars:** 2
+
+---
+
 ### [Forklift Simulator 2022](https://github.com/jeremiahfernandez97/forklift-simulator-2022)
 
 Drive a forklift and place crates on shelves while avoiding fatal mishaps.
@@ -29093,7 +30833,7 @@ Sail between islands as a fisherman, buying and selling supplies and fishing for
 
 ### [ld49-unstable](https://github.com/tinywhalecloud/ld49-unstable)
 
-Entry for the Ludum Dare 49 game jam with the topic &quot;unstable&quot;. - A space taxi driver simulator, or something like that.
+Work as a space taxi driver in a game-jam simulation set in an unstable parallel universe.
 
 **License:** 
 
@@ -29163,7 +30903,7 @@ Maneuver an astronaut back to an airlock with limited fuel and oxygen, slowing d
 
 ### [Top-Down-2D-Flight-Simulator](https://github.com/arc8ne/top-down-2d-flight-simulator)
 
-Public game repository indexed under GitHub game topics.
+A top-down 2D flight simulator; the repository provides little additional gameplay documentation.
 
 **License:** 
 
@@ -29196,6 +30936,16 @@ Photograph the northern lights in the wilderness, trying to improve your ratings
 Fulfill creature assembly requests as a bio-server and spend earned likes on upgrades.
 
 **License:** MIT
+
+**Stars:** 0
+
+---
+
+### [Black Cat Caffee](https://github.com/kuszabe/js13k2025)
+
+Run a coffee shop as a cat, making drinks and serving customers.
+
+**License:** 
 
 **Stars:** 0
 
@@ -29384,7 +31134,7 @@ Mobile-friendly 3D ASMR physics simulator built with Three.js, Web Audio, and or
 </details>
 
 <details>
-<summary>Sports (35)</summary>
+<summary>Sports (40)</summary>
 
 ### [Open Golf](https://github.com/mgerdes/Open-Golf)
 
@@ -29468,7 +31218,7 @@ Host an online soccer-management game using a PHP website, a database and schedu
 
 ### [Skifree-HTML5-clone](https://github.com/andymason/skifree-html5-clone)
 
-Game project listed in a public open-source games catalogue.
+Ski downhill in a simple browser remake of Microsoft&#039;s SkiFree.
 
 **License:** GPL-3.0
 
@@ -29556,6 +31306,16 @@ Unusual Ping Pong game, adaptable with Makey Makey Kit.
 
 ---
 
+### [Billionaire Space Golf](https://github.com/nkholski/billionaire-space-golf)
+
+Play a nine-world space golf course set among the leisure pursuits of futuristic billionaires.
+
+**License:** MIT
+
+**Stars:** 5
+
+---
+
 ### [Bygfoot](https://github.com/kashifsoofi/bygfoot)
 
 - Bygfoot — Football management simulation.
@@ -29573,6 +31333,16 @@ Race another player online in a keyboard-based sprint.
 **License:** 
 
 **Stars:** 3
+
+---
+
+### [Coding Golf - Broken Links](https://github.com/picosonic/js13k-2020)
+
+Play a game of coding-themed golf while sporting events are shut down on a distant planet.
+
+**License:** MIT
+
+**Stars:** 2
 
 ---
 
@@ -29656,11 +31426,41 @@ Train an aspiring athlete in a small town, developing stats and playing sports m
 
 ---
 
+### [Black Cat's Rise](https://github.com/michelts/black-cats-rise)
+
+Manage Sunderland&#039;s promotion campaign, adjusting tactics and boosting players from the touchline.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Breakneck Baseball](https://github.com/hynding/breakneck-baseball)
 
 A 3D arcade baseball game in Rust and Bevy, with pitching, batting, computer opponents, and two-player modes.
 
 **License:** MIT OR Apache-2.0
+
+**Stars:** 0
+
+---
+
+### [CrickX](https://github.com/uppalasrichaitanya/CrickX)
+
+Play cricket ball by ball, choosing shots and deliveries in quick matches, tournaments or multiplayer.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
+### [Drunken Cornhole](https://github.com/srmcgann/drunken_cornhole_js13k)
+
+Play cornhole against the computer, trying to reach 21 points while managing a drunken player&#039;s unsteady balance.
+
+**License:** 
 
 **Stars:** 0
 
@@ -29739,7 +31539,7 @@ Perform backflips and wheelies over hills to build combos and create rainbows.
 </details>
 
 <details>
-<summary>Strategy (188)</summary>
+<summary>Strategy (194)</summary>
 
 ### [VCMI](https://github.com/vcmi/vcmi)
 
@@ -30123,7 +31923,7 @@ Strategy game based on history, mythology and fiction.
 
 ### [Project Porcupine](https://github.com/orderoftheporcupine/projectporcupine)
 
-Game project listed in a public open-source games catalogue.
+Build and manage a base in space in a community game-development project.
 
 **License:** AGPL-3.0
 
@@ -30353,7 +32153,7 @@ OutpostHD - Open source remake of Sierra On-Line&#039;s Outpost.
 
 ### [TVTower](https://github.com/tvtower/tvtower)
 
-Game project listed in a public open-source games catalogue.
+Run a television station, schedule programs and sell advertising in a free tribute to Mad TV.
 
 **License:** 
 
@@ -30403,7 +32203,7 @@ Trade drugs across New York in turns, managing money while avoiding the police.
 
 ### [OpenMoM](https://github.com/jakz/openmom)
 
-Game project listed in a public open-source games catalogue.
+A cross-platform reimplementation of the fantasy strategy game Master of Magic, aiming for accuracy and extensibility.
 
 **License:** AGPL-3.0
 
@@ -30573,7 +32373,7 @@ Assign villagers to farming, construction, defense and research, growing a forti
 
 ### [Source of Tales](https://github.com/tales/sourceoftales)
 
-Entry in the Liberated Pixel Cup 2012.
+Explore a multiplayer role-playing world using the Mana client and the project&#039;s modified game client.
 
 **License:** GPL-3.0
 
@@ -30583,7 +32383,7 @@ Entry in the Liberated Pixel Cup 2012.
 
 ### [Colditz Escape](https://github.com/aperture-software/colditz-escape)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Guide four prisoners of war through Colditz Castle as they try to escape in a reimplementation of the Amiga game.
 
 **License:** GPL-3.0
 
@@ -30603,7 +32403,7 @@ Select raiders and assign tasks in a browser recreation of Lego Rock Raiders, us
 
 ### [FOnline](https://github.com/sir-wabbit/fonline)
 
-Game project listed in a public open-source games catalogue.
+An open-source implementation of Fallout Online, the multiplayer role-playing game.
 
 **License:** AGPL-3.0
 
@@ -30853,7 +32653,7 @@ Play a small turn-based strategy game inspired by Enemy Flag in a browser, with 
 
 ### [Castle-Combat](https://github.com/karlb/castle-combat)
 
-Game project listed in a public open-source games catalogue.
+Build castle walls, place cannons and attack rivals in a Rampart-inspired game for up to four local or network players.
 
 **License:** GPL-2.0
 
@@ -30923,7 +32723,7 @@ Build traps to defend a family&#039;s home, then equip tools to break into other
 
 ### [KittenMaxit](https://github.com/ahmetkasif/kmaxit)
 
-Game project listed in a public open-source games catalogue.
+A LibGDX remake of the number-selection puzzle game Maxit.
 
 **License:** MIT
 
@@ -30933,7 +32733,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [c64-nuclearreaction](https://github.com/maikmerten/c64-nuclearreaction)
 
-Game project listed in a public open-source games catalogue.
+A Commodore 64 game based on the Amiga strategy game Nuclear Reaction.
 
 **License:** AGPL-3.0
 
@@ -30943,7 +32743,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Fish Rings for Android](https://github.com/velbazhdsoftwarellc/fishringsforandroid)
 
-Game project listed in a public open-source games catalogue.
+Manipulate interlocking rings in an Android puzzle inspired by the Rubik&#039;s Cube.
 
 **License:** AGPL-3.0
 
@@ -31033,7 +32833,7 @@ A browser-based, StarCraft-style asymmetric RTS set in a mythic pre-flood world 
 
 ### [chainreaction](https://github.com/maikmerten/chainreaction)
 
-Game project listed in a public open-source games catalogue.
+An experimental Java game based on the strategy game Nuclear Reaction.
 
 **License:** GPL-3.0
 
@@ -31063,7 +32863,7 @@ Choose a Turkish region and address its environmental problems through a strateg
 
 ### [M.E.W.L.](https://github.com/lionsphil/mewl)
 
-Game project listed in a public open-source games catalogue.
+An incomplete open-source remake of the multiplayer economic strategy game M.U.L.E.
 
 **License:** GPL-2.0
 
@@ -31073,7 +32873,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Maxit](https://github.com/nurfalie/maxit)
 
-Linux-compatible open-source game listed in the Open Source Games List.
+Choose numbers from the row or column of your opponent&#039;s previous move in a single-player grid puzzle.
 
 **License:** 3-clause BSD (https://github.com/textbrowser/maxit/blob/master/LICENSE)
 
@@ -31163,7 +32963,7 @@ A homemade island development game inspired by &quot;箱庭諸島&quot;. Support
 
 ### [Liquid Wars](https://github.com/xenris/liquid-wars-android)
 
-Game project listed in a public open-source games catalogue.
+Command a flowing army in an Android remake of the open-source game Liquid War.
 
 **License:** MIT
 
@@ -31234,6 +33034,16 @@ A TRON-inspired 3D tactical strategy experiment with local and online play.
 ### [Hex Game](https://github.com/matthewgrimes/hexgame)
 
 Game project listed in a public open-source games catalogue.
+
+**License:** MIT
+
+**Stars:** 2
+
+---
+
+### [Mongol March](https://github.com/leokuo0724/mongol-march)
+
+Arrange Tetris-like blocks to summon soldiers and attack castles as a Mongol commander.
 
 **License:** MIT
 
@@ -31326,6 +33136,16 @@ Online version of previous strategy games at Dürer Competition.
 An open source multiplayer space strategy game.
 
 **License:** MIT
+
+**Stars:** 1
+
+---
+
+### [Game of Backstabbers](https://github.com/Michael-wm/js13k2019-Game-of-Backstabbers)
+
+Gather resources and pay tribute to the king as rival houses compete for the crown.
+
+**License:** 
 
 **Stars:** 1
 
@@ -31471,9 +33291,29 @@ Lead three heroes against five goblins in a village arena trial.
 
 ---
 
+### [Astro Miners](https://github.com/lanceewing/astro-miners)
+
+Direct robotic mining ships on an asteroid as part of a remote-controlled space mining operation.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [ChaosGame](https://github.com/0mart00/chaosgame)
 
 chaotic 2D real-time strategy game built from scratch. Command units with random skills, unlock advanced tech trees, and survive the tactical onslaught.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Claw'opatra and the Gods of Egypt](https://github.com/KamilZu/Clawopatra)
+
+Lead a civilization as a black cat and Egyptian god.
 
 **License:** 
 
@@ -31551,9 +33391,29 @@ Lead a party along the Silk Road, managing the journey so at least one traveler 
 
 ---
 
+### [Noble Rivers](https://github.com/hex13/noble-rivers)
+
+Build resource-producing settlements and buy land as a baron in an unfinished strategy game.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [OpenLRR](https://github.com/vs49688/openlrr)
 
 Lead a crew of LEGO miners underground, drilling tunnels, collecting energy crystals, and building a base while avoiding cave hazards.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [RESCUE not FOUND](https://github.com/dbrad/js13k2020)
+
+Roll dice and assign crew to repair a stranded shuttle, manage oxygen and power, and send a distress signal.
 
 **License:** 
 
@@ -31624,7 +33484,7 @@ Command units against the computer, using terrain and positioning to defeat its 
 </details>
 
 <details>
-<summary>Survival (24)</summary>
+<summary>Survival (31)</summary>
 
 ### [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA)
 
@@ -31668,7 +33528,7 @@ Fight undead enemies in a graveyard and try to escape in a retro-styled survival
 
 ### [Bloodworks](https://github.com/shultays/bloodworks)
 
-Game project listed in a public open-source games catalogue.
+Survive endless waves of monsters in a top-down shooter, finding weapons and choosing perks as you level up.
 
 **License:** AGPL-3.0
 
@@ -31716,6 +33576,26 @@ Horror survival game where you play as Antonio, fending off cats and toys in you
 
 ---
 
+### [Bit Butcher](https://github.com/deathraygames/bit-butcher)
+
+Explore as a hungry mortal, wield tools and butcher animals to complete achievements.
+
+**License:** MIT
+
+**Stars:** 3
+
+---
+
+### [Horde Survival Game](https://github.com/ProMedi24-1/HordeSurvivalGame)
+
+Fight waves of enemies in a Survivors-style game, choosing between fixed difficulty and difficulty that adapts to the player.
+
+**License:** 
+
+**Stars:** 3
+
+---
+
 ### [Lost Caves](https://github.com/compilersEllie/13k_lost)
 
 Explore a cave for chests and survive as long as possible against its creepy inhabitants.
@@ -31753,6 +33633,16 @@ Fight a dark cult in a survival game where every thirteenth kill summons a demon
 **License:** 
 
 **Stars:** 2
+
+---
+
+### [Arena Survivor](https://github.com/Hartwich/arena-survivor)
+
+Choose a character and survive enemy waves with friends in a co-op arena game; requires the Open Party Lab platform.
+
+**License:** Apache-2.0
+
+**Stars:** 1
 
 ---
 
@@ -31796,6 +33686,26 @@ Scavenge and craft weapons, build defenses and protect a core against waves of e
 
 ---
 
+### [A Hungry Black](https://github.com/skyatmoon/js13k2025)
+
+Help a hungry black cat survive threats from other animals as it grows up in a spherical world.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [B1ack0ut](https://github.com/IMakeGames/blackout13k)
+
+Try to survive a world that has gone offline while coping with the protagonist&#039;s internet addiction.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Crab Island](https://github.com/Aboisier/crab_island)
 
 Survive on a crab-filled island by gathering wood, building barriers and catching food while managing your energy.
@@ -31809,6 +33719,26 @@ Survive on a crab-filled island by gathering wood, building barriers and catchin
 ### [deadline-survivors](https://github.com/yl0711-coder/deadline-survivors)
 
 A tiny local arcade survival game about shipping patches while bugs, meetings, alerts, and production outages close in.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Escape from XGS-57](https://github.com/diningeachox/escape_from_XGS_57)
+
+Manage scarce space and water on an ocean planet while rebuilding a rocket to escape.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Feb 13th: Death's Day Off](https://github.com/FiveEsses/2022-js13k-Feb13th)
+
+Play as Death on a day off, killing or avoiding the people who keep approaching.
 
 **License:** 
 
@@ -31869,7 +33799,7 @@ A prototype for a tactical space survival game about exploring a hostile galaxy,
 </details>
 
 <details>
-<summary>Tower Defense (31)</summary>
+<summary>Tower Defense (40)</summary>
 
 ### [Mindustry](https://github.com/Anuken/Mindustry)
 
@@ -31961,6 +33891,16 @@ Build up a crystal core and balance idle progress against incoming waves in a to
 
 ---
 
+### [Defending Todot](https://github.com/crystal-bit/defending-todot)
+
+Place towers to defend a city against waves of enemies in a Kingdom Rush-inspired game.
+
+**License:** GPL-3.0
+
+**Stars:** 26
+
+---
+
 ### [Grave Robbers](https://github.com/adamatomic/graverobbers)
 
 Sort of GIRP-inspired tower defense. Play it now!.
@@ -32003,11 +33943,31 @@ Anime-style deckbuilding tower defense game.
 
 ### [Creep Smash](https://github.com/khakulov/creeptd)
 
-Game project listed in a public open-source games catalogue.
+Build defenses and send waves against opponents in an online tower-defense game for two to four players.
 
 **License:** GPL-3.0
 
 **Stars:** 8
+
+---
+
+### [Defense of the 13th City](https://github.com/Kimbatt/js13k-2023)
+
+Defend a city against attackers in a compact tower defense game.
+
+**License:** 
+
+**Stars:** 7
+
+---
+
+### [Duel Defense](https://github.com/duel-defense/duel-defense)
+
+Defend against enemies by placing towers in a moddable tower defense game.
+
+**License:** MIT
+
+**Stars:** 5
 
 ---
 
@@ -32031,9 +33991,29 @@ Build towers along a route to stop enemy forces from reaching your medieval cast
 
 ---
 
+### [One Guard](https://github.com/Alpine-Games/One-Guard)
+
+Shoot waves of attackers as the lone guard defending a medieval tower.
+
+**License:** Unlicense
+
+**Stars:** 2
+
+---
+
 ### [Plants vs. Zombies Recreation — Vibe Games](https://github.com/icebear0828/vibe-games/tree/main/recreate-plants-vs-zombies)
 
 Fan tower-defense remake with planting grids, sun resources, and zombie waves.
+
+**License:** MIT
+
+**Stars:** 2
+
+---
+
+### [Tower Defense Prototype](https://github.com/GuaraProductions/towerdefensegodot)
+
+Place and upgrade towers to stop waves of enemies across selectable levels in a Godot tower defense prototype.
 
 **License:** MIT
 
@@ -32048,6 +34028,16 @@ Build platforms, guns, shields and generators to defend against six waves of ene
 **License:** 
 
 **Stars:** 2
+
+---
+
+### [Grass Tower Defense](https://github.com/kangjung/Grass-Tower-Defense)
+
+Place defenses to stop waves of cats from overrunning a GitHub-inspired grid.
+
+**License:** 
+
+**Stars:** 1
 
 ---
 
@@ -32091,6 +34081,26 @@ Build elemental towers to stop waves of monsters from stealing gold and unlock n
 
 ---
 
+### [Fortifia](https://github.com/jaredyork/js13k-2023)
+
+Place bricks around a crown, Tetris-style, to build defenses against incoming waves.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Gears Not Found](https://github.com/M0965941/gears-not-found)
+
+Buy and place towers, directing their fire with the mouse while dealing with towers that lock up over time.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [geo-td](https://github.com/slb350/geo-td)
 
 Geometric roguelike tower defense in Lua on the Usagi engine: primitive-shape visuals, route drafting, resonance builds, boss arenas, meta-progression, replay verification, and deterministic smoke tests.
@@ -32126,6 +34136,16 @@ Defend a computer from escalating viral attacks by placing defenses on circuit b
 Build an energy network and defenses to survive fifty waves of attackers.
 
 **License:** 
+
+**Stars:** 0
+
+---
+
+### [Rogue Tower Defense](https://github.com/amreinch/rogue-tower-defense)
+
+Place towers to hold back waves on procedurally generated maps, earning permanent upgrades between runs.
+
+**License:** MIT
 
 **Stars:** 0
 
@@ -32184,7 +34204,7 @@ Build and combine magical towers to defend a unicorn castle from endless waves a
 </details>
 
 <details>
-<summary>Turn-Based Strategy (70)</summary>
+<summary>Turn-Based Strategy (78)</summary>
 
 ### [Unciv](https://github.com/yairm210/Unciv)
 
@@ -32418,7 +34438,7 @@ Squad-based tactical strategy game in the tradition of the old X-COM PC games.
 
 ### [Civ2-clone](https://github.com/axx0/civ2-clone)
 
-Game project listed in a public open-source games catalogue.
+A cross-platform reimplementation of Civilization II, including interfaces for the Multiplayer Gold and Test of Time editions.
 
 **License:** AGPL-3.0
 
@@ -32428,7 +34448,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [FrEee](https://github.com/ekolis/freee)
 
-Game project listed in a public open-source games catalogue.
+Build and manage a space empire in an enhanced open-source remake of Space Empires IV.
 
 **License:** CC-BY-NC-SA-2.0 (https://github.com/ekolis/FrEee/blob/master/FrEee.Assets/Licenses/license.txt)
 
@@ -32438,7 +34458,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [War Of Kingdom](https://github.com/freeors/war-of-kingdom)
 
-Game project listed in a public open-source games catalogue.
+Command units in a turn-based tactical strategy game based on the Rose engine.
 
 **License:** GPL-2.0
 
@@ -32488,7 +34508,7 @@ Research technology, settle star systems and negotiate or fight rival nations in
 
 ### [Xenowar](https://github.com/leethomason/unflobtactical)
 
-Game project listed in a public open-source games catalogue.
+Command squads in Xenowar, a turn-based tactical strategy game for Windows and Android.
 
 **License:** GPL-3.0
 
@@ -32558,7 +34578,7 @@ Send fleets between productive planets to conquer a galaxy against AI rivals or 
 
 ### [UFO2000](https://github.com/ufo2000/ufo2000)
 
-Game project listed in a public open-source games catalogue.
+A source mirror for UFO2000, a turn-based tactical combat game inspired by X-COM.
 
 **License:** GPL-2.0
 
@@ -32568,7 +34588,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [DemiGod](https://github.com/mattmatt0240/demigod)
 
-Game project listed in a public open-source games catalogue.
+A work-in-progress retro-style, turn-based RPG for Android.
 
 **License:** AGPL-3.0
 
@@ -32608,7 +34628,7 @@ Trade across space in an online, turn-based game whose server settings let playe
 
 ### [Isometric Turn-Based Strategy](https://github.com/matthewgrimes/itbs-code)
 
-Game project listed in a public open-source games catalogue.
+Move characters around an isometric battlefield and attack opponents in this tactical game project.
 
 **License:** MIT
 
@@ -32696,6 +34716,16 @@ A playable 3D turn-based tactical RPG built with Godot 4, featuring Swordsman, A
 
 ---
 
+### [War Perang Tactics](https://github.com/Eureka-Tech-Innovation/Tactical-RPG-Godot-Experimental)
+
+Capture buildings to fund an army and maneuver across rivers and bridges in a turn-based strategy prototype with terrain, morale and fog of war.
+
+**License:** MIT
+
+**Stars:** 2
+
+---
+
 ### [World of Heroes](https://github.com/fariazz/world-of-heroes)
 
 The player commands an army in the exploration and conquest of unknown realms, gathering resources and fighting enemies.
@@ -32721,6 +34751,16 @@ Lead teams of worms in turn-based battles with bazookas, miniguns and cluster bo
 Make tactical moves within thirteen seconds, sacrificing characters after each turn while trying to defeat enemies.
 
 **License:** 
+
+**Stars:** 1
+
+---
+
+### [Crown & Colony](https://github.com/BiffstaGaming/crown-and-colony)
+
+Build colonies, develop production and trade, and ultimately declare independence in a Godot remake of Colonization based on FreeCol’s rules.
+
+**License:** GPL-2.0
 
 **Stars:** 1
 
@@ -32786,6 +34826,16 @@ Ambiented in ancient Greece.
 
 ---
 
+### [Project Emberfall](https://github.com/niyazmft/emberfall)
+
+Play a work-in-progress tactical demo with grid combat, elevation, cover and elemental interactions such as fire and oil.
+
+**License:** MIT
+
+**Stars:** 1
+
+---
+
 ### [A Space in the Sun](https://github.com/ElementalSystems/pathgame)
 
 Grow vines across a broken courtyard in a turn-based strategy game by choosing how tiles crack.
@@ -32846,11 +34896,51 @@ Build mines to supply settlements and attract space travelers in a turn-based ec
 
 ---
 
+### [Empire of Sugar](https://github.com/mxlle/13k-2026-unicorns-and-rainbows)
+
+Explore a cloud-covered board as a unicorn in a turn-based game of light and sugar.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
 ### [Event horizon](https://github.com/arcadiogarcia/13kGame)
 
 Take turns moving and firing battleships against another player as black holes disturb the battlefield.
 
 **License:** 
+
+**Stars:** 0
+
+---
+
+### [Hex Crusaders](https://github.com/KeithKarnage/HexCrusaders)
+
+Command a small band of Templars against waves of horse archers, positioning units and choosing their facing.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Horns of War](https://github.com/orangeshortstuff/rainbow-game)
+
+Lead a band of unicorns in turn-based battles against a computer opponent or a friend.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
+### [Necromancer's Dungeon](https://github.com/svntax/js13k-2022)
+
+Defend a dungeon from adventurers as a necromancer, resurrecting their bones as minions in an unfinished turn-based game.
+
+**License:** MIT
 
 **Stars:** 0
 
@@ -32869,6 +34959,16 @@ Open-source native engine reimplementation for a 1998 turn-based strategy game (
 ### [Packet Thief](https://github.com/d-jeffery/js13kentry2018)
 
 Take turns spreading malware across a network mesh to control nodes and outscore another player.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
+### [Petty kingdoms](https://github.com/wiserim/js13k-2023-petty-kingdoms)
+
+Recruit and move armies to unite rival kingdoms on generated maps, against computer opponents or up to three local players.
 
 **License:** MIT
 
