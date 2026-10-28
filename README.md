@@ -118,7 +118,7 @@ Play Cave Story through a Rust engine replacement with modern usability features
 
 ### [Godot 2D Space Game](https://github.com/gdquest-demos/godot-2d-space-game)
 
-Godot 2D Space Game
+A top-down space-mining game where you collect iron from asteroids, upgrade your ship, and fend off rival pirate miners.
 
 **License:** MIT
 
@@ -128,7 +128,7 @@ Godot 2D Space Game
 
 ### [TR1X](https://github.com/LostArtefacts/TR1X)
 
-Open source implementation of the classic Tomb Raider I game.
+Guide Lara Croft through ancient tombs, solving puzzles, leaping over traps, and battling dangerous creatures in a 3D action adventure.
 
 **License:** AGPL-3.0
 
@@ -318,7 +318,7 @@ Command armored vehicles through destructible battlefields with armor and projec
 
 ### [donut](https://github.com/plowteam/donut)
 
-Reimplementation of The Simpsons: Hit &amp; Run in modern C++ and modern OpenGL.
+A project recreating The Simpsons: Hit &amp; Run, where players drive around Springfield, complete missions, and cause open-world mayhem.
 
 **License:** GPL-3.0
 
@@ -568,7 +568,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Abuse](https://github.com/Xenoveritas/abuse)
 
-An SDL2 port of the 1995 action game Abuse, adding fullscreen support, display scaling, and customizable controls.
+Fight mutant enemies through side-scrolling industrial levels, aiming your weapons freely while dodging traps and enemy fire.
 
 **License:** Public domain (parts), GPL-2.0 (parts), WTFPL (parts)
 
@@ -858,7 +858,7 @@ Outlast rival curves in a modern Achtung die Kurve remake that adds special weap
 
 ### [Ella - The Game](https://github.com/Crazy-Marvin/EllaTheGame)
 
-Ella - The Game
+An endless runner where you help a lost dog jump over obstacles and collect coins and gifts as the screen scrolls forward.
 
 **License:** MIT
 
@@ -1408,7 +1408,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Super Methane Brothers](https://github.com/rombust/Methane)
 
-Super Methane Brothers
+An Amiga arcade-game conversion where Puff and Blow trap enemies in gas clouds, suck them into their guns, and throw them into walls.
 
 **License:** GPL-2.0
 
@@ -1558,7 +1558,7 @@ A Metal Slug-inspired 2D action game built in C++ with SFML — featuring enemy 
 
 ### [Brick Buster](https://github.com/ufrshubham/Brick-Buster)
 
-Brick Buster
+Keep a bouncing ball in play with a paddle and smash through formations of bricks in a physics-driven arcade challenge.
 
 **License:** MIT
 
@@ -1588,7 +1588,7 @@ Collect slimes to grow an army and outlast rival groups in a browser arena.
 
 ### [Penguin Command](https://github.com/karlb/penguin-command)
 
-Penguin Command
+Aim defensive cannons and launch missiles to intercept incoming attacks before they destroy your bases in a Missile Command-style arcade game.
 
 **License:** GPL-2.0
 
@@ -1728,7 +1728,7 @@ OpenChaos — Fan Modernization of Urban Chaos.
 
 ### [SDL Bomber](https://github.com/HerbFargus/SDL-Bomber)
 
-SDL Bomber
+Place timed bombs in grid-like arenas to blast through obstacles and trap rivals in an Atomic Bomberman-style game.
 
 **License:** GPL-2.0
 
@@ -2123,7 +2123,7 @@ Work a space-station job while other players maintain, sabotage, and improvise t
 
 ### [TetraForce](https://github.com/loudsmilestudios/TetraForce)
 
-A top-down action adventure inspired by classic Zelda games, with online multiplayer, item randomization, and mod support.
+Explore top-down areas, battle enemies, solve puzzles, and collect equipment with friends in a Zelda-inspired action adventure.
 
 **License:** MIT
 
@@ -2283,7 +2283,7 @@ A professional and creative text-based adventure game in Rust, showcasing memory
 
 ### [The Ur-Quan Masters HD MegaMod](https://github.com/JHGuitarFreak/UQM-MegaMod)
 
-The Ur-Quan Masters HD MegaMod
+Captain a starship across the galaxy, meeting alien civilizations, gathering resources, and fighting real-time space battles to oppose the Ur-Quan.
 
 **License:** GPL-2.0
 
@@ -2503,7 +2503,7 @@ Remake of the 1986 game They Stole a Million / The Clue!. May require original g
 
 ### [TaleWeaver](https://github.com/jschm42/taleweaver)
 
-TaleWeaver
+Explore AI-generated adventures, talk with characters, solve puzzles, and make choices that steer an evolving roleplaying story.
 
 **License:** MIT
 
@@ -3718,7 +3718,7 @@ A 2D online multiplayer game inspired by Flappy Bird and Mario Kart for desktop 
 
 ### [Savage Wheels](https://github.com/kenamick/savagewheels)
 
-Savage Wheels
+A 2D demolition-derby arcade game where you ram opponents, collect upgrades, and compete in a campaign or two-player hot-seat mode.
 
 **License:** MIT
 
@@ -4458,7 +4458,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Bomberman SDL2](https://github.com/i-bardinov/bomberman-sdl2)
 
-Bomberman SDL2
+A C++/SDL2 Bomberman clone where you defeat enemies and find the exit hidden among bricks before the 200-second timer runs out.
 
 **License:** 3-clause BSD
 
@@ -5523,7 +5523,7 @@ Texas Hold&#039;em poker game playable against up to nine computer-opponents or 
 
 ### [PySol Fan Club edition](https://github.com/shlomif/PySolFC)
 
-A cross-platform collection of card solitaire and patience games, with numerous variants and a Python-based desktop interface.
+Play a wide selection of solitaire card games, sorting cards into suits and foundations under many different rule sets.
 
 **License:** GPL-3.0
 
@@ -6318,7 +6318,7 @@ Experimental city simulator based on emergent systems.
 
 ### [OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K)
 
-Remake of SimCity 2000 by Maxis in Godot engine.
+Lay roads, zone districts, supply utilities, and balance taxes as a city grows and faces fires, traffic, and other disasters.
 
 **License:** MIT
 
@@ -6428,7 +6428,7 @@ A handmade Javascript port of the open-source city simulator Micropolis.
 
 ### [Akhenaten](https://github.com/dalerank/Akhenaten)
 
-A community-built engine recreation for Pharaoh (1999) that runs on modern systems; original Pharaoh and Cleopatra game assets are required.
+Plan and grow an ancient Egyptian city, supplying homes with food and goods, managing trade, and constructing monuments in a Pharaoh-style city builder.
 
 **License:** AGPL-3.0
 
@@ -6778,7 +6778,7 @@ Terminal based C++ programming game
 
 ### [Ikemen GO](https://github.com/ikemen-engine/Ikemen-GO)
 
-A cross-platform fighting-game engine compatible with M.U.G.E.N characters, stages, and other resources, with additional features of its own.
+Create and play customizable 2D fighting matches using M.U.G.E.N-compatible characters, stages, and moves.
 
 **License:** MIT
 
@@ -6933,7 +6933,7 @@ Game or game-related project indexed in a curated GitHub games list.
 
 ### [Quake Source Release](https://github.com/id-Software/Quake)
 
-Quake Source Release
+A dark fantasy first-person shooter where you battle ogres, knights, and monsters through gothic castles and dungeons, collecting four runes to confront an ancient evil.
 
 **License:** GPL-2.0
 
@@ -6953,7 +6953,7 @@ Game or game-related project indexed in a curated GitHub games list.
 
 ### [Doom 3 Source](https://github.com/TTimo/doom3.gpl)
 
-Doom 3 Source
+A horror first-person shooter set on a Mars research base overrun by demons, where you explore dark corridors and fight to survive the invasion.
 
 **License:** GPL-3.0 (and others for excluded code)
 
@@ -7033,7 +7033,7 @@ Xash3D FWGS engine.
 
 ### [Wolfenstein 3D Source](https://github.com/id-Software/wolf3d)
 
-Wolfenstein 3D Source
+Escape Nazi strongholds by navigating maze-like corridors, finding keys and hidden rooms, and shooting guards in a classic first-person shooter.
 
 **License:** GPL-2.0
 
@@ -7053,7 +7053,7 @@ Explore a pseudo-three-dimensional dungeon in the terminal, shooting monsters an
 
 ### [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom)
 
-Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s. Supports a number of games and mods based on the Doom.
+Fight demons through maze-like bases and hellish levels, searching for keys, weapons, and ammunition in classic Doom-style first-person combat.
 
 **License:** GPL-2.0
 
@@ -7383,7 +7383,7 @@ DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark M
 
 ### [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth)
 
-Source port of Descent and Descent II.
+Pilot a spaceship with full six-axis movement through twisting mines, destroying hostile robots and rescuing hostages in Descent and Descent II.
 
 **License:** GPL-3.0, Custom (derived from GPL-3.0)
 
@@ -7483,7 +7483,7 @@ A modern 3D game and engine with portals written in C++.
 
 ### [BStone](https://github.com/bibendovsky/bstone)
 
-A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
+Infiltrate hostile sci-fi bases, battle mutants and alien troops, and uncover hidden rooms in the Blake Stone first-person shooters.
 
 **License:** GPL-2.0
 
@@ -7733,7 +7733,7 @@ The modern binary replacement for QUAKE 4.
 
 ### [Serious Sam Classic: Vulkan](https://github.com/tx00100xt/SeriousSamClassic-VK)
 
-Serious Sam Classic: Vulkan
+Blast through huge waves of bizarre monsters with shotguns, rockets, and cannons in fast-paced first-person battles across ancient Egypt.
 
 **License:** GPL-2.0
 
@@ -7763,7 +7763,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [JFDuke3D](https://github.com/jonof/jfduke3d)
 
-Port of the 3D Realms game Duke Nukem 3D.
+Fight an alien invasion through city streets and secret-filled levels, blasting enemies with powerful weapons in Duke Nukem 3D.
 
 **License:** 
 
@@ -8868,7 +8868,7 @@ Main web site is unavailable.
 
 ### [shapez](https://github.com/tobspr-games/shapez-community-edition)
 
-The community-maintained edition of shapez, a factory-building game about automating geometric shape production; this fork is built for desktop use.
+Build factories of conveyor belts and machines that cut, rotate, and stack geometric shapes to fulfill increasingly complex orders.
 
 **License:** GPL-3.0
 
@@ -11848,7 +11848,7 @@ Source code for the game &quot;Zombie Maraud&quot; by XieneDev
 
 ### [VVVVVV](https://github.com/terrycavanagh/vvvvvv)
 
-The source code to VVVVVV.
+Flip gravity to walk on ceilings, dodge spikes, and rescue lost crewmates in a precision puzzle-platform adventure.
 
 **License:** 
 
@@ -11858,7 +11858,7 @@ The source code to VVVVVV.
 
 ### [Prince of Persia](https://github.com/jmechner/prince-of-persia-apple-ii)
 
-Source code for the original Prince of Persia game that was written on the Apple II, in 6502 assembly language, between 1985-89.
+Race through a trap-filled palace, climbing ledges, dueling guards, and rescuing a princess before time runs out.
 
 **License:** 
 
@@ -11998,7 +11998,7 @@ Action-adventure game, starring a certain quixotic frog.
 
 ### [Jazz² Resurrection](https://github.com/deathkiller/jazz2)
 
-Reimplementation of a cartoon platform game.
+Run and jump through colorful side-scrolling levels, collecting gems and blasting enemies as cartoon rabbits Jazz and Spaz.
 
 **License:** GPL-3.0
 
@@ -12058,7 +12058,7 @@ Platformer teaching hacking concepts through gameplay and educational material.
 
 ### [R.E.L.I.V.E.](https://github.com/AliveTeam/alive_reversing)
 
-Reimplementation of Oddworld: Abe&#039;s Exoddus.
+Guide Abe through dangerous factories, sneak past guards, solve puzzles, and rescue enslaved Mudokons in Oddworld platform adventures.
 
 **License:** MIT
 
@@ -12178,7 +12178,7 @@ Jump through a maze of impossible spaces, follow branching paths, and hunt for h
 
 ### [Kailius](https://github.com/Walkator/kailius)
 
-Kailius
+A 2D platform adventure built around navigating levels, avoiding obstacles, and solving puzzles.
 
 **License:** MIT
 
@@ -12548,7 +12548,7 @@ Platform game about a cow freeing captive hens and fighting butchers.
 
 ### [Infinite Mario Bros](https://github.com/cflewis/Infinite-Mario-Bros)
 
-Infinite Mario Bros
+Run, jump, and dodge enemies through procedurally generated Mario-style platform levels, collecting coins and power-ups along the way.
 
 **License:** 3-clause BSD
 
@@ -12568,7 +12568,7 @@ Small running game done as 1 hour challenge.
 
 ### [ReTux](https://github.com/retux-game/retux)
 
-A Tux-themed platform game with pipes, enemies, level puzzles, checkpoints, and boss encounters.
+Run and jump through Tux-themed platform levels, defeat enemies, solve obstacle puzzles, discover secrets, and overcome bosses.
 
 **License:** GPL-3.0
 
@@ -13633,7 +13633,7 @@ Arrange falling tetrominoes in an ncurses terminal game with pause and a disguis
 
 ### [Unity Tetris](https://github.com/Mukarillo/UnityTetris)
 
-Unity Tetris
+Rotate and drop falling blocks to complete horizontal rows and clear lines in a customizable Tetris-style puzzle game.
 
 **License:** MIT
 
@@ -13693,7 +13693,7 @@ libGDX game based on the original 1010!
 
 ### [Pingus](https://github.com/Pingus/pingus)
 
-A Lemmings-style puzzle game in which you guide groups of penguins through obstacle-filled levels.
+Assign abilities to groups of marching penguins to help them cross hazards, solve obstacles, and reach safety in a Lemmings-style puzzle game.
 
 **License:** GPL-3.0
 
@@ -14233,7 +14233,7 @@ Connect like colors. Play it now!.
 
 ### [planes](https://github.com/xxxcucus/planes)
 
-planes
+Hide aircraft on a grid and deduce where your opponent has placed theirs in a turn-based guessing game inspired by Battleship.
 
 **License:** MIT
 
@@ -14653,7 +14653,7 @@ Slide atoms into place to assemble molecules in GNOME&#039;s puzzle game.
 
 ### [XorCurses](https://github.com/jwm-art-net/XorCurses)
 
-XorCurses
+A terminal-based remake of the 1987 maze-puzzle game XOR, using ASCII graphics and ncurses on Linux.
 
 **License:** GPL-3.0
 
@@ -14993,7 +14993,7 @@ Fully commented version of the famous game - *Simon* - in JavaScript, built usin
 
 ### [Hexalate](https://github.com/gottcode/hexalate)
 
-Hexalate
+A color-matching puzzle game where you rotate and reposition circles until all touching lines match in color.
 
 **License:** GPL-3.0
 
@@ -16178,7 +16178,7 @@ With rally style of driving.
 
 ### [Vange-rs](https://github.com/kvark/vange-rs)
 
-A Rust-based recreation of Vangers focused on its vehicle gameplay and original visual style with hardware-accelerated graphics; original game data is needed.
+Drive unusual vehicles across surreal alien landscapes in a racing and roleplaying world; this project is an evolving recreation of Vangers.
 
 **License:** Apache-2.0
 
@@ -16368,7 +16368,7 @@ Abstract racing game where you fight against the clock and the computer to get a
 
 ### [dRally](https://github.com/urxp/dRally)
 
-Open Source Engine / Death Rally [1996].
+Race armed cars against rivals, earning prize money to upgrade your vehicle while using weapons to gain an edge in Death Rally.
 
 **License:** MIT
 
@@ -16688,7 +16688,7 @@ Steer through traffic in a lightweight browser tribute to classic Atari-style ro
 
 ### [Powerslide remake](https://github.com/dm999/powerslideremake)
 
-Powerslide remake
+Race vehicles across rough open 3D courses, competing against computer-controlled drivers or other players in an arcade-style racer.
 
 **License:** MIT
 
@@ -17053,7 +17053,7 @@ A 3D open Source RTS game.
 
 ### [Keeper FX](https://github.com/dkfans/keeperfx)
 
-Open source remake and Fan Expansion of Dungeon Keeper.
+Dig out an underground dungeon, build rooms, recruit monsters, and set traps to defeat invading heroes.
 
 **License:** GPL-2.0
 
@@ -17063,7 +17063,7 @@ Open source remake and Fan Expansion of Dungeon Keeper.
 
 ### [Godot port:](https://github.com/unknown-horizons/godot-port)
 
-Godot port:
+Grow an island colony by producing goods, balancing supply chains, and trading with other settlements; this Godot adaptation is not yet playable.
 
 **License:** GPL-2.0
 
@@ -17133,7 +17133,7 @@ Program and command forces in a real-time strategy game with missions and an in-
 
 ### [Dune-II---The-Maker](https://github.com/stefanhendriks/Dune-II---The-Maker)
 
-A remake of the classic Dune 2 - The Building of a Dynasty (by Westwood Studios) with several enhancements. Like: higher screenresolutions, zooming, multiselect, skirmish play, etc.
+Harvest spice on Arrakis, build bases, and command infantry and vehicles in real-time battles between rival Houses.
 
 **License:** MIT
 
@@ -17213,7 +17213,7 @@ World War II RTS built for the Spring ecosystem.
 
 ### [Cortex Command Community Project Source](https://github.com/cortex-command-community/Cortex-Command-Community-Project-Source)
 
-Community-driven effort to continue the development of Cortex Command.
+Command soldiers and robots in side-view battles where dropships, explosions, and destructible terrain create chaotic physics-driven combat.
 
 **License:** AGPL-3.0
 
@@ -17698,7 +17698,7 @@ Rhythm is just a *click* away!.
 
 ### [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin)
 
-A music rhythm game featuring button-timing battles, animated characters, and original songs, built with HaxeFlixel.
+Hit notes in time with songs to win rhythm battles against colorful opponents as Boyfriend tries to impress Girlfriend.
 
 **License:** Apache-2.0
 
@@ -17768,7 +17768,7 @@ Osu! client.
 
 ### [Etterna](https://github.com/etternagame/etterna)
 
-A keyboard-focused rhythm game descended from StepMania, featuring in-game multiplayer and an online scoreboard.
+Hit scrolling notes in time with music using keyboard controls, mastering difficult charts and competing for high scores online.
 
 **License:** MIT
 
@@ -17808,7 +17808,7 @@ Practice osu! beatmaps with speed adjustments, chart scrubbing, and configurable
 
 ### [Frets on Fire X](https://github.com/fofix/fofix)
 
-Community rhythm-game fork with guitar-style gameplay.
+Hit notes in time with rock songs on guitar, bass, drums, or vocals, alone or with friends in a customizable rhythm game.
 
 **License:** GPL-2.0
 
@@ -18808,7 +18808,7 @@ An action-adventure role-playing game set in a vast fantasy world.
 
 ### [OpenMW](https://github.com/OpenMW/openmw)
 
-Reimplementation of the Morrowind game engine.
+Explore the island of Vvardenfell, join guilds, complete quests, cast spells, and battle monsters in the open-world fantasy RPG Morrowind.
 
 **License:** AGPL-3.0
 
@@ -18828,7 +18828,7 @@ Open source Old School RuneScape (OSRS) client. :flowerplayingcards:.
 
 ### [Space Station 14](https://github.com/space-wizards/space-station-14)
 
-A multiplayer space-station sandbox about crew interactions, paranoia, sabotage, and chaos, inspired by Space Station 13.
+Take a crew role aboard a multiplayer space station, perform jobs, interact with other players, and survive sabotage, accidents, and chaos.
 
 **License:** MIT
 
@@ -18908,7 +18908,7 @@ Take a station job and survive player-driven disasters, conspiracies, and sabota
 
 ### [OpenGothic](https://github.com/Try/OpenGothic)
 
-Reimplementation of Gothic 2: Night of the Raven.
+Explore the island of Khorinis, join factions, complete quests, and fight monsters in the dark fantasy open-world RPG Gothic II.
 
 **License:** MIT
 
@@ -19088,7 +19088,7 @@ Play Might and Magic VII through a modern reimplementation of its engine.
 
 ### [TES3MP](https://github.com/TES3MP/TES3MP)
 
-Fork of OpenMW
+Explore Morrowind with friends, taking on quests, fighting creatures, and interacting together in a shared fantasy world.
 
 **License:** GPL-3.0
 
@@ -19128,7 +19128,7 @@ Open-source action-RPG engine designed for Zelda-like games.
 
 ### [Barony](https://github.com/TurningWheel/Barony)
 
-The open-source release of Barony, a first-person fantasy dungeon crawler; a purchased copy of the game is still required to play.
+Explore dangerous dungeons, fight monsters, gather loot, and develop RPG classes alone or cooperatively in a first-person fantasy roguelike.
 
 **License:** MIT
 
@@ -19188,7 +19188,7 @@ Final Fantasy VIII engine implementation in C#.
 
 ### [Minicraft+](https://github.com/MinicraftPlus/minicraft-plus-revived)
 
-An expanded Minicraft with survival, creative, hardcore, and score modes, plus crafting, quests, resource packs, and multiplayer.
+Explore a top-down pixel world, mine resources, craft tools, fight monsters, and build a home in survival or creative modes.
 
 **License:** GPL-3.0
 
@@ -19528,7 +19528,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [OPMon](https://github.com/OpMonTeam/OpMon)
 
-An in-development Pokémon-inspired monster-collecting RPG being rebuilt in Godot; the project is not yet fully playable.
+A planned monster-collecting RPG where you explore a new world and train creatures for battles; the game is still in early development.
 
 **License:** GPL-3.0
 
@@ -20653,7 +20653,7 @@ Browser-based falling-sand simulation.
 
 ### [Freeminer](https://github.com/freeminer/freeminer)
 
-Fork of minetest. Home page of project currently empty.
+Dig into a block-built world, gather resources, explore caves, and construct structures in an open-ended sandbox inspired by Minecraft.
 
 **License:** GPL-3.0
 
@@ -21108,7 +21108,7 @@ Dodge intricate bullet patterns in an original Touhou-inspired shooter built for
 
 ### [Godot Third Person Shooter Demo](https://github.com/godotengine/tps-demo)
 
-A playable third-person shooter demo for Godot, showcasing movement, aiming, shooting, and high-quality 3D assets and lighting.
+Move, jump, aim, and fire in a playable third-person 3D shooting scene that demonstrates character movement and combat controls.
 
 **License:** MIT
 
@@ -21118,7 +21118,7 @@ A playable third-person shooter demo for Godot, showcasing movement, aiming, sho
 
 ### [space-shooter.c](https://github.com/tsherif/space-shooter.c)
 
-space-shooter.c
+Pilot a spacecraft through a top-down 2D shoot-em-up, blasting enemies and dodging incoming fire.
 
 **License:** MIT
 
@@ -21148,7 +21148,7 @@ A space-invaders-style arcade shooter with waves, shields, and scoring.
 
 ### [OpenTyrian](https://github.com/opentyrian/opentyrian)
 
-An open-source port of Tyrian from Turbo Pascal to C. :flower_playing_cards:.
+Pilot a fighter through vertically scrolling waves of enemy craft, collect upgrades, and fight bosses in a science-fiction shoot-em-up.
 
 **License:** GPL-2.0
 
@@ -21298,7 +21298,7 @@ Game project listed in a public open-source games catalogue.
 
 ### [Brain / Out](https://github.com/desertkun/brainout)
 
-Brain / Out
+Compete in fast-paced multiplayer gunfights with a gritty post-Soviet military atmosphere.
 
 **License:** MIT
 
@@ -21378,7 +21378,7 @@ Revisit Hexen II through a cross-platform engine port, keeping the fantasy shoot
 
 ### [Antares](https://github.com/arescentral/antares)
 
-Remake of Ares, a tactical space combat game.
+Command spacecraft in tactical space skirmishes, using maneuvering and weapons to complete missions in a science-fiction campaign.
 
 **License:** AGPL-3.0
 
@@ -22038,7 +22038,7 @@ A terminal shooter with movement, enemies, and scoring.
 
 ### [Vectoroids](https://github.com/billkendrick/vectoroids)
 
-Vectoroids
+Steer and rotate a spacecraft through a field of drifting rocks, firing to break them apart while avoiding collisions in an Asteroids-style game.
 
 **License:** GPL-2.0
 
@@ -22373,7 +22373,7 @@ Build a city while balancing its economy, resources, and environmental demands.
 
 ### [Librelancer](https://github.com/librelancer/librelancer)
 
-Reimplementation of the 2003 space game Freelancer.
+Fly between star systems, trade commodities, take missions, and dogfight enemies in a developing recreation of the space game Freelancer.
 
 **License:** 
 
@@ -22413,7 +22413,7 @@ Singleplayer only version of FreeSO.
 
 ### [FreeSpace 2 Source Code Project](https://github.com/scp-fs2open/fs2open.github.com)
 
-FreeSpace2 Source Code Project.
+Pilot starfighters in large-scale space battles, escorting ships and dogfighting enemies through story-driven sci-fi combat missions.
 
 **License:** Unlicense
 
@@ -22903,7 +22903,7 @@ Mini Pets is a digital pet game where you raise a virtual pet by feeding it, pla
 
 ### [ForsakenW](https://github.com/ForsakenW/forsaken)
 
-The Forsaken source code.
+Fly an armed hoverbike through twisting 3D tunnels, collecting power-ups and blasting enemies in six-degree-of-freedom combat.
 
 **License:** MIT
 
@@ -23553,7 +23553,7 @@ Godot football game where you are a pufferfish
 
 ### [VCMI](https://github.com/vcmi/vcmi)
 
-Engine for Heroes III, giving it new and extended possibilities.
+Lead heroes across fantasy adventure maps, capture towns, recruit armies, and fight turn-based tactical battles in Heroes of Might and Magic III.
 
 **License:** GPL-2.0
 
@@ -23603,7 +23603,7 @@ Spiritual successor to Heroes of Might and Magic III focusing on combat; matched
 
 ### [openblack](https://github.com/openblack/openblack)
 
-Reimplementation of Black &amp; White.
+Play as a god who shapes villages, casts miracles, and trains a giant creature; this experimental project aims to recreate Black &amp; White.
 
 **License:** GPL-3.0
 
@@ -23703,7 +23703,7 @@ Clone of the popular RTS. Play it now!.
 
 ### [OpenCiv3](https://github.com/C7-Game/OpenCiv3)
 
-An early-development Godot remake of Civilization III focused on modern platforms and improved modding; many original mechanics are still unfinished.
+Expand a civilization by founding cities, developing technology, managing resources, and fighting turn-based wars in an unfinished Civilization III remake.
 
 **License:** MIT
 
@@ -24143,7 +24143,7 @@ Mech Commander 2 open source engine + OpenGL Linux port.
 
 ### [war1](https://github.com/acoto87/war1)
 
-A remake of Warcraft: Orcs &amp; Humans written in C.
+Harvest gold and lumber, build bases, train troops, and command orc or human armies in real-time Warcraft battles.
 
 **License:** Zlib
 
@@ -25233,7 +25233,7 @@ Raise awareness of environmental pollution in Turkiye through this engaging stra
 
 ### [OpenLRR](https://github.com/vs49688/openlrr)
 
-An open source re-implementation of LEGO Rock Raiders.
+Lead a crew of LEGO miners underground, drilling tunnels, collecting energy crystals, and building a base while avoiding cave hazards.
 
 **License:** 
 
