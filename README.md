@@ -1,5 +1,5 @@
 # Directory of open-source games
-A directory of 3582 open-source games for Linux, FreeBSD, and other platforms.
+A directory of 3572 open-source games for Linux, FreeBSD, and other platforms.
 
 <details>
 <summary>Action (268)</summary>
@@ -3031,16 +3031,6 @@ Steer a boat through a Japanese river valley as the seasons and light change.
 
 ---
 
-### [UchuServer](https://github.com/UchuServer/Uchu)
-
-Host a LEGO Universe server handling missions, achievements and combat, pairing it with an original client modified for this server implementation. May require original game data or assets.
-
-**License:** AGPL-3.0
-
-**Stars:** 93
-
----
-
 ### [Gravity Bone](https://github.com/blendogames/gravitybone)
 
 Carry out covert assignments in a short first-person story set in the strange city of Nuevos Aires. May require original game data or assets.
@@ -3476,6 +3466,16 @@ Time Commando Reimplementation.
 Sneak through a prototype stealth game still under development.
 
 **License:** 
+
+**Stars:** 5
+
+---
+
+### [GoZork](https://github.com/RetroFloppy77/GoZork)
+
+Explore a text adventure inspired by Zork I, entering commands to investigate its world.
+
+**License:** GPL-3.0
 
 **Stars:** 5
 
@@ -6556,11 +6556,11 @@ Survive hordes of skeletons in a casual arcade game inspired by Last War.
 
 ---
 
-### [SliSnake](https://github.com/cricri-pingouin/slisnake)
+### [TAsteroids](https://github.com/nebomuk/TAsteroids)
 
-Guide a growing snake in a clone with configurable speed and playfield size.
+Steer a ship and shoot asteroids in a cross-platform arcade game inspired by the classic Asteroids.
 
-**License:** AGPL-3.0
+**License:** MIT
 
 **Stars:** 3
 
@@ -8379,7 +8379,7 @@ It is a simple retro action arcade game in which you can kill zombies that get o
 </details>
 
 <details>
-<summary>Board / Card (123)</summary>
+<summary>Board / Card (124)</summary>
 
 ### [Lichess](https://github.com/lichess-org/lila)
 
@@ -9596,6 +9596,16 @@ Play tic-tac-toe against changing rules that shift whenever a game ends in a dra
 Clear three peaks of cards by playing cards one rank above or below the waste pile.
 
 **License:** MIT
+
+**Stars:** 0
+
+---
+
+### [Wanderer Dice Farkle Game](https://github.com/MASELKO-95/Wanderer-dice-farkle-game)
+
+Risk another roll or bank your points in a Farkle-inspired dice game with a branching campaign, bot matches and multiplayer.
+
+**License:** CC-BY-NC-4.0
 
 **Stars:** 0
 
@@ -13419,7 +13429,7 @@ Find the Moment. A bible-based MMO game created using Godot and ECS patterns
 </details>
 
 <details>
-<summary>Other / Unclassified (252)</summary>
+<summary>Other / Unclassified (251)</summary>
 
 ### [XL Engine](https://github.com/mindwerks/xlengine)
 
@@ -14286,16 +14296,6 @@ Game made during Space Jam III. Theme &quot;This is not how the SPACE works!&quo
 Play European roulette in a text-based console game.
 
 **License:** GPL-3.0
-
-**Stars:** 2
-
----
-
-### [SliLumns](https://github.com/cricri-pingouin/slilumns)
-
-Match falling colored pieces in a configurable Columns clone.
-
-**License:** AGPL-3.0
 
 **Stars:** 2
 
@@ -15944,7 +15944,7 @@ Source code for the game &quot;Zombie Maraud&quot; by XieneDev
 </details>
 
 <details>
-<summary>Platformer (235)</summary>
+<summary>Platformer (236)</summary>
 
 ### [Super Mario 64 decompilation](https://github.com/n64decomp/sm64)
 
@@ -17156,6 +17156,16 @@ Turn and jump through an endless runner, avoiding obstacles as you go.
 
 ---
 
+### [Escape El Loco](https://github.com/QuentinSauvage/EscapeElLoco)
+
+Guide four linked dragons through a wizard’s tower, moving them together to collect keys and open their doors.
+
+**License:** 
+
+**Stars:** 3
+
+---
+
 ### [Godot-3.1-2D-Platformer](https://github.com/minejockey/godot-3.1-2d-platformer)
 
 WIP 2D platformer that is being written in C# for Godot 3.1
@@ -18299,7 +18309,7 @@ Wizz In Dungeons is a 2D Platformer where you play as a wizard collecting bottle
 </details>
 
 <details>
-<summary>Puzzle (450)</summary>
+<summary>Puzzle (449)</summary>
 
 ### [2048](https://github.com/gabrielecirulli/2048)
 
@@ -18378,16 +18388,6 @@ Fit falling tetrominoes in a configurable browser Tetris game that can also run 
 **License:** MIT
 
 **Stars:** 994
-
----
-
-### [minesweeper-rs](https://github.com/robmikh/minesweeper-rs)
-
-A Windows-specific Rust port of Minesweeper using the Windows API.
-
-**License:** MIT
-
-**Stars:** 819
 
 ---
 
@@ -20571,6 +20571,16 @@ A 2048-style puzzle where merged tiles become procedural architectural landmarks
 
 ---
 
+### [RufasSlider](https://github.com/fastrgv/RufasSlider)
+
+Solve a collection of sliding-block puzzles, including moving a large block to its goal and clearing a path for a red car.
+
+**License:** GPL-3.0
+
+**Stars:** 6
+
+---
+
 ### [wordsearch](https://github.com/jensenpat/wordsearch)
 
 Find hidden words in untimed terminal puzzles across more than a hundred categories, scoring points for each word.
@@ -20911,31 +20921,21 @@ Merge alchemical elements into rows of three or five to score and create explosi
 
 ---
 
+### [Reliquarium](https://github.com/fastrgv/Reliquarium)
+
+Solve four three-dimensional sliding puzzles with a crystal skull theme, rearranging pieces to match a target configuration.
+
+**License:** GPL-3.0
+
+**Stars:** 3
+
+---
+
 ### [SDL2 Sokoban](https://github.com/howprice/sdl2-sokoban)
 
 Push boxes through grid-based levels to place them on their targets in a Sokoban puzzle game.
 
 **License:** MIT
-
-**Stars:** 3
-
----
-
-### [SliMind](https://github.com/cricri-pingouin/slimind)
-
-Guess a hidden color sequence in a configurable Mastermind clone.
-
-**License:** AGPL-3.0
-
-**Stars:** 3
-
----
-
-### [SliMine](https://github.com/cricri-pingouin/slimine)
-
-Clear a configurable minefield in a Minesweeper clone.
-
-**License:** AGPL-3.0
 
 **Stars:** 3
 
@@ -21121,46 +21121,6 @@ Light and protect dungeon torches from gremlins, avoiding exactly thirteen lit t
 
 ---
 
-### [SliLights](https://github.com/cricri-pingouin/SliLights)
-
-Solve Lights Out boards across 100 built-in stages or generate fresh random puzzles.
-
-**License:** GPL-3.0
-
-**Stars:** 2
-
----
-
-### [SliPeg](https://github.com/cricri-pingouin/slipeg)
-
-Remove pegs by jumping them in a solitaire game with English and European boards.
-
-**License:** AGPL-3.0
-
-**Stars:** 2
-
----
-
-### [SliSame](https://github.com/cricri-pingouin/slisame)
-
-Remove groups of matching colors in a configurable Same Game clone.
-
-**License:** AGPL-3.0
-
-**Stars:** 2
-
----
-
-### [SliTris](https://github.com/cricri-pingouin/SliTris)
-
-Clear falling-block puzzles with adjustable starting height, density, speed, and level progression.
-
-**License:** GPL-3.0
-
-**Stars:** 2
-
----
-
 ### [Space Portal](https://github.com/Calada2/Portal)
 
 Escape an alien spaceship by finding three energy orbs and creating portals to navigate the environment.
@@ -21178,6 +21138,16 @@ Connect vertices on a rotating solid to form polygons while avoiding isolated po
 **License:** 
 
 **Stars:** 2
+
+---
+
+### [3D-Puzzles](https://github.com/volatilflerovium/3D-Puzzles)
+
+Twist and solve three-dimensional Rubik’s Cube, Dogic and Dogic12 puzzles.
+
+**License:** LGPL-2.1
+
+**Stars:** 1
 
 ---
 
@@ -21791,6 +21761,16 @@ Help a cat collect ingredients and use witches&#039; cauldrons to progress throu
 
 ---
 
+### [Borrowed Seconds](https://github.com/nearbycoder/BorrowedSeconds)
+
+Freeze moving hazards to get through compact puzzles, then plan for the moment when borrowed time makes you freeze in return.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [BrainTrain404](https://github.com/seglabs-eu/braintrain404)
 
 Select three numbers that add up to 404, solving faster as the levels progress.
@@ -22226,6 +22206,16 @@ Guide lemming-like unicorns to a rainbow using their available abilities.
 Rotate pipes in a terminal grid to carry colored flows from sources to drains and meet their demand.
 
 **License:** GPL-2.0
+
+**Stars:** 0
+
+---
+
+### [Lost & Found](https://github.com/nearbycoder/LostAndFound)
+
+Run a railway-station lost-property desk, inspecting belongings and deciding which items should be returned to their claimants.
+
+**License:** 
 
 **Stars:** 0
 
@@ -22671,6 +22661,16 @@ Fill number grids so each row, column and box contains one through nine, with th
 
 ---
 
+### [Super Hangman Legend](https://github.com/teegre/super-hangman-legend)
+
+Guess a hidden word letter by letter in a terminal hangman game, with difficulty choices and a score board.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
 ### [The Black Hole](https://github.com/ItachiHyuga/The-Black-Hole-game)
 
 Steer a growing black hole to devour planets across eighteen levels without touching the edges.
@@ -22804,7 +22804,7 @@ Shoot orbs to reverse colors and clear rows in a falling-block puzzle featuring 
 </details>
 
 <details>
-<summary>Racing (106)</summary>
+<summary>Racing (104)</summary>
 
 ### [SuperTuxKart](https://github.com/supertuxkart/stk-code)
 
@@ -23026,16 +23026,6 @@ Race a six-axis spacecraft through checkpoints and chase recorded ghosts across 
 
 ---
 
-### [Reburn 3](https://github.com/reburndev/reburn3)
-
-A work-in-progress open source reimplementation of Burnout 3: Takedown.
-
-**License:** 
-
-**Stars:** 196
-
----
-
 ### [Yorg](https://github.com/cflavio/yorg)
 
 An open-source 3D racing game built using Panda3D, available on Linux, Windows, and macOS.
@@ -23053,16 +23043,6 @@ A prehistoric kart racer with unusual vehicles and weapons, computer opponents, 
 **License:** CC-BY-SA-4.0
 
 **Stars:** 178
-
----
-
-### [OpenMC2](https://github.com/OpenMC2/OpenMC2)
-
-Run Midnight Club 2 with a partial open-source reimplementation that replaces some functions while relying on the installed original executable and game files. May require original game data or assets.
-
-**License:** GPL-3.0
-
-**Stars:** 174
 
 ---
 
@@ -23496,16 +23476,6 @@ Race vehicles across rough open 3D courses, competing against computer-controlle
 
 ---
 
-### [retruxx](https://github.com/mindflower/retruxx)
-
-Reverse engineered Hard Truck Apocalypse.
-
-**License:** 
-
-**Stars:** 6
-
----
-
 ### [Apex Formula](https://github.com/bridge-mind/apex-formula)
 
 A procedural Formula-style browser racer with circuits, rival drivers, and synthesized sound.
@@ -23716,6 +23686,16 @@ Race a droid through abandoned locations, aiming for first place to unlock the n
 
 ---
 
+### [APEX / ROAD](https://github.com/lab1702/apex-road)
+
+Race against the clock from the driver’s seat on stylized 3D roads, balancing speed and tire grip and designing courses in text files.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
 ### [F1 Racing Game](https://github.com/hirosichen/ai-f1-racing-game)
 
 A browser Formula-style race with twenty cars, lap timing, DRS, and AI drivers.
@@ -23869,7 +23849,7 @@ Race a unicorn in time trials, derby and endless modes, earning coins for perman
 </details>
 
 <details>
-<summary>Real-Time Strategy (RTS) (86)</summary>
+<summary>Real-Time Strategy (RTS) (84)</summary>
 
 ### [OpenRA](https://github.com/openra/openra)
 
@@ -24028,16 +24008,6 @@ Grow an island colony by producing goods, balancing supply chains, and trading w
 **License:** GPL-2.0
 
 **Stars:** 912
-
----
-
-### [Thyme](https://github.com/TheAssemblyArmada/Thyme)
-
-Run Command and Conquer Generals Zero Hour through a replacement engine that keeps the original installation while rebuilding its RTS code.
-
-**License:** GPL-2.0-or-later
-
-**Stars:** 697
 
 ---
 
@@ -24468,16 +24438,6 @@ An early, not-yet-complete reimplementation of the Warrior Kings: Battles strate
 **License:** AGPL-3.0
 
 **Stars:** 22
-
----
-
-### [wkbre](https://github.com/adrientd/wkbre)
-
-An engine reimplementation that can load and render Warrior Kings: Battles levels but is not yet a complete game.
-
-**License:** AGPL-3.0
-
-**Stars:** 20
 
 ---
 
@@ -25229,7 +25189,7 @@ Listen to melodies played by slimes and repeat them using a keyboard or MIDI dev
 </details>
 
 <details>
-<summary>Roguelike / Roguelite (124)</summary>
+<summary>Roguelike / Roguelite (126)</summary>
 
 ### [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
 
@@ -25771,6 +25731,16 @@ Fight, salvage parts and repair a robot in an ASCII roguelike.
 
 ---
 
+### [The Dungeon of Sin](https://github.com/RetroFloppy77/The_Dungeon_of_Sin)
+
+Explore a fantasy roguelike inspired by Angband and Dwarf Fortress.
+
+**License:** GPL-3.0
+
+**Stars:** 9
+
+---
+
 ### [canvas-vampire-survivors](https://github.com/ricardo-foundry/canvas-vampire-survivors)
 
 A roguelike bullet-heaven survivor game built with pure HTML5 Canvas and vanilla JavaScript. Zero dependencies, runs in any modern browser.
@@ -26221,6 +26191,16 @@ Collect emoji cards, build a deck and play combinations in a satirical roguelike
 
 ---
 
+### [ChamberCrawler3000](https://github.com/abc1203/ChamberCrawler3000)
+
+Fight through five dungeon floors, collecting gold and searching enemies for the compass that reveals each exit.
+
+**License:** 
+
+**Stars:** 0
+
+---
+
 ### [Chromatic Crawl](https://github.com/sdeseille/chromatic-crawl)
 
 Explore a dungeon to recover a leprechaun&#039;s stolen pots of gold from the Moon Folk.
@@ -26474,7 +26454,7 @@ Explore a small dungeon with text or ASCII controls, fight creatures and retriev
 </details>
 
 <details>
-<summary>RPG (176)</summary>
+<summary>RPG (172)</summary>
 
 ### [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
 
@@ -26816,16 +26796,6 @@ Delver&#039;s open-source game runtime and editor, with dungeon generation, mons
 
 ---
 
-### [Darkflame Universe](https://github.com/DarkflameUniverse/DarkflameServer)
-
-Run a LEGO Universe server recreation with its documented single-player setup or server configuration, pairing it with a separately obtained original client. May require original game data or assets.
-
-**License:** AGPL-3.0
-
-**Stars:** 761
-
----
-
 ### [Solarus](https://github.com/solarus-games/solarus)
 
 Open-source action-RPG engine designed for Zelda-like games.
@@ -27033,16 +27003,6 @@ MUD client. A [MUD client](https://en.wikipedia.org/wiki/MUD_client)
 **License:** GPL-3.0
 
 **Stars:** 263
-
----
-
-### [Magical Life](https://github.com/TBye101/MagicalLife)
-
-Mine resources, construct buildings and manage an inventory in an unfinished fantasy sandbox with experience progression and multiplayer support.
-
-**License:** MIT
-
-**Stars:** 256
 
 ---
 
@@ -27556,16 +27516,6 @@ Play Ultima V with a modern engine for browser and desktop; it requires game dat
 
 ---
 
-### [Deathlord Relorded](https://github.com/hasseily/Deathlord-Relorded)
-
-Revisit Deathlord with a modified Apple II emulation layer that improves presentation and removes several mechanics that encouraged repeated save reloading. May require original game data or assets.
-
-**License:** AGPL-3.0
-
-**Stars:** 29
-
----
-
 ### [Thirdeye](https://github.com/psi29a/thirdeye)
 
 Reimplementation of AESOP that runs Eye of the Beholder 3 and Dungeon Hack.
@@ -27621,16 +27571,6 @@ Attempt the seemingly simple quest of renewing a passport in a satirical pixel R
 Plant crops, work the farm with watering and harvesting tools, and progress through days and seasons in an early farming simulation.
 
 **License:** GPL-3.0
-
-**Stars:** 21
-
----
-
-### [LOZ](https://github.com/aldonunez/Loz)
-
-Play a C++ recreation of The Legend of Zelda after extracting graphics and game tables from your own ROM with the project&#039;s accompanying tools. May require original game data or assets.
-
-**License:** Apache-2.0
 
 **Stars:** 21
 
@@ -28864,7 +28804,7 @@ A browser voxel sandbox with procedural terrain, biomes, crafting, and explorati
 </details>
 
 <details>
-<summary>Shooter (189)</summary>
+<summary>Shooter (190)</summary>
 
 ### [Descent 3](https://github.com/descentdevelopers/descent3)
 
@@ -29603,6 +29543,16 @@ Fly and shoot through levels in a Java remake of the classic game Tyrian.
 **License:** AGPL-3.0
 
 **Stars:** 14
+
+---
+
+### [Antsy Alien Attack Pico](https://github.com/wimpysworld/antsy-alien-attack-pico)
+
+Fly a fighter through vertically scrolling alien attacks, collecting power-ups to strengthen your weapons and recharge your ship.
+
+**License:** MIT
+
+**Stars:** 12
 
 ---
 
@@ -30759,7 +30709,7 @@ Survive escalating waves of zombies in a top-down arcade shooter, upgrading from
 </details>
 
 <details>
-<summary>Simulation (128)</summary>
+<summary>Simulation (126)</summary>
 
 ### [Endless Sky](https://github.com/endless-sky/endless-sky)
 
@@ -30888,16 +30838,6 @@ Is it really a game or rather a neutral technology platform?.
 **License:** Apache-2.0
 
 **Stars:** 542
-
----
-
-### [Simitone](https://github.com/riperiperi/simitone)
-
-Play The Sims with an alternative frontend based on FreeSO; it requires a legitimate copy of The Sims: Complete Collection and has incomplete features.
-
-**License:** MPL-2.0
-
-**Stars:** 502
 
 ---
 
@@ -31038,16 +30978,6 @@ An OpenGL and C++ engine remake for Silent Hill 3.
 **License:** AGPL-3.0
 
 **Stars:** 188
-
----
-
-### [FreeFalcon](https://github.com/freefalcon/freefalcon-central)
-
-Fly combat missions in a campaign-based multiplayer flight simulator derived from Falcon 4.0.
-
-**License:** BSD-2-Clause
-
-**Stars:** 181
 
 ---
 
@@ -32509,7 +32439,7 @@ Perform backflips and wheelies over hills to build combos and create rainbows.
 </details>
 
 <details>
-<summary>Strategy (192)</summary>
+<summary>Strategy (189)</summary>
 
 ### [VCMI](https://github.com/vcmi/vcmi)
 
@@ -33051,16 +32981,6 @@ Build and manage a settlement in a remake of The Settlers; original DOS or Amiga
 
 ---
 
-### [Chronoshift](https://github.com/TheAssemblyArmada/Chronoshift)
-
-Command armies and build bases in Red Alert through a partial engine rewrite that delegates missing functions to the original executable. May require original game data or assets.
-
-**License:** GPL-2.0-or-later with linking exception
-
-**Stars:** 175
-
----
-
 ### [Zetawar](https://github.com/zetawar/zetawar)
 
 Successful Kickstarter project.
@@ -33421,16 +33341,6 @@ Open Source Dungeon Keeper 2 Reimplementation.
 
 ---
 
-### [Dungeon Keeper Remake](https://github.com/themperror/dungeon-keeper-remake)
-
-A modern remake of Dungeon Keeper.
-
-**License:** 
-
-**Stars:** 39
-
----
-
 ### [OpenSGolf](https://github.com/crspytopgn/opensgolf)
 
 Clean-room reimplementation of Sid Meier&#039;s SimGolf (2002) in Rust for Windows, macOS, Linux, Android and the browser; uses your own SimGolf files or its free art set. :flower_playing_cards:.
@@ -33458,16 +33368,6 @@ Set village objectives and watch residents gather, construct, recruit, and fight
 **License:** MIT
 
 **Stars:** 35
-
----
-
-### [EmperorReborn](https://github.com/azmawee/emperorreborn)
-
-Play Emperor: Battle for Dune on Windows 10 and 11 with real 16:9 widescreen, fullscreen and working multiplayer. Free, open-source launcher and patcher for the Westwood Dune RTS.
-
-**License:** 
-
-**Stars:** 30
 
 ---
 
