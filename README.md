@@ -1,5 +1,5 @@
 # Directory of open-source games
-A directory of 3572 open-source games for Linux, FreeBSD, and other platforms.
+A directory of 3580 open-source games for Linux, FreeBSD, and other platforms.
 
 <details>
 <summary>Action (268)</summary>
@@ -10529,7 +10529,7 @@ Fight through enemies in a beat &#039;em up, using punches, kicks and blocks whi
 </details>
 
 <details>
-<summary>First-Person Shooter (FPS) (180)</summary>
+<summary>First-Person Shooter (FPS) (178)</summary>
 
 ### [Doom](https://github.com/id-software/doom)
 
@@ -11041,16 +11041,6 @@ Fun-filled new take on the first person arena shooter, featuring parkour, impuls
 
 ---
 
-### [MadnessPatch](https://github.com/wemino/madnesspatch)
-
-A patch that fixes various issues in the PC port of Alice: Madness Returns.
-
-**License:** GPL-2.0
-
-**Stars:** 456
-
----
-
 ### [ezQuake](https://github.com/ezquake/ezquake-source)
 
 Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play.
@@ -11331,6 +11321,16 @@ Blast through huge waves of bizarre monsters with shotguns, rockets, and cannons
 
 ---
 
+### [Avara](https://github.com/avaraline/avara)
+
+Pilot a bipedal tank in fast-paced 3D multiplayer battles in this Linux-compatible port of the 1996 first-person action game.
+
+**License:** MIT
+
+**Stars:** 152
+
+---
+
 ### [acr](https://github.com/acreloaded/acr)
 
 AssaultCube Reloaded (first-person-shooter game)
@@ -11408,16 +11408,6 @@ Play and modify Doom with an enhanced source port designed for flexible modding 
 **License:** AGPL-3.0
 
 **Stars:** 104
-
----
-
-### [Allegiance](https://github.com/freeallegiance/allegiance)
-
-Allegiance is RTS and FPS Space Combat game.
-
-**License:** MIT
-
-**Stars:** 103
 
 ---
 
@@ -12206,16 +12196,6 @@ NaxcivanCS - Competitive multiplayer tactical FPS (Godot 4 + C#, server-authorit
 Free open-source browser RTS spanning six epochs, from clubmen to nuclear submarines. Rust + WebAssembly + WebGL2, thousands of units at 60 fps.
 
 **License:** MIT
-
-**Stars:** 1
-
----
-
-### [OpenXOPS](https://github.com/xops-mikan/openxops)
-
-OpenXOPS is free, open-source, offline FPS(First-person shooter) game. It is based on X operations, a Japanese freeware FPS released by Team MITEI in 2003. Official source code is managed with Subversion (SVN).
-
-**License:** 
 
 **Stars:** 1
 
@@ -16326,16 +16306,6 @@ Play Commander Keen and Cosmos Cosmic Adventures episodes and mods with an open-
 
 ---
 
-### [Secret Maryo Chronicles](https://github.com/secretchronicles/smc)
-
-Explore a 2D side-scrolling platform game and create custom levels with its scriptable editor.
-
-**License:** AGPL-3.0
-
-**Stars:** 223
-
----
-
 ### [The Secret Chronicles of Dr. M.](https://github.com/secretchronicles/TSC)
 
 Explore a side-scrolling platformer and create new levels with its editor.
@@ -16573,6 +16543,16 @@ A modern engine for Cosmo&#039;s Cosmic Adventure; a copy of the original game i
 **License:** GPL-2.0
 
 **Stars:** 66
+
+---
+
+### [Reverie Amidst Ruins](https://github.com/bahamas10/reverie-amidst-ruins)
+
+Jump through 2D platforming levels and collect coins in a game rendered inside a compatible graphics-capable terminal.
+
+**License:** MIT
+
+**Stars:** 64
 
 ---
 
@@ -18309,7 +18289,7 @@ Wizz In Dungeons is a 2D Platformer where you play as a wizard collecting bottle
 </details>
 
 <details>
-<summary>Puzzle (449)</summary>
+<summary>Puzzle (452)</summary>
 
 ### [2048](https://github.com/gabrielecirulli/2048)
 
@@ -18838,6 +18818,16 @@ Play a browser recreation of Lemmings that reads original game binaries and inte
 **License:** MIT
 
 **Stars:** 109
+
+---
+
+### [Legend of Swarkland](https://github.com/thejoshwolfe/legend-of-swarkland)
+
+Solve turn-based fantasy puzzles by navigating dangerous creatures and traps, with wounds, movement and transformations affecting each encounter.
+
+**License:** MIT
+
+**Stars:** 107
 
 ---
 
@@ -20971,6 +20961,16 @@ Arrange numbered tiles so touching edges match in a native macOS recreation of t
 
 ---
 
+### [Tuxmino](https://github.com/masonarmand/tuxmino)
+
+Stack falling blocks and clear lines in an early-stage arcade-style puzzle game with two rotation systems and customizable Lua game modes.
+
+**License:** MIT
+
+**Stars:** 3
+
+---
+
 ### [XIII Floor](https://github.com/malec-palec/xiii-floor)
 
 Solve an elevator puzzle by managing two linked lifts and the building&#039;s load restrictions.
@@ -21096,6 +21096,16 @@ Place pipes to create a path for water in a browser-based Pipe Dream clone.
 Reveal safe squares and flag mines on classic Minesweeper boards, with a deduction-based hint system and best times.
 
 **License:** MIT
+
+**Stars:** 2
+
+---
+
+### [Quadris](https://github.com/franklixuefei/quadris)
+
+Play a command-driven falling-block puzzle game, typing moves and rotations to clear lines in a terminal or an X11 window.
+
+**License:** 
 
 **Stars:** 2
 
@@ -22804,7 +22814,7 @@ Shoot orbs to reverse colors and clear rows in a falling-block puzzle featuring 
 </details>
 
 <details>
-<summary>Racing (104)</summary>
+<summary>Racing (103)</summary>
 
 ### [SuperTuxKart](https://github.com/supertuxkart/stk-code)
 
@@ -23416,16 +23426,6 @@ Tune a car and race against ghost replays in an unfinished 3D driving game with 
 
 ---
 
-### [Interstate 82 Widescreen Fix](https://github.com/sputnikkaputtnik/interstate82-widescreen-4k-fix)
-
-Critical fixes to the game Interstate 82.
-
-**License:** MIT
-
-**Stars:** 12
-
----
-
 ### [Demolition Derby](https://github.com/drcollect/demolition-derby)
 
 Survive a figure-eight race or become the last car running in a demolition bowl.
@@ -23849,7 +23849,7 @@ Race a unicorn in time trials, derby and endless modes, earning coins for perman
 </details>
 
 <details>
-<summary>Real-Time Strategy (RTS) (84)</summary>
+<summary>Real-Time Strategy (RTS) (82)</summary>
 
 ### [OpenRA](https://github.com/openra/openra)
 
@@ -23878,16 +23878,6 @@ Build Allied or Soviet bases and direct armies through Red Alert and its classic
 **License:** AGPL-3.0
 
 **Stars:** 6,704
-
----
-
-### [Generals](https://github.com/electronicarts/cnc_generals_zero_hour)
-
-Command &amp; Conquer Generals, and its expansion pack Zero Hour.
-
-**License:** AGPL-3.0
-
-**Stars:** 4,742
 
 ---
 
@@ -23958,16 +23948,6 @@ Command &amp; Conquer Generals: Zero Hour running natively on macOS, iPhone &amp
 **License:** AGPL-3.0
 
 **Stars:** 1,714
-
----
-
-### [Command & Conquer Renegade](https://github.com/electronicarts/cnc_renegade)
-
-Fight through the Command &amp; Conquer universe on foot, using infantry weapons and vehicles.
-
-**License:** AGPL-3.0
-
-**Stars:** 1,632
 
 ---
 
@@ -25189,7 +25169,7 @@ Listen to melodies played by slimes and repeat them using a keyboard or MIDI dev
 </details>
 
 <details>
-<summary>Roguelike / Roguelite (126)</summary>
+<summary>Roguelike / Roguelite (131)</summary>
 
 ### [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
 
@@ -25671,6 +25651,16 @@ Godot 4.3 制作的回合制像素 Roguelite：路线探索、装备构筑与强
 
 ---
 
+### [helapordo](https://github.com/jgabaut/helapordo)
+
+Explore generated floors in a terminal roguelike, fighting enemies and bosses while finding shops and treasure rooms.
+
+**License:** GPL-3.0
+
+**Stars:** 27
+
+---
+
 ### [Rot Magus](https://github.com/kosinaz/rot-magus)
 
 Explore an endless map, fight monsters and use items and spells in a browser-based remake of the roguelike Magus.
@@ -25688,6 +25678,16 @@ Choose a character and survive waves of enemies, collecting experience and upgra
 **License:** 
 
 **Stars:** 24
+
+---
+
+### [PZDC dungeon 2](https://github.com/krillan49/PZDC_dungeon_2)
+
+Fight through three turn-based dungeons with different characters, equipment and skills, using points from each run to improve your camp for future attempts.
+
+**License:** MIT
+
+**Stars:** 21
 
 ---
 
@@ -25728,6 +25728,16 @@ Fight, salvage parts and repair a robot in an ASCII roguelike.
 **License:** GPL-2.0-only
 
 **Stars:** 13
+
+---
+
+### [Dunshell](https://github.com/gabrielbotandev/dunshell)
+
+Descend 20 dungeon floors in a terminal roguelike, fighting bosses, choosing routes and collecting gear before tackling an optional endless mode.
+
+**License:** PolyForm-Noncommercial-1.0.0
+
+**Stars:** 10
 
 ---
 
@@ -26021,6 +26031,16 @@ Explore procedurally generated floors in a turn-based roguelike, securing each k
 
 ---
 
+### [gaem](https://github.com/klp2/gaem-releases)
+
+Create a character and descend a procedurally generated dungeon in a turn-based terminal roguelike, unlocking upgrades and character options between runs.
+
+**License:** 
+
+**Stars:** 1
+
+---
+
 ### [Goblin](https://github.com/bearmade/Goblin-Linux)
 
 Explore a minimal roguelike world, fighting goblins, trading their remains and growing stronger at inns and mentors.
@@ -26256,6 +26276,16 @@ Pick one of six classes and fight through a turn-based dungeon, developing skill
 Choose a hero and descend 26 procedurally generated dungeon floors, gathering equipment and fighting bosses in turn-based combat.
 
 **License:** GPL-3.0
+
+**Stars:** 0
+
+---
+
+### [DungeonCrawler](https://github.com/J4ck4b14/DungeonCrawler)
+
+Descend an endless procedural dungeon, manage equipment and defend against enemy attacks with timed inputs, then decide when to escape with your progress.
+
+**License:** 
 
 **Stars:** 0
 
@@ -26583,16 +26613,6 @@ Explore Diablo&#039;s town and dungeon, fight monsters and trade loot in an earl
 **License:** GPL-3.0
 
 **Stars:** 2,170
-
----
-
-### [Space Station 13](https://github.com/tgstation/tgstation)
-
-Take a station job and survive player-driven disasters, conspiracies, and sabotage in round-based space roleplay.
-
-**License:** AGPL-3.0
-
-**Stars:** 1,943
 
 ---
 
@@ -27393,6 +27413,16 @@ Party-based fantasy roguelike role-playing game.
 **License:** Apache-2.0
 
 **Stars:** 61
+
+---
+
+### [OpenGlad](https://github.com/openglad/openglad)
+
+Lead gladiators through fast-paced top-down fantasy battles across campaigns and versus modes, with local and networked multiplayer and a scenario editor.
+
+**License:** GPL-2.0
+
+**Stars:** 60
 
 ---
 
@@ -28804,7 +28834,7 @@ A browser voxel sandbox with procedural terrain, biomes, crafting, and explorati
 </details>
 
 <details>
-<summary>Shooter (190)</summary>
+<summary>Shooter (191)</summary>
 
 ### [Descent 3](https://github.com/descentdevelopers/descent3)
 
@@ -29003,16 +29033,6 @@ Id Software&#039;s Id-tech-4-BFG ported to Ada.
 **License:** GPL-3.0
 
 **Stars:** 287
-
----
-
-### [Miner Wars 2081](https://github.com/keensoftwarehouse/miner-wars-2081)
-
-For modders of Miner Wars 2081, a 6DOF action-survival space-shooter simulation-game set in the year 2081.
-
-**License:** 
-
-**Stars:** 261
 
 ---
 
@@ -29526,6 +29546,16 @@ Assets license unclear.
 
 ---
 
+### [Tanks](https://github.com/sausheong/tanks)
+
+Drive a tank in a real-time multiplayer arena deathmatch, hosting a server and connecting players over a network.
+
+**License:** 
+
+**Stars:** 14
+
+---
+
 ### [Thugaim](https://github.com/meoblast001/thugaim)
 
 Pilot a ship in a simple Android space shooter.
@@ -29751,6 +29781,16 @@ Top-down shooter for two players with game controllers
 Battle human or computer-controlled opponents in a two-dimensional space shooter with physics-driven combat, protecting your planet from rival civilizations.
 
 **License:** GPL-3.0-or-later
+
+**Stars:** 5
+
+---
+
+### [Space-Love](https://github.com/RafaelWO/space-love)
+
+Pilot a spaceship and fire at enemies in a simple arcade space shooter; the Linux version runs with the LÖVE runtime.
+
+**License:** MIT
 
 **Stars:** 5
 
@@ -32439,7 +32479,7 @@ Perform backflips and wheelies over hills to build combos and create rainbows.
 </details>
 
 <details>
-<summary>Strategy (189)</summary>
+<summary>Strategy (190)</summary>
 
 ### [VCMI](https://github.com/vcmi/vcmi)
 
@@ -34291,6 +34331,16 @@ Lead a nation in thirteenth-century Britain, using armies and diplomats to conqu
 
 ---
 
+### [Terminus](https://github.com/kushal-DL/terminus)
+
+Manage a colony in a multiplayer terminal strategy game: allocate workers, trade resources, build defenses and try to survive a series of catastrophes.
+
+**License:** MIT
+
+**Stars:** 0
+
+---
+
 ### [terra-concordia-public](https://github.com/terraconcordiagame/terra-concordia-public)
 
 Press kit, release notes &amp; community resources for Terra Concordia — a digital eurogame by NCB Company.
@@ -35084,7 +35134,7 @@ Build and combine magical towers to defend a unicorn castle from endless waves a
 </details>
 
 <details>
-<summary>Turn-Based Strategy (78)</summary>
+<summary>Turn-Based Strategy (81)</summary>
 
 ### [Unciv](https://github.com/yairm210/Unciv)
 
@@ -35163,6 +35213,16 @@ Freeciv is a Free and Open Source empire-building strategy game inspired by the 
 **License:** GPL-2.0
 
 **Stars:** 1,619
+
+---
+
+### [Zemeroth](https://github.com/ozkriff/zemeroth)
+
+Command a small squad in turn-based hex-grid skirmishes, using abilities and reaction attacks while recruiting and upgrading fighters between campaign battles.
+
+**License:** MIT OR Apache-2.0
+
+**Stars:** 1,464
 
 ---
 
@@ -35416,6 +35476,16 @@ In the style of classics such as Microprose&#039;s Master of Orion 2 or ST: Birt
 
 ---
 
+### [Zatikon](https://github.com/zatikon/zatikon)
+
+Draft a fantasy army and maneuver its units across a chess-like board in turn-based battles, playing solo or against other players.
+
+**License:** AGPL-3.0
+
+**Stars:** 18
+
+---
+
 ### [Hase](https://github.com/theZiz/hase)
 
 Trade artillery shots between space hares while accounting for gravity that changes with location.
@@ -35661,6 +35731,16 @@ Smashing more monsters than ever in this turn-based dungeon crawling game.
 Medieval winter setting.
 
 **License:** MIT
+
+**Stars:** 1
+
+---
+
+### [GeoPolitical Domination](https://github.com/entity12208/GeoPoliticalDomination)
+
+Conquer countries in a turn-based world strategy game: recruit troops, earn continent bonuses and battle bots locally or friends online.
+
+**License:** 
 
 **Stars:** 1
 
